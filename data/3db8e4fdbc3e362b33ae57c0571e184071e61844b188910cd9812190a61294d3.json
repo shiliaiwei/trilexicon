@@ -1,0 +1,1591 @@
+[
+  {
+    "code": "0d12d747dfcb657fe451944ee19b876be2aa17718fff5d237dcf5b1bb1228bf5",
+    "khmer_term": "b593de7022f58e15fbcd42c96508dc6175bc23324555589f063768abd1f2075c",
+    "english_term": "90920d93e2c7e6323a947c6edb0e31a9702002e329af32a67fea53f221983cb0",
+    "french_term": "30556a7a38a54f7935b69b5d80d7f577dc5b1430b12689538d78929950b213a0",
+    "definition": "cecf3b16849fcd31ad67f3d8d0f7ef0e3e44847320fc2219cfaec53401d92fba"
+  },
+  {
+    "code": "b69ef757b1afe780ba8259c09deaa25d4e09599e2c767ea78aebbf59d0b54a25",
+    "khmer_term": "aff8afc8163c4bde74c2181407b5b72d60760c7fbdfc6b1ac5b353d66b0abde3",
+    "english_term": "86ea18ede07cf8eddae45f24ce98e4ca5fcf573188526ff17c7afa78a3cb6695",
+    "french_term": "45ff428b7858be78908a8ffb22fe148ec87e8d8a234eab053806d4b4e1b45218",
+    "definition": "1aaba4c511c2a9258778e4fbe70e76c5420ca7bad08a8cb341f789f848add72f"
+  },
+  {
+    "code": "a85759db39953a31ce9db91fa4fb6eee6288b69bbd15c4006e71c1e1c297bc47",
+    "khmer_term": "de4b3391e84a6a9d8ce23f3587963219aa368a5fc1863f9caf91bd7b710661a9",
+    "english_term": "75d4d944d0d9b0f37f3d3c3571d8a463e987268fb0af79e93a62e50b3f20fdb1",
+    "french_term": "9e53f0a038013cc21844f2d966d5701dcdedb67f91f6f7c03c027bceda041601",
+    "definition": "e6f478c75f1bc49ee6ac7f85a825362171a3825196867319a1f1b059e2b93667"
+  },
+  {
+    "code": "2931bab57060b1d94b4c472a6cc7d7d9e5fa4d84a626d5f6d21013f83db0ae5e",
+    "khmer_term": "b38ea9b410a4f8c5656505d89b708021d88eeeed39de8317f75bf2c9c91579f5",
+    "english_term": "315bbb7d72bd1fe06b873ec06441b6421461408be0dba4206d3b5a578e99cc34",
+    "french_term": "974c110f22453dcf9535c0f95f8894483eafebe9e35c8b513ab452e37d390477",
+    "definition": "7e1bde613e4a14af46c3ac29bc9dfddd57ab3506e418515d4074cc005d258791"
+  },
+  {
+    "code": "9c643f086e28c0d405ecf0f182b68cd4dacacfb025b731d81c7dfb233c430e90",
+    "khmer_term": "b879a24f20041ae101f5dff887ddc578732db181491877ad2259b32aeda2abfc",
+    "english_term": "f6f1e0288cb6099993392d2daf55557c8db8706e62a5da2bc6a92d1feceb7849",
+    "french_term": "d5b4e74c7f19541f2798c5a2d59319bfdeb3326582ecf7a91f4cc103e2689f01",
+    "definition": "7b5ee32fc9c3a650c16b4bbf880ee0fb4b11e43eef6bdf0fe76dae93dd9c431d"
+  },
+  {
+    "code": "ee6681002aa20e428d48f5c96d90242ff86ce38c76c8c3b002d268541751481f",
+    "khmer_term": "5464a23436a2392cdf72d6a55a3aa9dafabdbf929cf6b666ce17f9b2a590ef9f",
+    "english_term": "dc1ac6657ae895726de66503870a638c674eb6a4c7aaee4a61aba9a860882fbd",
+    "french_term": "48c746d55cdc85e5c36827578be8ebfc487d96f533b7c67a1ffb44e4eb6595ec",
+    "definition": "8f4daa08709a1fd130141b7db6c8135db7871ebaac541a49ea315a3533e8507d"
+  },
+  {
+    "code": "79e992b276a30724a41a9afc43a9b8051404a69c10b1cb6f18d73335d7bf013a",
+    "khmer_term": "854dc3ce3ea6aee7f184055a89135ebc074c0c3ea1fa7f289c1852e5ae7ade8c",
+    "english_term": "f190a5cb3aff17b0ee84f6ee258333d63a9cc71aa66c2e1788ebc3ae24a89b10",
+    "french_term": "975e459f2de39056970c237a54158825f81081a859d9c10ebc3f0ccf68b4b51e",
+    "definition": "e060e7159588c99ded2b270008a351c8e78279e3b08dcd2284197b8f8be3d281"
+  },
+  {
+    "code": "afcfc486da223f70f3914df87bf2e8af066bac1724d755996c51623050660925",
+    "khmer_term": "f4b04b5fa5054b6e291b4b000c15c529797dc16d93b785c0845dbcfafc73020f",
+    "english_term": "361ccf44d9f15c03c554a2722f19a021cbf05caee49544a82793f10435dfb969",
+    "french_term": "45333b28d2a9e55117e6e86304527381df173de19fb1b9f54ab34828a70ecc5a",
+    "definition": "441fb24474a1debef0b96607a01c232ede20ef52dc5c4f1de86cc10cfc620801"
+  },
+  {
+    "code": "2fb882636f1764def17f0af798d89f60fdafb797747060d17d18b18534d93aa8",
+    "khmer_term": "e2b5d1c782bef4be6261133b2deff3d6681996084f93070d21ed6da7ad49cf3f",
+    "english_term": "c98abfe201b72694d61ef9e439bf856bfd6bce8f8e78274ae85fdac656a3f4f3",
+    "french_term": "5cfdd0f97c39c9f601546990a8aa1970c2a8e5e9b1d0cec989aa7e2f3f0ade5b",
+    "definition": "608254ee2ffedc4ee2d0c807110e2fd12e8399c6e6d024eb63b77d44af100a8e"
+  },
+  {
+    "code": "7cc5fa99ecb5e15403f6ad84a0a01897d3c304b43b065d878399d6fd5b3ec0f3",
+    "khmer_term": "e9779b054f8a2e121bfcddb3a35f090355f767f8e69a70ff341c65d232423c3a",
+    "english_term": "c4e0ae195cfcbdf8842c2be3072dcb114751d4abbe8b6621134e66e65f329d61",
+    "french_term": "ef0fdc38398f132468a6fadf96c814df56f55a74a498343a3e882796e4fa62b0",
+    "definition": "3ab665b67b47680cad45afb80323edb0cdc08e5caffecce753550669e5c07619"
+  },
+  {
+    "code": "331b7dd46bec8a94d0e8c40b1b9cc186d076c45c602536d334ae2e5f160d8624",
+    "khmer_term": "1e796fb7afd8b2d00dd9baa04ab2ff765473e9a70d6d0ce319cd928d41bf9a6e",
+    "english_term": "b2e087309a85ade1d2a4ecd13fd368707ff90023e9984b22f2fa6995f1cc3c1e",
+    "french_term": "d70992588970783c1d6117c3f164da34fe528f23789049447f47403b1e7784e9",
+    "definition": "4f9617b7e3e94e6b967d7fb2f6c11d9ed89ede30013edef5e53a5ee28bb2341a"
+  },
+  {
+    "code": "61324c1f939a7a635fc5a09c2fdfaf4fda3f9c308791a19c08867526dc21554c",
+    "khmer_term": "bb0e8155ea70298db437ad222ee8847ac364c5ded1fc0826595a244a55e3e638",
+    "english_term": "ca8e9b8913f7d28ac3bff568efbc7f3d03836154b7fe739464299a80ff2a89b0",
+    "french_term": "094b818fcf59646031cb50c3e8da83d8e1f4fb4aaef3024a78a86a31d1a3f5f5",
+    "definition": "8d4e89a5a3336797901994fc694e2f66f886b9361e339126cc3298bd89dc65c9"
+  },
+  {
+    "code": "6c1a5a618437512717f3eef03c18185b526b6a34226ee1e7c5ede25ef2e07c07",
+    "khmer_term": "13fa2f7b2e04e6fbd3b7c4b280525465d62545de8c148c908b9ffa2797bdb518",
+    "english_term": "dc45c84349f0388bcae40cd539c32c1d595d7bcd063b37ed447a39f2eef17e69",
+    "french_term": "dc45c84349f0388bcae40cd539c32c1d595d7bcd063b37ed447a39f2eef17e69",
+    "definition": "e671d98076812fb253f10a58cf59264eb05f185fcbc0a328b15920002d202c25"
+  },
+  {
+    "code": "26768f3e7c646bb6df901e096f17915efbe2bc49d26d49f4a5cbf0054e7d843c",
+    "khmer_term": "8dcb8e372171778c65c9e58b2bae47801b6db62a1e24de000850c2035b82de89",
+    "english_term": "d38cc299580ab8420327be1738a693bf2a650436a9dc3165957c95cfb90fba67",
+    "french_term": "6a3fd900477061fd1e31a1446a535d58c5ee2b0a841fa620c3b6ecdbd26d9275",
+    "definition": "aeedea277cf6e46a9f3971718e8f1e138c297cf2b959b5a61a4e732e746ac831"
+  },
+  {
+    "code": "16b99cbe268ab9a11b8a11ef5600fa41c68dbe8bb3c3a9a7173b67f36f3b0c77",
+    "khmer_term": "ee3bb922cbff9c3c9fca41a2fcdac15cc4b989f1d8072f57cb93122853656b83",
+    "english_term": "d61066c5dbb92c971b1a55466edf682b801f4a895ec0b3830146c7859f0aeac0",
+    "french_term": "43716107eb8ae8b3773d4f968e7ded46fe52b7b43ad347ac2df85375838b6f7f",
+    "definition": "1b90622a27bdd0bd75be24ca128d76460e3d334a3b862bca0f599057b037103a"
+  },
+  {
+    "code": "db1a6ef2d61f852b092bdcf4e22412798beaecd6acf909b461feb31b2f45443c",
+    "khmer_term": "28839d8aae4b85a95c5ca086e46db90f9cf681d83807ad2368649cfed332aa5d",
+    "english_term": "1c5d6a56ec257e5fe6f733e7e81f6f2571475d44c09faa9ecdaa2ff1c4a49ecd",
+    "french_term": "7048313b44d0a601cbc9260c370129a69cfc8bdf9bd9396bbf18429a4dda9e48",
+    "definition": "d0395bfe477c0f5c35b33e136331bc561dc95372e6c26bb46b4e417914ec5be5"
+  },
+  {
+    "code": "b32dbb119ef8a23149fbabb1408064f3481be31d36c079edbb5a0753383e6c63",
+    "khmer_term": "8c3cdf17deee5bd967edf25033d7cb93abe1b1a4f13bbf20dce5ea4225664c87",
+    "english_term": "ce24c7deb3e5e27214fb41f393daf11087ccc8f8a9509ca767a0915017a09560",
+    "french_term": "529f950a719d638611a783f73bca9d72169cd8a3206661cc8beeebd476981d9a",
+    "definition": "c549150423d81d7c4905f7337d54e5b74fea58452928710832746a39376195e4"
+  },
+  {
+    "code": "beddf8ac416d92220f59e4efd2958f29238b929ed64e496f7af72f4d86af719f",
+    "khmer_term": "3ab0298ed4845eef23dc5c8a0cf8c1529608ef9a53cf29905eefe770dbce6cc8",
+    "english_term": "76ed42d22129dc354362704eb4b54208041b68736f976932aada43bc0035f7c0",
+    "french_term": "6874c58b391f6d4dccdef0b0f7549a3771bdfa6a439fef0bfc9c788a8b8b8d01",
+    "definition": "e57e4ebd23d7ace982292c269685538ff7e598e6be9102b1ff3dd9feca6ae86a"
+  },
+  {
+    "code": "462b50c88aa3a91979b6ddfa520b71b65ef78471a7520784020779b3fa94596d",
+    "khmer_term": "c2458ead73c02b0d4f33458ee31fc4534415e1f15ae2f787af97cb9af7f85640",
+    "english_term": "edd9cb5d4faf1c1a5d10d97706b757d15a294534cfa2351924d254df04af7568",
+    "french_term": "3850463d302dc287362beea8eb727ae8a7d995e80d4198c384191ef65602a535",
+    "definition": "532b25c0f7b89ca49d9997f54e0c7d3236c2f685dddeecdd118d817dcecc8636"
+  },
+  {
+    "code": "8ed159210f1d370bf5a975e5548af6e8327aa21af6397ef2f6a2d7a76042ff88",
+    "khmer_term": "5804186c24f3f516f522e35059258eb97b4f6049d0a9d6fcebe6506da7055a07",
+    "english_term": "e34a879c8b8b67effd9e14878e1443829419cf2aba09a03252d2a4f137e49941",
+    "french_term": "e020b30c330869c4a36296e15628645e5db59fe816bbd2085219f0c6de26785d",
+    "definition": "e70b68c103146d3730b03e7215c22b38aefad50de25924aa6f943dcc96770880"
+  },
+  {
+    "code": "b71899107002ffbed594a86a49068a86b7ded258826ee94e0b210e8baee3cc40",
+    "khmer_term": "8fbb36a930a8960dab36b1d7c77eb82b8f2c743257ea0ead846ab4840c678c2c",
+    "english_term": "340f463033e0fd5ddeabb922df4d4f1b5747494d0f5ed9894f13b6e13ca831f5",
+    "french_term": "340f463033e0fd5ddeabb922df4d4f1b5747494d0f5ed9894f13b6e13ca831f5",
+    "definition": "2f7563a22cedbba7f561b57e0e55372dfbe48cd77ca783f0da1cc1814dab6fd7"
+  },
+  {
+    "code": "053e446b78600cd4627daf20b7b7436e0ea2db528f238bf8a84b354f7c2ca976",
+    "khmer_term": "a36678c8933abcd8a0cbaaed64c2aa74b5bf5b2484a01ff9a68ce5c68d700846",
+    "english_term": "82f4e719a19ce7e573734543f366f55117e4048116b3892adcd1831fb1775d8f",
+    "french_term": "a07eab97d8f3775b46546d7cd06e16e3442d05d1a7f65253f11e108d51c5ddff",
+    "definition": "7f4e0190fd117d66e9b401103fdb193de69b425e02bcfa071a4196cda099bf79"
+  },
+  {
+    "code": "1b943cd8ab25fc1ba195f430a9861a354c2c75c58c58860ceb65ca7a3cf1d349",
+    "khmer_term": "cf56bf88a32f3303b4151b32c90ea8848d9a4c1f94806009f67e0ed4072523a6",
+    "english_term": "09916abb4d2c0145374d99968de10f06a4de7909c800f4f92bb0ef7c96c3e857",
+    "french_term": "320deb33aca86c6e5a40ff0ff51cd2db2eaedfc74befee00e011ba7ef9112ed8",
+    "definition": "fb147f6564d045073aaa5ccf413741a2a0a47759c7c35d44caa13f31d4303855"
+  },
+  {
+    "code": "3a2803df473eaaf3778e3edde1bc1b33044add634b3c38c51ab8a9df74b93be1",
+    "khmer_term": "0a6c8ecbba95e422d950534a5483dac432b0f8832419d4941d738ee262a893da",
+    "english_term": "7bb7e9a4635572552d102edb6b72c1a846275107b9e7b686538a9346b0cd3f75",
+    "french_term": "eaefc74be4772cac8ce4b2cd72477914a3210bde0516f2b583eba6dc40c2d4a5",
+    "definition": "1d7f3cf8878db83fbc086e48b039f9c67bfa46e80553aa70630e4144f30b60ae"
+  },
+  {
+    "code": "f8f80a05796eb5a3cd8d4a4914d97d0c408d524b537ee1f7a66f2effaa277eaa",
+    "khmer_term": "448107efb365e497decd66228de9e6c710e4110b80b5d349b43b6183d8ac240d",
+    "english_term": "955b16fb3c7d9957079d0a0cbd72690cd1749391624bc6ea640a3e45c92a8d56",
+    "french_term": "29d33b15d769a63783c709d19151edec2d950a053a7fc5ee0dce59f23265045a",
+    "definition": "a7174416bd5bbb4ad216259bf81c457348e5da4201939c39e5725416b145a867"
+  },
+  {
+    "code": "4abba933ac09500c86284548401cbf8c64b91e87492cfa2d19e5c8bc3027f456",
+    "khmer_term": "1c095e79d758c77b9e47b06514ef94ca604f4f93dc9a3233b5cf65dea7bf90cd",
+    "english_term": "8cd353ff93915f72a481fb798d4ae474ad2bc9f8e79eda91511a1b98a24211a6",
+    "french_term": "4c959d08ab09080bac917b2c9d33b0dfb4aa616b63542fc1214a408484a14cc0",
+    "definition": "24ae15e51e89dbcc8d3a07edef95e01325ede47f2e478ed2e0eb8307b62ac004"
+  },
+  {
+    "code": "713cc060a80e36d8b93410274f9b6ff498a90c565fd716f997c45faaddebb063",
+    "khmer_term": "685cb13992711588bd6c75ba078d81ab969c45e4b07323f9f8d231cfc9a3b6e8",
+    "english_term": "eeb3d0cce456d873403714064701992981dbcbd2394333080cc69cf5b5151e0c",
+    "french_term": "e5e4da1a6c83033ab51861c68b80d815453fe07ce7a4fb79f4bd2412485e45e0",
+    "definition": "144952a9838cd4304534b0b5fd965f162b95a419988d05b9fd63e43a94e85da3"
+  },
+  {
+    "code": "dcdc2ecd122d25a1f9b47741d50c79f857a86985a51f5113b6fd12706d3cb595",
+    "khmer_term": "136f774ee4f1062a0eaaf84260d848d5e2b00ac673f10c44d3027c69f729c623",
+    "english_term": "ac4ad1d2fe157cb60e7ee5209cefec6ab2b06452b7f14792c6c9e22d1979b5aa",
+    "french_term": "90fc0e6b7255385bb514ff1e3895e34cff6fbda0ccf238d507cd9b2f559df9c1",
+    "definition": "610aa1a8581d06a1c6dc6447a9984a239802ea7d326f4c9eebd3b2e4e9af2036"
+  },
+  {
+    "code": "01ccdb916bede0c7c4e7107c31c50d82fa4f12f5e1f6b7e0a831aa31283e3fba",
+    "khmer_term": "b8c648b5062550edffd5fee15b27bb7e6d7d484a715e6632acc9cc852668cec1",
+    "english_term": "7da2e72d134807fe86a8250fb4dcfa871c8ec572aca4a0423e69e3ac6ca86ed8",
+    "french_term": "335ea4c16c1e3ee51301c0afe23f3a49f3e5b78f30e0313174337e55f8eaf4c0",
+    "definition": "f6267317e138d1e80d286beeb250d868c3f545c79506722217c92fc06ebad59f"
+  },
+  {
+    "code": "c6adb2e649cc9f100ce36fc4074ffa5767a2d36b3e581470afc57d08cbfb3810",
+    "khmer_term": "4e43ae9cab36f3c659641c7d143a7302a0addfd745a5f5b9c5132df1657f9b00",
+    "english_term": "b5536ceb5ae113bfb430d9204d3c8691467468ceb60ad8c3f48f292f91c206f4",
+    "french_term": "23ef8cb8c75a6a310a8bdcd1ccc4e19ff2fbb96a64fd2e419da9d5f7e7fcb15e",
+    "definition": "a4772d091c390a7b42a0fedfde5e6095dd433cc969a331e6d767af006fd89691"
+  },
+  {
+    "code": "8df48b42c727bf00fa5b39310a218c4de9e2dd4c270fbe82782dae5b5303c28f",
+    "khmer_term": "23a5f994c07ea77fb00686d6ebbdf5ff3578ad4cef76b825c0297d065049e247",
+    "english_term": "9e3391e9bf072ad367ce500f37f9b9c4bada031bebf7ffd6d08339d1e7117308",
+    "french_term": "44dfebfb93350b422d21a6ad0cbafbe9679c23d96b91d50dd54631779df2aa85",
+    "definition": "f0b441b8fe08f79ece3bc97e11f8fc27ac87d6404702c0049cdfe89a6ebd988a"
+  },
+  {
+    "code": "676e8e86b38572bde5f89237560545c9a72529f00cab742b40662c730ee88fa4",
+    "khmer_term": "a503ade66aec72f4629fb71488a5a82baa0b7f74d86e7199f5dba34fd879cfae",
+    "english_term": "813ded8f3548fdc4763f80a0aebf9e909b6cb12fef7bdbf9ddb2c59b54708fa8",
+    "french_term": "a091a68e1ad3ac9bcf259fabfa2c7ca5fff0a34ebcfef985497c59db2d8552a4",
+    "definition": "eadedde49f10e2c1935d5f0e014431c5225ab5d5ee851301391865ff2d007fa3"
+  },
+  {
+    "code": "150e512a227629dbf190b49a88dbcef948806d0bce4fe1c07cf69ed702bac784",
+    "khmer_term": "0fbfd682285c50d9a2f42e2447ab3d29d73ad6bb36ec4398cd6143c092ee715b",
+    "english_term": "359e595a3f3e29893a2f085e89cead1e3cd8aa8df630e82bc1f07f4f2aced6b3",
+    "french_term": "0708913edb3cef7f81ce591692eb729280621c871fd842cdd2a64e5d57e52106",
+    "definition": "e891698642c208b425ff78bde0eca4ae366072f5a8dd8312f907b3f66ed9efc0"
+  },
+  {
+    "code": "bba983dfaa6f3401799f90754536cab380fb88412fd5cd6a903ad4ba4dd753ef",
+    "khmer_term": "a1c958a2ec0dfe350b8f8cc09474cc55343a98b04937b0c91e41bf03f7d4afd3",
+    "english_term": "d6b703782a7981b9bcab5985710d00e8f138092041eaea0dcdd6838a6610c0ff",
+    "french_term": "4b80961643fe9b1d05856cc5ec8601b05561f62da841f75825e141a1cb1b719e",
+    "definition": "6777074b0b63bbdec4651ab60488d2e0d37bfe5270b098bdfca60ff87c046e09"
+  },
+  {
+    "code": "e207588163982bbc2db57080471a41b3cdc231e05431393fd0770b99339bc197",
+    "khmer_term": "be2a54b5a7cb0ac68ba6f12ce1724db8c0b61c89552736957cfa306a60774f68",
+    "english_term": "649891a23a1c2f16bd1d4e051923188d9eafc52363f5f98df3bc8091766fdcc5",
+    "french_term": "4bb761b92999ccb2677d52f82af9eb386b4c57458b0e85d51dc3de34b03b6407",
+    "definition": "0647154b36aeab86b49c66ddc5876a50dc6e6a252cdfc7471518ab75543fd090"
+  },
+  {
+    "code": "e3d1f2fd0b24f2698ace52c196c5e4c2cbcf2ed83a18e7e652040f8e0d3fb83f",
+    "khmer_term": "4f50c2dcfe48c4354f6fadeaa8f7f48dc236fb8038f3841c2809a8af96cc34b3",
+    "english_term": "72e9a59f5a1d6289dbacb35df897d6c007c55a27e77018455c37e7b372668475",
+    "french_term": "72e9a59f5a1d6289dbacb35df897d6c007c55a27e77018455c37e7b372668475",
+    "definition": "02b9fe857f82661484fce2419379cd7e8b22d27c47d46af528af5184b04bb121"
+  },
+  {
+    "code": "50683a0d33f278d668d6740a697b46166e9e1a9ca637b044422afcf4ed9f5b3d",
+    "khmer_term": "644ae44d250d7386c8a7789b8c35ab144ac93fad917a43b7fe288465567b8175",
+    "english_term": "d1e96aed1b94b9903f85bc7b4c36705826f3c5311ff8b8de1c23999c39ee23fb",
+    "french_term": "b11f2b34c96404e5db3c41ddc741a243ff8c85c963b517095e1f4ae73d330aca",
+    "definition": "4cef299ffad3bb016878c7e410f7e033efde82b76006a9160d79bfd5f50ba113"
+  },
+  {
+    "code": "38da6820f96f8809bbe28cdef5fdfafb6b5dc902c607d4a717fa951a5606912d",
+    "khmer_term": "33d06163453ebf94db776651a81783a02142d451cc8c7b604d3b4e16a8a0ec1c",
+    "english_term": "99e40d179a41cef8ef9761d8604c63eb0c54bde543fd63d549686894b860e453",
+    "french_term": "612cec90fbebda8bb21d8a9285186fb1090261dd74dc1f7de4680a6076ee3744",
+    "definition": "07e520d7c612949c85a435b748c4439df5d6bb094f06d59927b5dda5c00b687c"
+  },
+  {
+    "code": "128304b627ecbde473b6e4e3c51754c34978823a11621128134d7cba6123a234",
+    "khmer_term": "8a219530e603e237cbbf4aea55c17225c663448ebd46f7fca22a83a18c41623c",
+    "english_term": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "french_term": "5af7152e8e4b2258ba0aff7d33fff9d7492fea1b322d2a9815da4213d260b905",
+    "definition": "ef1c4512f5e353cbb251d437e80ba456779928ebd74544a2e5cd7acf98c19956"
+  },
+  {
+    "code": "ac72d2063bbcc195efb1e8dea39b90d20a00c04b2a27d712e97cf5c84129b6ec",
+    "khmer_term": "bab9820274ba98b047d838a03785cdecf46b98426b0ddd9c431057f67498eb32",
+    "english_term": "ec5ba0abb717da87aab2655bd4b4a40f93f2a591a0ade63611c42925c49c17e9",
+    "french_term": "ad64b73f553b36503ec16f585762350a701d3e4516a583c9da6e6ea7b8358e23",
+    "definition": "c0e25ff5f39ee54101fccfd5ecfdb1bf014f58a17e9ae154c6b58583fc29be4a"
+  },
+  {
+    "code": "dfcdf283e474a77479e3a74fa166c03314f54f560a9d0268236fc235d577b86d",
+    "khmer_term": "d2d0cf5360e481dbb2df917874c0296df6332766d5ccdb75ed93ea6b323fdd18",
+    "english_term": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1",
+    "french_term": "73ca7389a4fa92d00ac705868bfab8d2ce7efba9521cd24859bd813b7e46c508",
+    "definition": "d3fba3441eb94857a19e05e1674f32eded939b0157396cfd8eddb496064fe4fa"
+  },
+  {
+    "code": "49b2e087409aa11b807803541bf57637d7b3134c9396b2acfaba308908368974",
+    "khmer_term": "35c98fba0539c2bc4d0bdfc3a1e3121c71fbdd88d6eb2963e36913356ea4cc1b",
+    "english_term": "04c174e8e54b5b6eeec5e319c57e53779f4ec3bac244647bea37dd5d4c68b96c",
+    "french_term": "6121ab0fde8ddd9f0ec611721383d0aaa2c5933b3ade80c0945102ce0ae24d58",
+    "definition": "74c833f90155ce2e8d562783545854c1772ba00b7e53e0a0bbf3f191feea2290"
+  },
+  {
+    "code": "4e4a9a41e494d8ff71690580014312ed0e471b50d5e0c70df9760c66550ba1ad",
+    "khmer_term": "0fcd68dbb26a8941f6549d4804e8e5c9103c077524caa7731a7ff3c5fd851c85",
+    "english_term": "9e6ad6db21dbc4ccca3a5789b267e29fbacebb89091f6d55123a060ecd7c2cbe",
+    "french_term": "6e3403770c7528a1d20c9024b20c5bcbb6c9bfb83ca8fa371f98a13f06bd3ce4",
+    "definition": "bb5662397f7dd79945b3ea11db3da9150a602245aa93e360cda7636222254ac3"
+  },
+  {
+    "code": "c9108ef4cb85e50fb357e5d5eac367c440bab95d97ab66b3a70c57943cee98cb",
+    "khmer_term": "3edaeaf3e4775fb57ff842bee5ec755cc07c2742bd723cffb53677966c4c9e6d",
+    "english_term": "ef55e1cb8b9fc14e6d9661c651a1c6bc4e46019e28ea5b0b00840fafa998bf0d",
+    "french_term": "b7d1508fbc20584c851d1abccf03bc315a9ed598ec6511f5e65d9722192f6389",
+    "definition": "7a99db1d6fefe4893a8d4e8e6f6c5d3fd866bbe776929dbd009633557e5578fc"
+  },
+  {
+    "code": "8cbceccafa7ff5b1615fd50adc75f68d9b5fa2e4c0d1e5009c31d5268b8e1e50",
+    "khmer_term": "0c54afedf8b1bd42479e516fab467df5ef7438b3c0a028821e97c3776a006964",
+    "english_term": "71856d74eac61575cbce7c052530e440e6f4d658f89812a59fc97b1f723ef0b8",
+    "french_term": "5b5450e525cf0702f059ad4cd9ea63cf4ab433f79fae2364462d8691ac84e89b",
+    "definition": "085260abebcaaf1f3b7257e14cf039547a78e72165cb7ab69a33f2c5a79d06b7"
+  },
+  {
+    "code": "de70a6214e88370b28c98893ba49692b04472458154f3385e14f8ae878508923",
+    "khmer_term": "3823ad63506d0c6278910bd03e34367ccc9052e3cad9228a377841e0b400300c",
+    "english_term": "14948f65ae440422b86184d9f8ac7a141c5c1871340c50ec3d27ddc067c91ffe",
+    "french_term": "64c319140b29981a404d4bb0244d0fa2ecd727d211ad655f5db76db00d5a1033",
+    "definition": "2fc992003b7c8e8a7a5e24291431c1865768320bb7646c35d433dbca12997aa5"
+  },
+  {
+    "code": "78de838ef2a8f2397f133541c5b1d4afd9c788e76233082c788aa466ff7463a6",
+    "khmer_term": "d1e29dc6ca14c80818e656c6b5af52f5441b8ecb3b6bb3cdabbab67892edbeb5",
+    "english_term": "224b48311f6f1991a45d61a532877f15323e4df98b1abb8a39e1b738601c1370",
+    "french_term": "e976fd202fa12edd1a2493356b57adf67aff1e5b6b95d42e35f7f2e846e22cde",
+    "definition": "1ee7a99bbeedb82a25d44c0ea2f4126f2cee7e7ebf9deec3a35687aad60dee89"
+  },
+  {
+    "code": "fe38b9e80275c6ddd911076b712780bb9a56fe7ebde36654f5d53f1ba85d1a37",
+    "khmer_term": "21d4f01cf7165be979760f48b3a13d530ada715d3c6be4bfa3a882b9f3a33836",
+    "english_term": "ddfc1741d9f95639358c2cb963bd3b88e86ba5aceeb95dfd167390dee77be3ff",
+    "french_term": "a1e209f9a3d2a679068fe85d18471e1466a3c5f6d9f603eb4fd6a5366fd9fc76",
+    "definition": "3ddcf8b0e33bf729f176930823f2c9dce95599b78f9f3eec7119897f5bcd3f22"
+  },
+  {
+    "code": "7db57de99ae9600c1cfc0fb2ea8e21d6cee4d705e7acede090de7634bf8fcacd",
+    "khmer_term": "6635a93a33ecca527df86ac57050638e96c3776f09839098d3726f40f387c4e1",
+    "english_term": "b1388a3fea1cc8b7ade554c0a85d78e8b72aa5e1e5d19baa22f002387f033870",
+    "french_term": "8b9bbeadce0c9a16d61c571fd8bc202b5b5a950d1d32254bf174123322e8fb5b",
+    "definition": "f90e73c1993da265f54c43905743488d1070022748a0edacd13ec0a075a585f2"
+  },
+  {
+    "code": "0ef61c04bd968d3e71dda15a9efe2b9d7899d05027b013712f0770cda7ef8dc6",
+    "khmer_term": "cec2756c23b0e38f4e9c015e99ce772e4b7ec077e0d7664a7c56f51528465af2",
+    "english_term": "d2d37255fd46517b8ad5c30b26a3204e93a6eb5348b76d1dc63038a5f8846065",
+    "french_term": "601c1b18bb8dfbb4e616c763207464b08bf0a572eeac5e48861d86c9e03d0dfe",
+    "definition": "fb27a2c2988ba13faba2e82ec91b93bc8787ed826578e5ec998b8df93e328579"
+  },
+  {
+    "code": "45d6dc3a50a5e980e6f2c7058b471fbd0a0276df7d2b7a0b1184d1ccaa4d5c7b",
+    "khmer_term": "265f3118b8603a50f0ed6876bbee199bb6b41e8cbf14adb9dce9be4d337f20fa",
+    "english_term": "aaaaa083e85ad436a781dce9b8cae187239b8e2e0287300368d1d6904a35c2cf",
+    "french_term": "f93abc0b9a0419e19bc97c9a681f11a7636b7f5db9b6c5f17dbf63cf669acc36",
+    "definition": "13c5e0df7487a45c65e965b8a7f353470d0195757dc911a5fe134269bc2764e9"
+  },
+  {
+    "code": "4b1ffa473e3e3e6d547a71957a81c3f6fa6223584a0f3614e64947309140f5f1",
+    "khmer_term": "5c30275046af419ee7d74aa6e8e29dd324feddc2945ad696be9655089b20ffe8",
+    "english_term": "162cc64ca1e4ffe9b9064bdd6f53f3d53f8a969199402bbfa61c749aa693ba43",
+    "french_term": "29b15121b0a42b12d8a73dbd5da2832511bd9ad5bed85d297ba122237c69c99b",
+    "definition": "d63591e9352348b883beee532dec724d38ba9fccf0b9e31a951ebe64259c1ff5"
+  },
+  {
+    "code": "444294163d811741c74aa3416c7925fec5332a05c3a443dbcde24cc1bb759483",
+    "khmer_term": "2c7455e311ca9983a739d4c3e8ba4f17233c0d56917d51a2134312f3d4fa2103",
+    "english_term": "4196b6290c585810d6674f0dad77fefa1430d63e2291160ef7d6195269c0619e",
+    "french_term": "5a899f6c8ca321bdc9d0367d61c0af9222c11edc0be72c348a5309a7ae032e73",
+    "definition": "70ac030f9c4d06c90a760ab57e284f9f79efdd0e3d58cfd2c3452becb03a6ccc"
+  },
+  {
+    "code": "e1d124a8ab43b8c51b7a22fead0132668ee1956062c199e572feed4ecdf6e606",
+    "khmer_term": "687c7473c536b8add78d3b7a6f2d6bfebb76001327a95e6e768558994e932fb5",
+    "english_term": "3c79361a8d021a547dfed8e22a617506d553bd78e07aa7e9ac163beb117c653a",
+    "french_term": "d31bb5733dccd102d08c062b23c77448416891e2f38753d4ff3fbebbf2bf0c4d",
+    "definition": "21af365806cf10b2b4f53df60f1683fe82dcfa3e5647291eacafc1e44982b178"
+  },
+  {
+    "code": "91eba5408dec1a5512cb3da1334f76937c7838e093e9eba29cd8e02dc2587f6e",
+    "khmer_term": "7374ae18edff944b07a0a978b50edc7d588fc7e1a0603fb680979cb7ad256e7a",
+    "english_term": "297b5bd3e6647eea09e06c83a03710fa168cd32c0863ba2a1ec59878e2db5ec4",
+    "french_term": "22f9c58521306f57dcac3313d18f298ac60c19ecd50564ac7f5c24ccb39162f6",
+    "definition": "504756d5b8ff8659f78d63c94d2028acbfa32bbfa6a4b1b08fdd1de2d86f6c92"
+  },
+  {
+    "code": "296c0ed32716986d0555878b05b14b98bf4169de6451cdbe8e0dc00bc9287fbe",
+    "khmer_term": "9558b6ecefb28cc157386017f04628fa8e18178f615b724c57dd8b43d2b35002",
+    "english_term": "18c8fbdffcbf77c5c65ee0f5e9dfba5a2dcdba36674df240900eefd01dc7f640",
+    "french_term": "5c4bbf8296226fd89ce803beb636be64791d847ef77c07525feb1950c5cf754a",
+    "definition": "11360e7e8c4fc35081c66c3be061af7b72f0f7e815bc9e3277c90cb81d075fb7"
+  },
+  {
+    "code": "db99fcb7a478ebf46d8fbf914f2ac57508d9ad4a455b8ae75cef2abb025cba13",
+    "khmer_term": "53d74f98255c6e499e3f657be8cd159f37c7b898a3c71271bdf920a44fe6ad09",
+    "english_term": "d1e912e1e204a3b2cabe34d694d4005bb7ee99d688c06c803bcd44469218b97c",
+    "french_term": "2c6e6b3e63a6977e4ca38c42d5f3e37c6e27cfc0a0a81d32f07d34f0b84febd9",
+    "definition": "a58b394b27e219ffe78e1a87582ee09a5cdc1a898cc5ae771624ca969f013511"
+  },
+  {
+    "code": "9dc4bf98b3c35bc438e4b33f5a30fb76ded288630f3580725f69fc95995d0027",
+    "khmer_term": "cb5a3f4d0b2a62aaff636d2661aae12142ee2c4236856b2e94252c42c0e3f2ea",
+    "english_term": "95f3bd7ee411fc84e24f712dc178641f3877f5d8737f738fc6a2d8e2f2e37a7a",
+    "french_term": "b2aef456ac3a7993291ed7d8b892831204d93154ed2d10a4f7d09039e70b0fbc",
+    "definition": "78c7186f9344590986108f56540fb186ed35cdb84f5e048eb976be2372bdb8f0"
+  },
+  {
+    "code": "f240fb17d7f8c08572858c9bb5aad589aee162bae0e8b41100311cf13ee59e48",
+    "khmer_term": "4b8800a1f9233e8db844481a8eb52f321d2d9cafd5191b4950dccc516b56720a",
+    "english_term": "42be1f53d688ed48037e89b59a3b7098b842c39da871d907f7a4310f00960b25",
+    "french_term": "cdee840d9d04d123f47cf871063244a1fd31257dcd4322bc249e121127cce4e9",
+    "definition": "8a47fce47d3f1c69a06512c7d5201fd877825f9034fd5de442b2486d91018c67"
+  },
+  {
+    "code": "3fcb9699ffe95c20ca0812e20be8d247b4e07dae1edae01048944f5a74df5b7f",
+    "khmer_term": "d6c626c898d9ff03c2106a0de1e3c1f9fcb0b98dd9c0be6a00d798c081d29914",
+    "english_term": "f53e0fd6519f68048873f702f5e3dd286dd371143755332be46d474b46a654d1",
+    "french_term": "ff336a4c30eb9abc2263783afb0d871cb358ca5c1ed5f0e45bfc6521c7d6a122",
+    "definition": "b52ecf1d11c0d6355df0a879e8ec6788d5b898d067e5a0a6db0b25817e124582"
+  },
+  {
+    "code": "7654c1ee26f5647e92760f9c6e17ada33ab830c0208d2c9d9967546d00585f2f",
+    "khmer_term": "659d998f73a56a6ec18c1eaeab8f8cea2a78c99ed33de21a02defa8c2b324ea0",
+    "english_term": "acdd1e734125f341604c0efbabdcc4c4b0597e8f6235d66c2445edd1812838c1",
+    "french_term": "acdd1e734125f341604c0efbabdcc4c4b0597e8f6235d66c2445edd1812838c1",
+    "definition": "8f6616bb856d6ec4c80e8dd057c3344c3c0d9dc728d1c9463075dafadca40810"
+  },
+  {
+    "code": "cb8f6ffa22c842744c2db20a6b2f90df054b26b3f84a18b02e50d7726e694920",
+    "khmer_term": "7065b8496be5960de22cc30b614f4b28e399dedd2aafd145b268d9cfdcf36f80",
+    "english_term": "cc2031a0fd5526166e6c5361d9b5fd8acc5c07c50ba21bf20bb04d07142f376c",
+    "french_term": "e7a260049ee7f07c37cde682843312d7fa17d4cf023d530fedba7ea9a4430abf",
+    "definition": "fe19fbe269f0f10473696e79cd1a9978caff493013c8da0113f099796c9618db"
+  },
+  {
+    "code": "6ab85a574ecc22ce9ec5db1ecd44ce913314efd29458dabac6d5c5e64043913d",
+    "khmer_term": "efa37be114fb15d1b0e2f3501f67803d0925e04ef05f9474fa0e69eb784844d1",
+    "english_term": "4a64bdbb8a6bcc519823aa7522f4e2aca0e262c3a76a3a79fffea123ed9bb852",
+    "french_term": "9990528597beae2bbe1d60e9acab16933ba38f4090dcc48f60258581b3a4f4ac",
+    "definition": "5473bfd7bec7551d51b1d2ad9e1a8ecd239217a22eb393b1c4ca1d537eb83658"
+  },
+  {
+    "code": "5456c092ea7da1fd72cc34f15c4e172372b0b2716a3c5aa0e8a98385f36c00bb",
+    "khmer_term": "276635f6482ff8264e314be73ea5a1cccd774893cb9ebd69577b5cb05f0a644e",
+    "english_term": "e501503aec81555141fbf086239b6ccaa872d1b0a54fb3ff7799c2903339e297",
+    "french_term": "377105bf1340f82d16dfcdd68ed0ef6fd4555262c27d561e34efe17a320d6a4e",
+    "definition": "5fc23002bd95098c26298bd932c0cd4868f618525bb080b3ec3ff69990ff0b5b"
+  },
+  {
+    "code": "78174dba91f1ce841f1e44775f2e059b1bb29587bb137a85f6415a3b04a837a3",
+    "khmer_term": "fef0dd351932bb65c3120afc942ad403aedfc8965771b77ff7d57758e1215b80",
+    "english_term": "564f2df0782a1c18db7f03db8863bf9fc744decb2cd973e5729626986ff8fc2e",
+    "french_term": "141c838b93fb8e3a212871496ed95fd92a1ce91a1f4bfbf168fcf6185f74f1f3",
+    "definition": "125c6db9abe388eea2cf64a27257f7ecf54df02b316e58e6f08a5616ec02c6c7"
+  },
+  {
+    "code": "1bb67c9938a8b00f011ecb6f04fc550912526fd8d0f08145a888a67323e864c1",
+    "khmer_term": "c137a32abeb7c78b7fe887d347af8710ddb481ea0b9eaca48678b7beae2cabc1",
+    "english_term": "c94d2a83e940e90f1b7cf0b21ea95e7aedaffd84390319cce1506cdea8829ec2",
+    "french_term": "9b6bc5a19ad382654360c9aa9e1b26ed6b32491add4d5476fe71ee4496a44cbc",
+    "definition": "da9dbce4ffeb538c8ad2e49a71865e795e4d2e9bf039c00f976379659bfe5879"
+  },
+  {
+    "code": "e9ea6b9c886a19b2f44cd2e70a9d3a7820c382f6bf72a569773c28ea759f25ef",
+    "khmer_term": "2b8b439db98ce03dd20f29d7a60f87b07d47570c31bec542293d19cff5ee12a9",
+    "english_term": "c78ffe19571018fbc93a78873969046fe1a80c3d21e5d20fbb2ca17c7c53a144",
+    "french_term": "672a9130933de4f90cff857f34337076566b134221a404b53e3bb199e4ecbd78",
+    "definition": "53c1a2466d1164e833f466f2ff467d3382725bf897c28491d7ccb5b14f74bf1c"
+  },
+  {
+    "code": "ab744ae21de838f5d0495b801630a64c30190946b74ed34fd9bfacc007bdd97d",
+    "khmer_term": "cbf52245d292d1e584a86aba6863fb7e5c4c29f52a0a3882dcd70dfac83a130b",
+    "english_term": "cec3a9b89b2e391393d0f68e4bc12a9fa6cf358b3cdf79496dc442d52b8dd528",
+    "french_term": "6ef4db3c1dca75f8e16f17749ab4b259314f98b9cb3c91b245c7835e421ca4e1",
+    "definition": "69ae9d0db4fd8cd30a89d989d56d71e80ff192db53247d8ba12ccb4ae3bf394d"
+  },
+  {
+    "code": "c339f1a1dca251db0db5aebbc3d9ecf354baadc6689125c4bfcc25aef47d4bc2",
+    "khmer_term": "0e6f641d7f8dac813854ac08da41417e6efd98f1f3a3149e5f926476e06c1094",
+    "english_term": "23683eb0a1fdbd67e6e976b8559653f7e15da055139ffb3ddd9f0fbaaa67afc8",
+    "french_term": "b6ef5b7d0a1dfa7e454836fd0778045a56770298db743c9b1c7282dc0aa0743a",
+    "definition": "69f8e6ed601af02e9696f30aedf2c47b42a0d127bc583deeb4e1753bd943ef71"
+  },
+  {
+    "code": "976789ca9a26f7be68fc603b36edede66ed441d7b1f3d977df32b6c7230b05f7",
+    "khmer_term": "cd0532e191ef0724185715c91aa913242ddc92e6ae18642f6de8e7a42b9ac851",
+    "english_term": "98b0909ce1f603750499a3a08a7205178fbd2e3362db5e3623c6e95144715811",
+    "french_term": "78cc4008395aa632da854959c03a27f6de64f9bd83c67de3e05249f5e4529cbb",
+    "definition": "88b9db7782e875536363fc522135ffc914d9c1cd72cd600a272f69755fbc14a9"
+  },
+  {
+    "code": "5c32528b7978cba6d718ce1128bdcb79036e10dbf70a5f01b67c17ed84cef491",
+    "khmer_term": "5f447c05cf33f6e7779ad49d73e7039d499188e47568c085bdd53fb96c4f9f8b",
+    "english_term": "36290b6400367cc13caac76fcf3d6b179e53c91eeeb6e8b4298c0d159e0af665",
+    "french_term": "34a2a5dbd5fba34cbf0eebf1a82e8c4e3cfe7995544fad75155c9a49ec9a4977",
+    "definition": "e09e92f074470e8671f39409d6b5a2fccc5fcff32c0c19dac8e775368e99abc9"
+  },
+  {
+    "code": "81c644123443637c2e85022db482e88f54b3a3710602b9056079a0f957e27abf",
+    "khmer_term": "ea91bad7f7f6163e8f7f6889be212874dd9322a88f6aae9858f05e32c21724d6",
+    "english_term": "20c6d3ab3ae7d154b78530d15de8e6c629e989f92c09c303d12f5c173000aaf1",
+    "french_term": "97e927d5c283316c005fb79546a8cfc57d1d2d630b674f13a3f736685513e529",
+    "definition": "a3a17b6fda86eb9fab6ad175dca2a03e0034c9d733ee9b3f0a9ede39612fd1f6"
+  },
+  {
+    "code": "4c7c961c178f69276fd8cc3be4d06a08b320a98bfd3ca4ec838761ed1e718f58",
+    "khmer_term": "6eba298a195bc221a2673ac68b26abb82af02ed6544c0abfbe3001d3a38e173b",
+    "english_term": "93d9cac5080fd2bc6aa5b121925de84f3536702536dfc64762451ccdcca27ef5",
+    "french_term": "90fdd6223a000e16bb8326031e10e05426488c93782499dbb6555fcdb36da25b",
+    "definition": "6c1ca21286a7f1fe3ad0ab9d6f5ac11d259072948ec56d6a45b231027adae344"
+  },
+  {
+    "code": "1c52258faf586e0bc13ca22721988fe54486ceeb47b874c42e459d8d0c2761b2",
+    "khmer_term": "cf0b23e23b87979f518d13f5cb2d0f7526e23dc57b8dd12998c7105a2c8b8290",
+    "english_term": "0f1b7ba573c83d034974c6fb7b71c5d7c4d74fe75532e3966025ef08b2058d0a",
+    "french_term": "eaae1cf1cfd796d61ee99f1feac4d742817f072e9ee1a2089ef95248b528323a",
+    "definition": "d632c1e728e0fa5dd047bd643a12154f2ca65bea39c92a51112dd469844f7f3c"
+  },
+  {
+    "code": "abb7f3b466be0537c1ff6acbbaf4f65bd464daf3dcccb6864ab26c4785e239b3",
+    "khmer_term": "f244dce137f4efb943b4e6810b59a98afb992ab6119b3693b1018b1dc59c61a9",
+    "english_term": "a90b5cca71d2080aaa805b2c5ee10a6e8cb3fae4e1ce6c0dc82f5d078487488e",
+    "french_term": "09955c6c26aa04aff245890ea581e1a943a9892585ff09e7a9949a1265dbe0ed",
+    "definition": "1e581642a2433d0f4f397fe68e0951fb091c19ffe239c5a475e7ab67748ff21e"
+  },
+  {
+    "code": "0206ad2da0df109304fa6fa2d406efd01dab7b94391263aef3722364aa501dfe",
+    "khmer_term": "ce8605179a8b598671ff1a8d7e82f42868dd761d1a4f2a10aed75ff47b067332",
+    "english_term": "353b95d258d597ae9d10315f48cde8b2946e5d8d14c2b5f68667a10e2bfcfbc4",
+    "french_term": "ea59530f4e39635255589db10376a278f3e665cf7037744e9657351cb3a9034d",
+    "definition": "a682a7c87fa4d315e49f330962c47ad1b6028188de48209c8d64f886e66176a5"
+  },
+  {
+    "code": "dc40d49901636d1f73b00ecdf3731f19b511a63c456358f46b5adb79f5d66b81",
+    "khmer_term": "5dae3d655bc4c6b23e96a0dc8242202b4ac9c7d1e8efdb736bca6338ec799892",
+    "english_term": "ea115e6012052f958c5f92d995f2bfa37557dffc85300929407a1465b2eb444f",
+    "french_term": "60463a64ef952e2108c0fc56a79f12ce6f0f448048c0fae3e61613620119e6c2",
+    "definition": "2d8f1b1abdef17b9863dc84ccafa7c2ba5acf21d54cf8fd8aa7cb1d446197ae0"
+  },
+  {
+    "code": "20e8a9d29a51ea6dcdf7a449d0751734d2452db28ebdc45fa31fa7d8c4e47d02",
+    "khmer_term": "7103f9b83bc4090b686d082dc106e0c4f650ae151cd0c724e1aa69d992a4b4e2",
+    "english_term": "22fe715de228d4530d4a28af64b2293d573f7b97e7848e4445e5df43339fdb6a",
+    "french_term": "b874f02040624dd9c72573faa77e555675e30687c2bb899096db75a47044a782",
+    "definition": "72f4b7424d26b0e2c90c0148009e0143e9509fbf0695f692418325a35de0c4b7"
+  },
+  {
+    "code": "f784a1c9c57de454f07ef890b78f57f591e3268cb818fa662db0ddf0c9baf2e3",
+    "khmer_term": "8cffeee9d01dafa1c08c26845836bcbc9264b63870c1d6b9a2ad17b41dc64e4c",
+    "english_term": "203d71f8325d8a51066e03fdb136c90f432900d5993b8291922f3164120f9d65",
+    "french_term": "4ce72bfcdf2e09c61ab0ea1cc8cdfee82fa0e85acd099001e907598877970e94",
+    "definition": "6055294356d03856441756d496696def4c3e239ef4af1f18afcffc44cb35a71a"
+  },
+  {
+    "code": "3f886a9d546141aa4ce7aa40a8c125bbe11c80fa4a79c53ce0ff12714f1bac50",
+    "khmer_term": "c3a511203006c02336669e5ae1ae7aebad8e65dac77799566a1be1dc2ccb75af",
+    "english_term": "5f0a87a5759891bc80d0270a04dddeb57c329ee762b288c33761c50c5652c8a2",
+    "french_term": "8071a2f2698eccc582673a3a14f70ca9a2d1bdaf4e7447ba7d185fee5f557895",
+    "definition": "1c2445b71e3c35df196dd0c68c3b7e42e51a4e032ae7bb325cb448f19c3ee491"
+  },
+  {
+    "code": "cd9cc2157c29a6b7b11b1eaf89d850a0ab5f9aef9ac463a8d3a7e570996e6996",
+    "khmer_term": "b9b6e2a3dbf06c8c234c59cc64981e0a6b55070664dddb815e45b5c2b7558b69",
+    "english_term": "36f20f9b07f66af3ebdee7307ce760761b51f71c9aa9ca479c2658a157675a70",
+    "french_term": "75d7239aed4048d3d90f584f72a03537565dabb8a79dae69217b4e6175e11dd3",
+    "definition": "330b16cf800c573306e419f62a8510c1a45cbcab19d80de67713d31b06694a6d"
+  },
+  {
+    "code": "46418810e823a0300333da065eddb1d3be17bcd6ae289621e608761520ecc390",
+    "khmer_term": "ebf9292d53748340cac8f4903ea2e00bf410bb82acce4ceb8eb15948f7b41d28",
+    "english_term": "c9fb44b1ac63a9511d0c600e7ffd3421a849e92ee84a25aa5eb21c371f845eac",
+    "french_term": "eddcce84dd5c03dc614640548b40b973261e567cb640438b42771c200a8d0ebe",
+    "definition": "97e7a03978e14b9542e7c046e452916a75c8bfe27d46164e9873d2b9f91eaf4e"
+  },
+  {
+    "code": "e480b35b7798752dd0ecd5416d2234d71f9e5fe65611d9fe557c1dce09ecf0fa",
+    "khmer_term": "a8e0958b8f2578acd8e9dfa2d0754a15ac141d98567ed9e078aa6f305d02bfc4",
+    "english_term": "a50cc21ffd572fea908a5ad0bb9227c2943c53d040b70c4bff241cc8276d930a",
+    "french_term": "840f34a34ce0adc0f0eaf68e54179a1cacbe104c7d9251baea3f9ccb7dd8762c",
+    "definition": "acc186c3942f67cc4f164bcd65df1cf7cec59e09bee49455378681263d8f4940"
+  },
+  {
+    "code": "4bd1f0de7513b2f216825820a1f9e105ec197adccd9fd0939c644a16873e54cf",
+    "khmer_term": "caeda689a78841e1527c0a1d8d9b8501738ec330869c17b0514daad9e018b935",
+    "english_term": "5bfa3e2136dfc14aaed4c03f5e0f133dc1c8c12a560858fef49addfb209b630e",
+    "french_term": "2f36b8f612950a410b655e11d2a32ff00f5ad497bbed347b9c9fc904230ad918",
+    "definition": "67379c03c111563c815c12d3a56057ba8d9b00db13559cdc79c52b2e1703354f"
+  },
+  {
+    "code": "1c6813f9b8d61a8b186b3d256b13f4e2f4c751ca17008afd996b2efa7401ed25",
+    "khmer_term": "e16418b7c592ff04afd945cb68753b4cd85c000a7dec21a89d54f66e7eb79300",
+    "english_term": "0a5ee0a76e5fd4ecea5afce00e32035002fa769049ab32481880f8f96afbeeec",
+    "french_term": "91256d73bdc85ee60a0feaf9b1c4f930214209eb3aa5729dec27f9dc5c605f83",
+    "definition": "e0371f46581a7ca41f7b805a2707b7071c80f2dee323c49c23436cb26f927cd4"
+  },
+  {
+    "code": "86baf3ae547e915d748561fa4b36005426320f6763a52109664a6bd85500b834",
+    "khmer_term": "0e6e5cf293b8971148d72685f389a14a837e6a69d2bf369b593df02c3f9cc283",
+    "english_term": "dde1abeecd03e938b6b911a4c04dda22c3fede249def0b517a1bd93937a8dfb9",
+    "french_term": "2fe5e0c8f003c37a32b463b77772d9868cef688e0002daff4068d26bfbd21722",
+    "definition": "9cfd4022121c0081943ba21a27ad1d47a5c9cbf96245fbab2835e0eb0c93b2f0"
+  },
+  {
+    "code": "7f35408120efb61b6c5d6d310a5c66a0e7837016c28fb856a9cbe4ecd6679a89",
+    "khmer_term": "e167a9b915b32a63fe82a8f9ee47f8c343ace893a25bdb3f6d78146146582220",
+    "english_term": "a3a814dc75beebb0c867bf4f1b4503909436e185b8db735b08488dcfab8d29dc",
+    "french_term": "829b08c0a7d58a8c0906e3dfd223ed78d565e18d1c310845ad262c487dc2063b",
+    "definition": "a06d8ca34c0e5e101c396544eed1af45bfda7c602c687cb32a4982e8ce544026"
+  },
+  {
+    "code": "bd88d7db5f8e0f5d8a71bf2964c5a2f762993e9b18047b73634a8ebc4de90569",
+    "khmer_term": "8ab8b0783a12af19c27ef21d0204f5070ad7add73d2e79f20bd511a0798905c1",
+    "english_term": "6dd76b4ebffc4eb2ba105a0e314fb630baff1e73327efa72d59fd66e0dbe6a1d",
+    "french_term": "b8b7d70540c25ff6153fb2a7682bc18ee98efe2f04f9350a9d6d4e3818795e35",
+    "definition": "e3ab70335eed01e208b4203b16660a6a9603b19b7b124ab281ded7942caec6c1"
+  },
+  {
+    "code": "1d9403c060bb9da2140697277bc2fc65a53b5489f5ec58e9da48acdb6444cfca",
+    "khmer_term": "310b9a61fb09b390a9ad88f97088161629f118a6413d03d32a913423e5a7d6e0",
+    "english_term": "95117d1b691aeb96c5728fb7c6e4324760fdf104e11a66c5c2637c6f6e9065c4",
+    "french_term": "22ce238a4b978fad3d179e49f3aec4c9a64bb692e813145bc88a177e02ea18c8",
+    "definition": "7c53889391cecde1fc4ae172e521e0f0f6148012be2f161d9abe771df0f8c60e"
+  },
+  {
+    "code": "a3a3bac9006a86d9b936390c14ae9de031706ce21c633a489a22b52fbd59e23a",
+    "khmer_term": "d2eb17e07fffeef763417420777e934dbeb409170b2339f0887ada02893eda52",
+    "english_term": "bab5a201793750f1d63b47a9bed0a00172f5751d36f417a765442dabb94ad19f",
+    "french_term": "b2b1b92cd83f7165294c09da229ea48b2010b3d597e7f0acb39403cb5a0f8510",
+    "definition": "d39f92f49baa8d8edba72dfc3a35f26a7260d679cda6d5f877fcc4a9d02666ac"
+  },
+  {
+    "code": "7030c03448103389eb7be4aa327fdff04cf46acb1f3989e226d1835de3b91557",
+    "khmer_term": "e0b3bf91a5c31cf48a19e8976dce1886e5a69c7988e6c08c0191057e47d78152",
+    "english_term": "589d3f216e44b3c263236e80d1a549f2ed07389e97f89e98ba1e48db8db571f5",
+    "french_term": "6f3367ffc7fc8eb6ea77f6762b7440f5dcb1a5634fe5f15f251221ca3de67221",
+    "definition": "3dba5a43fe6656aaec89fb2efc2f8e01b29f86ea74ac1dd4a056b1b4c88c8171"
+  },
+  {
+    "code": "f970fc12bc48e17ec0e6637c968777deeb64a5ad73e8927d3c95a1324f3adcc7",
+    "khmer_term": "415f3bedc70af283bcfb40325e8e649a5396d165a130398922f30ea51145e71c",
+    "english_term": "f381bc7f552d51731e57e78fcc1365903f8284f98ea6828dfaf8afd1cfaec1f0",
+    "french_term": "ac5408c3ee13da9ddd90225aece29e85e991eafcd0380f7e13cefc3b48a1d1bb",
+    "definition": "c46ebc5f231f809acd9370de251c10050daaa40ef5487cccf18ea1ef88398caa"
+  },
+  {
+    "code": "f8e8fbe3722348fffd2844de90e7df07b8b7cdf2096c48e6d3e0e75cf76acd1e",
+    "khmer_term": "9071ba50ce7b226e9c2a14772c0f1fc572db1320da0c9c6715944f8490ad4626",
+    "english_term": "fa4b4c90adcaeda850b91a6f1bf07f69a184a38d88ee84d4f66c07786756228d",
+    "french_term": "4e3412d1d199ba269375f245e29a2c275e7daaa2447a99ed97fed12f48100788",
+    "definition": "078f8953b2476e05e95d5227afcb2e20caf4538ede2d93357255605a6bbde403"
+  },
+  {
+    "code": "5ad3fe475c5e7a7d703a0880dc0022f5b586bf161597db90bc6f0733c04d872d",
+    "khmer_term": "0543e475f5d6b92f3b286c45101fae186eefbf0fb5e43ebd8eafeb68f4da168f",
+    "english_term": "fdbec1ef9f4e95baf994a1f2c494edc4dab6e1beb95f8b0d65f04563d38f8531",
+    "french_term": "666f2c4f523ed789235690782250f6552579df14f2d3020b7f6fa4399fc7bf6c",
+    "definition": "f47e38c5476c3874b4afe7f74549f0ce8dea3925c87514c7cba9c374a2c3044b"
+  },
+  {
+    "code": "f576bbd62d4181d117888ae6ebd12c7aebed4e59d12418700f46f27ba6288f67",
+    "khmer_term": "2b8499d0433683d969264ca4c52847d3ffcd96bf313342379dd3255e4a78d84f",
+    "english_term": "f89e2d72da00888b27c938fff1eff1d138fd49fb664d0269527a69e746ced479",
+    "french_term": "6cf3e52d9aeffa95bfe63998b23f41e6c516f1b6b9cabe382f46e8c032680282",
+    "definition": "2dae67d174712079e25cfd5238bc8a950e26d543a30fd2b27d7b95b0c7a6a8e5"
+  },
+  {
+    "code": "f9344183e2c29b92feba387716257c27f8b1fa7b2dc24bd4b77831f2c249e157",
+    "khmer_term": "2cfea0cb2a7dd7eafa4f130cda5fbe5754ea8c75c00ff7c7eb57481a2dcb984e",
+    "english_term": "d357175cfe8978d39b0f86552dcd9404973493e2816101d9ff6c05ee248ef6bd",
+    "french_term": "15405707a27169c96f75e4819111a0c8803c07c7d6975213044374817862ac90",
+    "definition": "8007f2c1d0fe3a42f14641e8067547658dc152b082941e4af2ddcbc8a6f160f8"
+  },
+  {
+    "code": "766e4a8867ecb93558e08665936892076000bdbabf31c561c8d16bdf3b781b4e",
+    "khmer_term": "a376ce2c4884b85ea1b52da04d505863d549a212e19cc4701f74f8a1bcd9f35a",
+    "english_term": "389c54bd7ea0a92ce4c1eaf1245f61612557bec989811362ab3d5ed9900399fd",
+    "french_term": "f97d4907701bda1770f1ff0b7da23e4de38d73df0d733c24138749c03685c152",
+    "definition": "cd340e8afe74e1e093d56e5e5307a192a06c380c2a7166bcc2b2d8c998f30536"
+  },
+  {
+    "code": "52075971a65d4eba21bc33fdd33f822ee67f242de011445784885d189561b571",
+    "khmer_term": "8ac2069aba6029bcf553babc32605bebc02ad0219e9a59b889efd53709b590a2",
+    "english_term": "bfe421fd5530eb4a05893a37a46bbc2c24a1dffe8da90e58d48075673ba998c4",
+    "french_term": "b3af2b750e59768aa7f17197b2bbb6bfe0661b3c491f2038341e8fe84ce66d61",
+    "definition": "9bfa68f2c0722a7d5a067da1cde69bf9a003786d13f953610fae634728d31fef"
+  },
+  {
+    "code": "b014d57fdff428642b6ad46e46486ad6f31e5fdd47164ce3547b2f009faf3b5a",
+    "khmer_term": "ec894c57ed7f817401ad2c4184b7a32598702780d0696070809bbdf4e7091daa",
+    "english_term": "2872e16e84eef6a4199ff3d4f7fd85076d184a79209ab24f4d0e59cce0ee79f9",
+    "french_term": "e2d90a4c2272e20f41aac7353623911db2896323734ed59b39b3e93b9a682630",
+    "definition": "b15f6e8d93f3eb3fd28b2cd03cd6ea4c6b9b5e3b0a967cf5218d45475bd88ce9"
+  },
+  {
+    "code": "917d30f9e949c0d7dbc8161e77c37460f490a36c127117dcf40e1311a8e4d80a",
+    "khmer_term": "420774ad1529e47658eee497c9795be617162b2a72aa348466c88a17cf474c93",
+    "english_term": "b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4",
+    "french_term": "b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4",
+    "definition": "1f1994c589d0d00ebd0d1c09970e636746d62d0cdc643441d40533decf785f0f"
+  },
+  {
+    "code": "f2863a2f6befce1b3fb5ec046a291bb048111a88d3b69a23c2c3e3f3294afb1f",
+    "khmer_term": "65a5d514da87a9a925bea67faa52cadf08e0e1599c660ea2cdaec5430993ab95",
+    "english_term": "6f590602e51943c8363cdfa61f00b98e04b0975db812f3f94d0b1a876e91b7a6",
+    "french_term": "6f590602e51943c8363cdfa61f00b98e04b0975db812f3f94d0b1a876e91b7a6",
+    "definition": "4a157d6dbd90cd795224520c3bcd326e923c61f221fb018813316948619e449e"
+  },
+  {
+    "code": "4adf139ecf3fd4d93c392a9212cdbde6a245bc5fc6c9aa824326829affadbe27",
+    "khmer_term": "2a83785da022fbb93d78407b8c424b3f7afafa5deb6baa4bf3a35f08a2d4d482",
+    "english_term": "df2ea246ad8c297c973df9edae485b37a33f46a0caae36bed1c0f1b459419afa",
+    "french_term": "3a917e4dd8f581767e2e7f0d5db7d4788e8d0082e7e677ce2afa2083890692b5",
+    "definition": "fede099b5f87bba60e6cac506f02d84ebbd46d68723d32bca170217e80d3dad4"
+  },
+  {
+    "code": "c78ce4e7737ddd4e1e10f299d6d6048762d24b2d7fa4f04c61251a8470886535",
+    "khmer_term": "ec656fc2edebd0a87be02640ea242feae9a71c4e928830407ac0d367af776bad",
+    "english_term": "69c98bed9e9be94684425b4e374d496c00905cb68d55727e2a296ad5351acc5e",
+    "french_term": "3920f8e7342113157d4ce1c24c967df7fd821ca74f12c0e3727dd367155ca123",
+    "definition": "2e7133233e06621bd1a7e8f6d8456153bc28ae36abbbd53a7c99a13e90e8c8e5"
+  },
+  {
+    "code": "675ff73de95bc180d94066580385fe135384e459426b497838d3bc922422b72d",
+    "khmer_term": "cb38ae611b123f4e9390a02ca8e31d097ffc25113aac710242df2e4c153e820e",
+    "english_term": "d48cebf4dc3f0ee6428139bf6ffa3bbcd8668c4e896dca2cdbb7f509491ef3cf",
+    "french_term": "688dccf39c6f8bfd7c977fb784082bae253e93fa66803db1eca8d07d9f994ab8",
+    "definition": "19a5846259b0b427324652d13b06a47407baf5196f97eb5e9786728d96384c7e"
+  },
+  {
+    "code": "902b95565d3d82b41e7117dc05801e9c798b38ac60516887f39fa47c100b84e6",
+    "khmer_term": "0a990abae60a98f4bf2c7de74083bc5894fe6a24657de53706d3943197795030",
+    "english_term": "659ad14de0954603099b7e5bbcab8a8e5b9028bedb4ff17cece0a3792011f950",
+    "french_term": "e5cba67c6c6a5449d9cefc98ced8d9885a48aab83a8134831f371995d57756bd",
+    "definition": "ddbc0a8a9903368377c41e373ab8eca3c26954cfdfd88cfa4c3976d9600aa2ca"
+  },
+  {
+    "code": "9a40777ff7c354611fcc9a8fa0498b7fb92ab65ad667a14b2f4ab2d8dd9d822a",
+    "khmer_term": "fc9b90885d8796568f92b952248d8a1f4d07c8525f287222d2ff62a96df622de",
+    "english_term": "385b23654af6534048ae4b76e88c4836e746367cd25a400c9bff4472bd39e4b5",
+    "french_term": "b32d1a1751b8d18622694cc46afe8d62c9ced6117491d5ea83087c200502beda",
+    "definition": "a8f3317913a3cd9a63e592e0af154a698f41eb3b108e19b34e25b47154896ef5"
+  },
+  {
+    "code": "ad343b0c9c6955a85b48d6f15bab3a8f36629802cc780db571ee72caaa032fb0",
+    "khmer_term": "2828b22111c5fee76db70d4834711eee04a1a5e85021cbe2bb90aa34c140df9a",
+    "english_term": "5b74bd3147b4848bbffdf2b72b231eb4fcff0e3e35e4b780f650a8783e9a4b8e",
+    "french_term": "d8e25bafebd0cdd5276d106688ebce1327a9da98ae20a85e098b1c7eb1b43355",
+    "definition": "c083e9a18d873d0d29a00fdda03b410dcbb284806e944c4e7bc671a86d91dd5d"
+  },
+  {
+    "code": "199cea0bdf6eedf374beb1f31f686c5bfbc633407166b05e0132df295a6e3eff",
+    "khmer_term": "2f88afca0e9f44e2aca2a7bb9a5f26b0fd1e68a60356d3b7bd98b10fe1fff393",
+    "english_term": "ef52522c21f317153fd263e0fd9cd1957f7a5d5986412e59b0baf8fb17df24a0",
+    "french_term": "0cf0ac5c0c62e3919e50c21c154a92e8d762222f1be78d154b64b379261297ba",
+    "definition": "20ea2a3339095610db8a16777ee6c90250bfce48b75e638ebdaed8b60ed70fba"
+  },
+  {
+    "code": "9492d19eb9ab72501e1f86e8c84a8ec24dea34d274b6dbc313d01e2aef21ff2e",
+    "khmer_term": "5cb2b419e87faab94ddc1ba46cd5ffc59dc27aaf857e706857b9893ebd5d098b",
+    "english_term": "f6093e94eaf91a66e3c9a5b9d9a21c3cd393de1b161e6a3b25c5dbfa3f98f1ff",
+    "french_term": "26f530e980479e44645abee3819c36f171b75b6a407409008c93ede1e74a8134",
+    "definition": "88c5f461e6b2e54dd167b99552c1a833b92b97b28d85d8b740bf2a1f4df6f9d9"
+  },
+  {
+    "code": "a9ae10e37f8c4991962c03cb1000138cd30164a6a98896bd3cc42ccc57dddb55",
+    "khmer_term": "e047ab86bc9716ff6189e42bee95ef45729833df65f997677d25b0f951e33516",
+    "english_term": "b3f08d3250395594969fc4ed07ac5aa5392053469feab26267e735fe3e008e9b",
+    "french_term": "b3b75d326ff0e1470da98fe78f491b8c319b765144d539b4de8ba76920aa75c0",
+    "definition": "d4815e5fd751fc0541c4c3d5353257e1c5ea01460aaa866282571649d70b57c7"
+  },
+  {
+    "code": "c53e9a7d002acd321fec39a42ef0d20cb05d05dde5fc133f8fd9410f65613194",
+    "khmer_term": "952512910d838ed62a565abd7b7808754f6a373654eefe2af6c795c036a33b0a",
+    "english_term": "1eec5a5f773233e4bb694312710d0a214cfe78274277ebfdee43d4d7336c5ca7",
+    "french_term": "28e7a87a99c4d7198447010f06cd52c0724f03374db4c77313c4490b8deea2e5",
+    "definition": "ddfe9a97c129952acfe043e09d992c6fb5a0c9de7dc0daac8fe01b02defed1ba"
+  },
+  {
+    "code": "b926bfab5e601cbc1e5634fc8c8d94874e5c327ba44bbe2246bcbfe54804a589",
+    "khmer_term": "7557bb8e29276c5d41bd714ca27c5ad2d50de2f2f24154dd1276d86f9fb45035",
+    "english_term": "4750d0a12e03a1be0f78518ae2f73538e8b2748c4284244504ff3bc3fd31c3a9",
+    "french_term": "5239b03a8aff624328fbf2effa7ecfbd35c96b36054b30ece1e0d15e3541408b",
+    "definition": "c93ba171647214881b71b79c213011169cff6654485484c923e5c60203efb2ff"
+  },
+  {
+    "code": "8fd93201e44cb20fd694e1bcebf3da42dd2ea6b74b4bbd9459835f04ed28286c",
+    "khmer_term": "6b4d3caf4a3f11edaf534922ed1177be0c4c2a11f045c4c538b696246ed511cb",
+    "english_term": "e32b9288bcb3792365c28f6c08f5fefab1f2b3745773f59ee6eb6263153368dd",
+    "french_term": "e24c616af8aa5f804d8ea5ab07665f21008ece69d33029601d4785a2926557ce",
+    "definition": "ec732fd188d10f7d3c8971e35225a2bd204af91d8923a049d3b7075db2a2e114"
+  },
+  {
+    "code": "83b434202d85e4f59b8cb1b33dd26635297c444c802684d25efa67c766aff3f2",
+    "khmer_term": "8d4784a1027686da9baa64e7a24abe3413750f1a4e2e6c69091d1c6dd4124cac",
+    "english_term": "1c048ccd62697c1b41df5350b7b711f221e34c21a9727d9dc89b2320ef185ef7",
+    "french_term": "4c2c7554c438539860f468f4ffac9ea3b0e8e7ad4a33775a773664b6f66f1575",
+    "definition": "3331972bfbc3ff36218fc51f8c19c31a8c8e77cd1dedb8fb5a430bb46f7b00f6"
+  },
+  {
+    "code": "89ed4f884b17816399a6a85215ed71604caca75020f0073a64c7de60ea27fd0d",
+    "khmer_term": "6fcdb68fee7564695a1e1490f599a62b11552b13e25d42e769b5a8a44e5a5f8f",
+    "english_term": "625da44e4eaf58d61cf048d168aa6f5e492dea166d8bb54ec06c30de07db57e1",
+    "french_term": "fc08785ddbc27792ad914063615a46ddc876b3a093927b49a23c51ad0d093ed9",
+    "definition": "ece4aa9addea553eb51c52ec9df1a5a891c3a2cb03c982bd7ac323ed32217cb1"
+  },
+  {
+    "code": "dd86336655dee0ec44c048c3bd7261a6dd56cabc7f896c0ad444a917859b375c",
+    "khmer_term": "35590bfa6abaaae9543c72d7c7d4456b2fc0a72b7f550bda79e550716f04b7bc",
+    "english_term": "fb91f662bd2715efcb923463728bc54170d0f334674f0634b73b78dc64759d65",
+    "french_term": "f06aa0ece378237bb11515cdc1ee003ba867987f38fcdc266c2f9f9b0109d1c3",
+    "definition": "9272b19ff156a5e2cddebbdd6e9a194d5825b58d2cee901864bed204a9b3e231"
+  },
+  {
+    "code": "1c91bc32d99250aa197ace771d483737a130ea577b75bdc69ce3c7fbd31a98c3",
+    "khmer_term": "3320a1878ac346da49033412aa4cdf4f2a950de2e4c0701c964c71e0d132d35c",
+    "english_term": "726433f2120d039d12ff386725943b0fea162cee05e8e7f5c19221e2c7bbf09a",
+    "french_term": "1f066b24921965d9d3c6600201d807af1501cfca0203c0421e61e0657a87d433",
+    "definition": "e7bf9533235f320e5fed2e06d628c7e2225903e2f6eda990914e75ab44d41748"
+  },
+  {
+    "code": "ea5b3c68b3c218bc0801c5c1f01a83aad8c8e2fcb3ac736ec906bb9fe8550d3d",
+    "khmer_term": "104998c467a44fd2dbaa7319fd07934451f40730a6bfc9f70c99e80f14bd8fe5",
+    "english_term": "c95a9302f184cac0fd2194cb86506eeb4b9b78529d4baa1e96b5eba37d61743e",
+    "french_term": "df8cd6adc29f91136e652727d557d91979c4ce2579a439989df166f02d281f0d",
+    "definition": "dcaa73c664c5a79210e8c9107a4bfdaab6accd7232c1ffc598a737bd60128ae7"
+  },
+  {
+    "code": "14c11b61a85d107a10ffc17f7fc7423f2035d7172a0bdfdc13e2e4e8295fdd97",
+    "khmer_term": "3c2d21a317e4a700a6618f0ef36d123f5904972157aa4878fe9ec8d7bd0a90aa",
+    "english_term": "9b3289a385a5301eea0c04a06fde98bc542113ab4ed24c47c9b9771984869a31",
+    "french_term": "76ed1d881f90f8211b84782bfa84befed1e7d324f603065e6295d5c9c352f7b4",
+    "definition": "b2029f15620eb6ffb078328ac0034428d620b5e7a118b92c1bd2478479dc7b80"
+  },
+  {
+    "code": "e229909cd289387a6b82b05b8261081a399a9051dabe12f149cd003b1ed692ea",
+    "khmer_term": "5d0bb7a501e9e92c2fcd0187d406d05d247d091f114bc006125dee4ac9f7ebd6",
+    "english_term": "7975300f01bc46f86e52e528b29955be87a361f05f2fb96e14629bc0a5495d03",
+    "french_term": "3b37a8d4a81a1be48c1db432eec3c34f16d326b27769016d41708b8e79b3df4a",
+    "definition": "60e0a5f840b56e1642219b5e9466d7dd229d0fca775688cd818c4dc6fdc30466"
+  },
+  {
+    "code": "c5cf88bb38eb66bf8c303024867cd248c1e66e846cf5cb2d17432fd4a635fa5e",
+    "khmer_term": "1eefb4aeb8a5968bd654f82060d31b583d5ea392ada048a24e687b9daae5fd4b",
+    "english_term": "aaaf5bdddb915a7915955dd57f3eea6b21e37f399e6accfb981a0f43ffed51e3",
+    "french_term": "3790163389e26e1bf13266c577edb104ff9119625bf8d525d546124b2c7ca05b",
+    "definition": "76f4f4fd5a56b1d74ce76a4bc1618f02e1eb2303207883363b886393ae075a5d"
+  },
+  {
+    "code": "77d8f00ddf1c7547babc2c249b9e2708636951729ed9156865e61e23e8bc8fab",
+    "khmer_term": "31b80b542763ca5581aee58aee15db143055f8ecb4d5a91c8a0d4bd39fc5afb8",
+    "english_term": "598c6a18a38800b293113ff9da02b037a9480850361174a00b9159c25ef3bbe5",
+    "french_term": "ff12f416fe4ff57cc3d3ef3bb435ef81a57c64e32f94b26eb7b9b015136d205c",
+    "definition": "fa06bb61fa29883c8523870ff01a10bb1322de381d94b7f456498191627e0d96"
+  },
+  {
+    "code": "adbe011dc5871f7dc70a12bc361e40583041c159749460bc176f75768357dd09",
+    "khmer_term": "a74e981018f3a2910f128d372a2cf8d449dc1c0cea9ddf25a21222f537828689",
+    "english_term": "64d0b3adcd2dbe33500fe9b96d2bc048601b19f4dc9db0d30f8648e156b583ad",
+    "french_term": "8945f280218daf46d23091a15d2d443757d3f33c448ee4915fee70864f093c41",
+    "definition": "2537186a782e391a5a055aca4236b8cad4138ec3ae65356abcae1e016b7af809"
+  },
+  {
+    "code": "b2ba5d4d2f5eb22e4ee2d99f7a9d41b3f406fa2f5f30d4396ca142dc10042fe6",
+    "khmer_term": "9278c99cbb1637cef02289d12eb08167777921f78f3bba8e3b340237cb8be9ef",
+    "english_term": "48b5119b1870e4b9b229bc969fe75273b858f568a37c11a18d8a952beae9dcaf",
+    "french_term": "69266085bd39431d6aace9147a21b32f117e9ddb4d36c8ebebfd87e9089fe1f2",
+    "definition": "697baf153fa6e0b7f0f7d9726655b4c34d4ff55f21857121cc655e0d745c1c22"
+  },
+  {
+    "code": "192408b9e92012c226c13f3cbbe328f82a4bc24f23a6880c1bcecbca864a75e8",
+    "khmer_term": "e4b80f6a59ca5a60c21910f120fac6276e9c0d1fb92d06954df665cd73e62e1a",
+    "english_term": "0c8b8311817e04ec6e26df267d47294cd3ac48d766f6b72a0b98a5dadeaf3f8f",
+    "french_term": "c6afa4225e633be5a2fb5c02dcfb4573e505d647d6e425e325c2da91d117289d",
+    "definition": "9ef22dfc5cdb84548886c4913c0d3f00d5c32537ecf1e2ae421c29ac750c2916"
+  },
+  {
+    "code": "d9630bfd8e508a179af282f96ab96d9ca1722d8232242101515319f4b23db5ee",
+    "khmer_term": "ab4196014de5f386689f2bda59cb85e9fca3e76d838bb71b9e36aeeb58e4c5a7",
+    "english_term": "47e7f049ef80ef0aaf582221c4f000185d7c9cde3b11d04d1020d18d9e2fe349",
+    "french_term": "ad411e754a2f9c6a2eee5b7b252de863fd0b18b16456e453722fe5f2c8563359",
+    "definition": "5856433fc513692f192ccc823e81abff39eb86557b26c8096d3eeeced10a3684"
+  },
+  {
+    "code": "b351194a193ea477193a9456faf02cc5d7e795ce74a767188cfb67ec140e9239",
+    "khmer_term": "b9bd4032d25fb00b2d02ab047b49136151df401a6d90f947098c7517a00251ef",
+    "english_term": "bde83814210da5b7e9bd3253c5118d1e081aa3e8530fec4c669f13ccbb425984",
+    "french_term": "bde83814210da5b7e9bd3253c5118d1e081aa3e8530fec4c669f13ccbb425984",
+    "definition": "0b05589539f410a2c87b4eef35d2da8694a878ae417e45adaf54030c6fd82df9"
+  },
+  {
+    "code": "4866bd41285d4aa7949fe31cc42bd1695e6bc83e111747603433c7ab356f3587",
+    "khmer_term": "544ffc67a1f77f8de2a5ff0c1ff61e7a7431d55577a19330c0dd21b47d5752a1",
+    "english_term": "a35b3093e3349bea58451960f67d78ed53f7e0252fa68da24902ea0f936cf14d",
+    "french_term": "3b6cc4e232ed6dce7c566d52160fe3e7ef39319d36c96678886a3140eb885892",
+    "definition": "b8c3c83acbd53ec47b542da5b560540273e96734081d58993306d92280bf1cbc"
+  },
+  {
+    "code": "c4337cb2150ccccdf795a152f54fbb736b3ec3ee6fd8e4b1c4136d11e5f0d67f",
+    "khmer_term": "5eb69dddc4c2215741325ddd6447c8a02164a190734094dc5c1f6e1096ecffc0",
+    "english_term": "3b7fed2b8f1fc00b8bebc3df3cebfe02c9086305657ed28babfffc338f84e1ed",
+    "french_term": "4cdef22c089de0d2440d06b59481c4da47f2aa86e9e5846cd1f848f48acfa1fb",
+    "definition": "b423e6582c34a89891ba56d19c43aabbac320dbebf9f7e5e1d5c80d2f9198fd9"
+  },
+  {
+    "code": "2412a73935f00843cf15d917b6b75f6200efb9547102f90d4c6b038a7c6dc06d",
+    "khmer_term": "bf47b61cfd87e963b524e4addb5ff46ada8d3c587ec61723eff7153107e60985",
+    "english_term": "d65aab0fa6f35757ca430b85389c35bc514346974f9ad936d488a7d8ed78c835",
+    "french_term": "04bd20b7cb15709a0a2578eedf09a4f5f9b924f019200e2b4a05effcf95e0c36",
+    "definition": "0103804ae06f9a02f11bb2ae3a3d0dd6f4da50daee87bf97f01478281506fb24"
+  },
+  {
+    "code": "2817aa63c7485dc2a2a1d226770bbcdfc685d2d23a8f4fdbe7262b2f794f6e9a",
+    "khmer_term": "532327478100e92d850cc22f8ca00c67b74f21a54d3262d5254d49af9b18f901",
+    "english_term": "793f19d6a942764a306539199e07b29f904f4ea6d5fb5a120c8f1fe4008517f8",
+    "french_term": "9a25d1325afb1c279e0254abfe02171a88f4dce2689a5c125a42451e644d001c",
+    "definition": "bf6eef76561e0fb311ddc2ee6da6ad333333e83d8f1c9f20780df908b701bea1"
+  },
+  {
+    "code": "799908a1b8dc553197255419324b90bed2e180c5e34f290ebe542db4624769ac",
+    "khmer_term": "44aa5988f8e60b4091893798cf17593dfd35661e88f71703f894eaad462a245a",
+    "english_term": "3806f3dbd086e79c4227c5d4ba6b937bfb4bb8a516392e7d6352d6109f0f6038",
+    "french_term": "11a88c11cb883a14333973f2283566bfc58ae81e26ccccdcc8efaf33b01403d3",
+    "definition": "e2a6995d0817ed80706fa51c1ba561eff66455b063ffffb6dd8db0f8ac1a2a24"
+  },
+  {
+    "code": "dcff49adac9ad963ff71711dba9aa8b5761e92ad7f1922f48a947377b8eb51c4",
+    "khmer_term": "42471d81a00d397aa8ca76cd5f5869b5744918659c13cc6e36780ff10a4df602",
+    "english_term": "d7cda0ca2c8586e512c425368fcb2bba62e81475bfceb4284f4906de8ec242bc",
+    "french_term": "ee5745548b016654d11ae27d9a3295c34ab1c0f04d6f6c3673034109fb259980",
+    "definition": "65fb6493e27306d14952e5741e6e240a9d06b3a19b56c06de84a9d08bf6bf563"
+  },
+  {
+    "code": "c2957049ff0faad0773a6bc4b71ae36dc8f7e69e37693c645edf63cab1bbf105",
+    "khmer_term": "ac82ab422e3ce43178770fff63c7e243527d1316b95176aceddcfbe846e01524",
+    "english_term": "d9aec7f3bb951f0e9099bb27eb7b6d47c41285b0577dfe6e249fdcaf6001d3e4",
+    "french_term": "82fcacfbc2c16f7d1ed7f2b773a80c3ec4824d54d4fe4e7b7c7d54508730df6c",
+    "definition": "e1ce959bf352c6c283f7f87b6c0e9bddb4e7a72e0cdbd9d32669f94545a8ef55"
+  },
+  {
+    "code": "cda5f505be5b8b8dfe2f97b5e421be50ad759d9e19958902e08063344dfaaf01",
+    "khmer_term": "f743320b819f4f7dbfa88552ec375880795e5e5240f9a13014a2b39fc8a8d1ff",
+    "english_term": "e3df6ab9ba1b5a6fee172724e0a4f4c28b7e982596cc86019f43e9faacbb7992",
+    "french_term": "a113b0487ab465a74fe007649bd1f10e0510cf31e40d18c280939197fabf77d7",
+    "definition": "92ccea8c804dfb8202b3f3d908c0d82868de1b8eae497ce448ecabf90882e631"
+  },
+  {
+    "code": "c2fe7cc2537c3337df24af9d082d49b7c0dc44193e9eeabd4e4defed0b6facb0",
+    "khmer_term": "9c051372a6d5ca6ffe4c36e15d2ef55efb11a65ed0eba14a6aa8366c489b563d",
+    "english_term": "9a523eddafc676649fd44537738e04aaccf09aabfe69137c9b77836497408ba5",
+    "french_term": "9a523eddafc676649fd44537738e04aaccf09aabfe69137c9b77836497408ba5",
+    "definition": "710671b4f45592155a41fd15b45e801e99ffa7d17b7cf0a1ae22e6728184ed71"
+  },
+  {
+    "code": "51f94073cd3a2e4e9a9440cdd767825c62030a01cc61a0c63fef3e619db56a27",
+    "khmer_term": "a97ec908e1d8f96605610cf35f752dfbd1a1cbfcc5be8cf1b1ab9d0bc324f95c",
+    "english_term": "47bd29075f8b8019f0beec6d86beda7c9bf67aaf05053dcbe0b3bcb63968517f",
+    "french_term": "7a6de5670ea832de2aa511287cbef52b9ea57b759af4e470bef443b668441e84",
+    "definition": "e252d6e6f6ff9da481c85a53f5dc30633b262c7edd05ce8848a5eef9a89a70ce"
+  },
+  {
+    "code": "ef76357e5c33bab74cc0e3204ed0b2d11795d319e3a3664820cca440df0ec326",
+    "khmer_term": "a9a8cf075082bd68861e7277dcb2630fd938beb2a0d2bf51d1fa009be0930e51",
+    "english_term": "a0da504ea7a1b1af6b3010236dbf3f53b245eb5f52d2b69fcec255a149da4058",
+    "french_term": "a0c6a73992405a317ad49dd201ff0d9b76c323d17bcb6bf1b8f303c4cb80b0ee",
+    "definition": "7f328999441a8cc995633969b4ce8806576e4114c9b2f71bc4f1b2ce4185e9f8"
+  },
+  {
+    "code": "c67582d1200248a8e768390b9eecd4e948aac485736cd9c6061dd562aedfd403",
+    "khmer_term": "1ef1bbd239c45e43349a28026231eb1db3ec393759dc298c9017ee8112682ad4",
+    "english_term": "fa7fe67124e94375d97e50896e0c32f44b03bb7ed5e9fb026341b55da724126b",
+    "french_term": "2496bf94b4b4389937b7a528e312d922963cda8658b24f1eec4112d6c6b2af64",
+    "definition": "325ad11af91afb637728bc9fbf74e9730d134691ff8c35d0b0018192881d23f5"
+  },
+  {
+    "code": "efc8ed3aabddad70dcc686c18fd1dbdf95ad0538ea64b0180597da26c80088b0",
+    "khmer_term": "2620c9eca471147fcaa73e90ba167c5bdbb7637e34ab8cdfd593ae72cbd4d132",
+    "english_term": "90f28d6241e1176c5c0f15c55d8aee2c515bec088cfdd5ef88f387bba11b4689",
+    "french_term": "1a3301e15d93c256b119f8faf7e364ea88533774631b07a0ba1998510f74357b",
+    "definition": "7fe7e31b431b9f595c216ea18d32f9a16fb76ba60b5ddb940876ad9c6e6a4513"
+  },
+  {
+    "code": "05b57e71ed78452cd72fbe5078413d69c78d3159f9f9c7710e140cd8f57ec5c8",
+    "khmer_term": "984d91b5bef7e53fb3e3a6613ce16823be40df8c3914b74b503639cc6015889a",
+    "english_term": "7abf41c6cd40e871ab87f243c06a5f0ed7da6aec2fea9c1c9e7037d25806ee2c",
+    "french_term": "e57c8dcdb71ada233c3a60941722a3f71a9276e6b62c8b3d01afc9f0f9b66ed2",
+    "definition": "c4d9aa943b7d982c5153b18f86c959638eaadac5260a9888274a3077e9cffff1"
+  },
+  {
+    "code": "38f45ac30aedf6abe6ec9a3ece6cb404897c6e9eff0f08a118c2cbc78a5e7e7e",
+    "khmer_term": "c5d70721d757ef850394402e1223f4d058e9358524814c58c909faa46f8f80e6",
+    "english_term": "3efa721dd6f584d6026c927e2e6660308eff4ddf789ee7fba22b6a43f101b657",
+    "french_term": "e4ad0b4b04baadfd7c185ad4b016ee61241cd59a082f1824481bc69f31fccde1",
+    "definition": "ced5eb9e2d2c9ede548245fc03da7ef3f895cc1017a0f8ffc3764cb4ca9b27d1"
+  },
+  {
+    "code": "9da974693258a2f166a5e288cee46a787ddbeb2d591c301734bbb3a82d1573f9",
+    "khmer_term": "6accf8953a4b562a1bcd492a029d9773239433e4f31f9514a0d9ca2ee0d7bc46",
+    "english_term": "4f531ef9e6ae42e4ba405d452e5717b00d31a0fac4e05ea116abf818b0357cc2",
+    "french_term": "72977d74fe2d269dbbe6e9cedc83d46bc61f8a888c07d76257a4489dccb6bd3f",
+    "definition": "b72731e8f5bb6cd428c9fc92e9cbc3880208664c6c69f54d1560163fe33ab3ff"
+  },
+  {
+    "code": "bb2dbc82d063d2ce5b73e7655e58fecc9ad858712a55c8c54fcd7597b2e764da",
+    "khmer_term": "00ca36523e7d69b6d8553e533fadafbe8677d513fac1561fc81965fa45d838ae",
+    "english_term": "75cb50fa2ac5d1cfddfdc2becf3d0a3e0880e9529298d137d43b9c133ca62f01",
+    "french_term": "e9f2722f914e9f03085cc3a7b94748ea3bb57a0d3bac458eb228e984264e70b9",
+    "definition": "f911dcbbc9fb40ab27437db07bf987177582d9f5cbe1cee1b5e8c40ab8a80534"
+  },
+  {
+    "code": "cbc6e903e7d7469eb38d142ae458fab2df6affbabc81c16102d38852da75e7ec",
+    "khmer_term": "a5af0c1aadab13a491af2a2e77877bed820f6d05706a6655f9db68746cbabc97",
+    "english_term": "6ec60fe39028887e7fe9c4b025545748953c27515073bf9ad17ceb5417a407d7",
+    "french_term": "887e93c09cc1ab70d905180ad88ec9875bdad635f257d39a801a4d415516fbe6",
+    "definition": "17a4f26ae75083d96d92c3789c7ca04df36d37198f6be3f09472225512aa70fd"
+  },
+  {
+    "code": "3555502bff9c40f7e7112107a453183a435699c2035bdae2382892fc14aa8c61",
+    "khmer_term": "06757bee080d5d0919d391f5eb5f675ac92c27eefaf77d21db35f33d9661f450",
+    "english_term": "88f69fd57cc1c8a73e7fd7650626935806654e224386c755009351b1d02ec377",
+    "french_term": "e4e243c5b1f62b72a87cb78240287d7781ea86ca1bb5453fd3990924ef63c119",
+    "definition": "06776076c159da6bfbd83beb8b018e3863516cfcf2cca8ade0f1d519d168a91f"
+  },
+  {
+    "code": "7cb2eb444b638e7c916b214449597628e45ff2eb44b349b867c693bdf3b7c441",
+    "khmer_term": "dc57b3b68a46e79700dc5a40eff218d51c8c1f35066f5dde8ba1a195e41e7399",
+    "english_term": "9b6e6a580c80c95f22c4dfb9d1bba5b7cc56e13b9966577365dc7cdf7a58d1fc",
+    "french_term": "9b6e6a580c80c95f22c4dfb9d1bba5b7cc56e13b9966577365dc7cdf7a58d1fc",
+    "definition": "78b8b5ca2318de6e2f33eabfc8fafa02e82b3aafaca30322fefd6d4f2e798834"
+  },
+  {
+    "code": "6dce7aaf27d2d3e5bdf315ba3aebc0497654a58c9cf3fccb318f1ada1950cb4a",
+    "khmer_term": "e972ef41791ae5d96515e386cbeff64a198efeaadac0a4d85edfe5a5d13e312d",
+    "english_term": "5ec0c637bbf94d1c9cf5869be0ec84b954eaf914075b90c7c743a9a3ca924ed6",
+    "french_term": "1028407873bd7e0c5fd323fa0a3f1cacb71c3fc3d10c382ab48c303a802ff5a1",
+    "definition": "bbab2773a0f9da4f14f0c5b749162a875909f0e3c2e94a226e82fa3545b78fae"
+  },
+  {
+    "code": "85fbe8f45406558a6912036f72d7b50363cca557cc244e23165c95790e905ed1",
+    "khmer_term": "125fea2722f617168fe29238fff52f07f77959349a6d2deb1a32dd472d30c017",
+    "english_term": "29bbd350e8290a768ead262d8f4bec11beaef10606da3555c36dfb5ca726b12d",
+    "french_term": "d1920013f244b03e693eabed5b921b5ac1a07a09e1db1f277a31b1f62eb2ecab",
+    "definition": "9611335e071a322d448918dc8af80f42fe2aa94b7207a449ae9203755e89d520"
+  },
+  {
+    "code": "c79cd94862e35147a1dd65bd5df52e982129a87dae90954eabf7e9a962be4fb0",
+    "khmer_term": "1fc366b32a4a8720eeb64b4a18e3588331fb61dae64e88af06469db297bcb743",
+    "english_term": "cdd31c444785981784cd649b97f3a114a76d3a3e288550caf01ce8d671679447",
+    "french_term": "54ce30095c112631892caff81c5c7d4ad9ddeac81adc05294e1fe621da51b0c1",
+    "definition": "2369fc756061dee1bf130883d67812b20037903d4497cd651eb4f549255afb65"
+  },
+  {
+    "code": "695a8e3263ff9abc7eefbfc47c4aa62db090acd3b98707cc2b9fa57985481e67",
+    "khmer_term": "de826a7af6503a6dd9a77fbde8439c05dbdd35d6e749736c1f4fdd8ef19a5b18",
+    "english_term": "43cb6bd15b7372552950dad3d7a6848d741102dd287bd03a7ca535e67d08d8e2",
+    "french_term": "344d30ba6c5319aa371025d76f776a375696fd6b6f48e3d23362e8717cfc8b76",
+    "definition": "79a44ff8a31f2cf783cbb16897ea67b68661080fb2f754b7c8f987ba0ef5b4bc"
+  },
+  {
+    "code": "c9ec776925c336a4deb0872580bc630c573b62cb42d645687578de1d26bfa6bb",
+    "khmer_term": "cf373ef0681fa8fb38ecb00c0af5fcbd9cb6fdd5696e9dd86d6841aceffb45da",
+    "english_term": "8144a0c98691bdde3072c9d18942091bcf4b2c17a0702debe9192248d6cc0d3c",
+    "french_term": "3c268fd530522e23ac7d862030364cb90ad5c7057879fd706883da49df08506a",
+    "definition": "9e20d9b74b0bb553530033a33507b098495009427c9f094f6ffccc0a7261530d"
+  },
+  {
+    "code": "3903d211c7528bee37240d32bab2e3959725dc7d172625426c134d587cc1dc04",
+    "khmer_term": "93c00cfbed834376bfa10d0510c1c594c37f0c201487339665b6f661ca84b640",
+    "english_term": "94adc696fd24e9fd67e83ba256a9f33bf1d7191d4a5e38ee8c69597cd89e4777",
+    "french_term": "ef6eb3b545208092d1e6263bd787f8875f18d006a323781670f5e1f5e36fa4c5",
+    "definition": "c062ebc3f26c9be2ddf180b7c918f718c828d2965a61aae1224473d0cb990545"
+  },
+  {
+    "code": "5bec69437474ba01b40179438b6cccf7d7d53f8aed7d32c284f6b71f5f4903a2",
+    "khmer_term": "67f60f64cae57215a60600eafd50a97fc9936c2284167497648f73bb50caaedf",
+    "english_term": "8c4f117ec11ce6753eecf130ed7f735992dc2126aacd73bcc248e960f0fa6e4a",
+    "french_term": "8c4f117ec11ce6753eecf130ed7f735992dc2126aacd73bcc248e960f0fa6e4a",
+    "definition": "fb537a7c3639f9cf6584d27faf9a8613271b9ca678d7bb43eaae6a354d077925"
+  },
+  {
+    "code": "8d693f2f020912e857c1109ea823c5e12bf78fbed0ef23e06af730b1fb5ec0f6",
+    "khmer_term": "a933fad25e1496b18e11e88077f0a9e37ba141b978a98e1b987646aab7f5f07c",
+    "english_term": "2db2c27ad99b0f5161f33ddc95939ec40a5dd7b38c0b809d4b3b7bbb4da6d332",
+    "french_term": "2db2c27ad99b0f5161f33ddc95939ec40a5dd7b38c0b809d4b3b7bbb4da6d332",
+    "definition": "016525fee66e30f2ec1e7851ad278611fe1194d27e154c6dee0b131da5d40c66"
+  },
+  {
+    "code": "48ebc7e1666c211f1021c35858ebd0434be12820b62bee0118de820fe6e8dd57",
+    "khmer_term": "57bbefb30c45716f4d42b7a2c5e92e0273bfcfdfda635dc9e3dce0f2ff37381e",
+    "english_term": "337253f2e8d4d14af575667d2e74aba123c5098fcf998ed7a63f1abf90830f09",
+    "french_term": "337253f2e8d4d14af575667d2e74aba123c5098fcf998ed7a63f1abf90830f09",
+    "definition": "8f82e866cb23fe9c56ff75d632c9bcdf29f19974e4d94d4807a3732c4bde749e"
+  },
+  {
+    "code": "14071beb33f5b1193068c31bc946956662e81c2918d35ecac19ae16694e60cd0",
+    "khmer_term": "e89671a03616bf9eb8379ed2016a6fae2a721ec37afba620d26519082d831300",
+    "english_term": "2e37c06aca690c35ca65a610f4b65312f9106e4b261eeb9af785e5b02680a9a2",
+    "french_term": "0af5f921a2a0aa73a11d80e3bea7d16040a99d7a6b895862850d774c4e2ac1de",
+    "definition": "a423f297e7356ea3bbdcfc5ffc453242de62948518c7543b83fc730c6c40b429"
+  },
+  {
+    "code": "9b63580181395842334dbba71380728d4874a496c2cea2dc8e28a31ddacd5832",
+    "khmer_term": "970ccc8b6a88ddb819c65972859a9072913a09b4d3184b910e346c13d18f0741",
+    "english_term": "1df1e97705f85a7b9a85df2e33c8d5cc8d92e77aeded1def7e964d8ae70c6406",
+    "french_term": "f6d79b5c976141020225b404eb0dabdf633b401e7dedc433bbc66ada510cc669",
+    "definition": "a60d5cb0e88bacf53938987ed70d587c7fbf5172089f17fa7140710071832070"
+  },
+  {
+    "code": "5460e24d8eaa98cb1c353dbe910993991ac2812aa61994c6a0dfee60127da2dc",
+    "khmer_term": "331b34dde7dc709439aed21bf9447b051a86102d954aba4eaa83c750f83b47e4",
+    "english_term": "64a8fa0146031da056fe1a41085787c41d28cdfc06c329ca782dfedaddfeee04",
+    "french_term": "f6b36e9e83ddf27507a19bfedad470ee5ca804346ea10ce61d9b05ecf79d0e76",
+    "definition": "175e8bfed2435894d96ace20ea1e41bb5591caaef2360ba60be2c2e7fcec566e"
+  },
+  {
+    "code": "6774bac996ba1db2320b58d89dbd732d42b6972a336c4c673d8551fd8392fb70",
+    "khmer_term": "704f42bd2097c8291e66e6d84e50a7762930c69fbacf64552d2eb25ca15cec65",
+    "english_term": "a25070ec82303c4f14a09355fcbd5e9623c6eb2a42acf423e2919d958e62eb59",
+    "french_term": "3623117181ddf8f759af96212e8ec01af96020afa7ab0c2bedd3fd04746f25b1",
+    "definition": "4dfe8f681a1519c463c4082bf15eea70a6ddbd6b36a680b568fc0fdd0c3d89ff"
+  },
+  {
+    "code": "b6e199de993bcd28857db87794064b314a98b39b0df634a070ea3c4dbd45eb7d",
+    "khmer_term": "1dbb45aa6d6631f48630e8d64b845a1c3482d16310b4ecfc3e99da553dc5fbf6",
+    "english_term": "d9cbb938207e32e84f80a6d06ca974e6c90f20cd5c2842239d72eeb95bc1deaa",
+    "french_term": "0dfb4a750c101e15e6003004b0a7ae6e458edeca7cd5edebe342ce9926966018",
+    "definition": "b0e5a0270fdc6fc54fe1b0b19431c91091248c772274decba252e896ba14cca0"
+  },
+  {
+    "code": "9cbadc96f2cef03dd5cc74c903f47f6842c50872f92c28bf3c311200d448e6a0",
+    "khmer_term": "a61acffaa44e7c0e7d4ebefc19790cc6ac6f6aa6e91eb30414eb787546fac79d",
+    "english_term": "24bc90cc07df7ca36cff0f1418fef37ffb280cb9f179bab89f3b22546e91dc25",
+    "french_term": "7445835dabf7341e5e10ebbbd90046bac3443aa358d4258f47a5d13750cf8f76",
+    "definition": "28fbb242493e04962e080b0840931e218cffee805c33ee24ffe858b2d3664823"
+  },
+  {
+    "code": "4c6fc96ef7aaf64c9f229f47139425eaa6cd24cb8a3654e5661d90173f996d6d",
+    "khmer_term": "e46909f0ee22798bf794c4162cb780443960f27213baa7213ced5b9a52efa6f4",
+    "english_term": "97b7e163b00ec0ef8fc7659940b6e050cc77468f0ea0cf583c1b8da98393d651",
+    "french_term": "9c9ceb4c7d4f7728e7ac0f4debdabf7c562199a5ca8adb177b7bbb0d2f4525ff",
+    "definition": "577d5a96f22fe06cf45988bf5dc77135f2d841b14b9ad48cb73686f088cb6d0d"
+  },
+  {
+    "code": "2925e962596571481bec32dc7bc82b7006c98198c8b9cda7a7856d3073b20a56",
+    "khmer_term": "7246c9c96bb5ca07a2a0feba2c0ad77f2e0efc5e37e3093332877f6eff73b71d",
+    "english_term": "885e2deda21a6c752f05e9c3ac95c90de31bce4b25ce38c330feee389906c83f",
+    "french_term": "885e2deda21a6c752f05e9c3ac95c90de31bce4b25ce38c330feee389906c83f",
+    "definition": "3dac776cb56a7aa0b43d198aee57cd499cbf22a672b5d8149e08062fc6400ef9"
+  },
+  {
+    "code": "36f49218f0d8953ebc5659eacb2a8a52ffc260a57bc9082ed7198bfb0100a653",
+    "khmer_term": "69ba8e2516707bfb4ab1a214ec1882ff8c0c8b52eb10ab7eb8b5d71f66fd2dca",
+    "english_term": "a75f0b6bf8ff072419e09285fa45cb38cfd5f998c9bc3c10bcdca8f250e748ed",
+    "french_term": "54d0940ae3daac03eef6161d609c95033d45fbfc0a1fd94c0b2bfb7d7c292cb0",
+    "definition": "274288c5a0a9675d4e62ebf5ae29c62603bace79db767655cacd174c64dd6cf1"
+  },
+  {
+    "code": "252ef4a5bafdbcff902f1a540fa6c10decd451153fb5b73d6c8a6af9ad542e70",
+    "khmer_term": "6aaf2659b28b5cd02a388bbdada5f0cf1ca337d7d0598a1a1612ac061cba97e9",
+    "english_term": "b5a229ac8becc6035511f432ca6018f581f0627233eada6ae8e12b505d44af7f",
+    "french_term": "eca85827a8d517ac385a88b10f8983e3671c918ac93721a17d5582de657caab9",
+    "definition": "73f1876d44a010abe45631b8f9bc0b70c7474edcc1eb7ad4cf08d64006f292f0"
+  },
+  {
+    "code": "966128fcfaa8a9b8ae400db362944df8c1b9bd544e9692345b90ad344b2d222a",
+    "khmer_term": "21620d1376b33afd6c6721ac7eb4f265648276e8be3c52808a281703384c7fb0",
+    "english_term": "23b2d5dae0a87cf945f37093b119d20fc9931de013bf2836d8e3a2e5699d10ac",
+    "french_term": "34e6a6fb59e3392efaa6487ed31514946a02204978d4e5abdb411e362b0ac2d5",
+    "definition": "8a1bf9ed8cc16157e6967de53fcc0aae43a03650585c1a7047a000806d7b8677"
+  },
+  {
+    "code": "65240d16f6317e28110a0e983d9f24543b8dbaddc158f00cee68ac344cf34a93",
+    "khmer_term": "07b62a9da3d29c80088dd950d64ab9437727761d169056d77f48bb621a56c9c1",
+    "english_term": "5479401fc08bffe134c0091b1ba42474739fbae17592cda5a01375f9f40ae7e4",
+    "french_term": "44d20b68cca298f3ac26aabefec09fd2d852641a57b488df2c18e83b4b20bc76",
+    "definition": "8799311489ee153900bc2ff66071e170484c5a0197b69372c1d6e438d4ddbfc2"
+  },
+  {
+    "code": "53d914c1f6cf3c1b64fe903d5a0f4af7162e573f0752f5e47bf81b1534ecedd7",
+    "khmer_term": "5fc08d8e7ca4950f7be38bb10fb207856dfdb3b884cdf196c38bffba44a021e6",
+    "english_term": "dc93879e3107703be39f22eda9bbaa9be63e870d015debad40eb70ceedebc03e",
+    "french_term": "5c52788d332a87aafdbefc978180464bb465fc21f11300244e1df67a3a6ef60b",
+    "definition": "5965018dd028a60958995b076b2b09aaa457d386e6e352190f74800753c4ece7"
+  },
+  {
+    "code": "82073f14f2c3312a332be912aa296966b9e0526010d7d4c7a09df024ddc55729",
+    "khmer_term": "528ce3a1a872ed34a75c291f80bbc1b5a35ae9c7751f66d73e819c9df1ca5658",
+    "english_term": "3b16bc46b63721829096ac0d8b1012a63f3a34297c2d0478a9a6b482d2dd28a1",
+    "french_term": "2563cec21dbb8e56d2e66e4d2776fb8cdcdcb3e762c85ec3c6b4bde2413e8f50",
+    "definition": "36ca42ebe21c42ed83879fc1f09cf4ffc7dea493be2006f4d6cb171ee5e3991c"
+  },
+  {
+    "code": "c0c5f2948844deade7f17a17b08d671034128cf0e596292d767cfeeffac1fc9c",
+    "khmer_term": "99db69b424d9eb619892541687a561b2a11b1ccbf4881a3870be14eaf900d528",
+    "english_term": "d0a74e2cd9f4a3beb0ec9f748f60a961504cdb90cb6cc3a76cab5486e5f574bc",
+    "french_term": "5b7da67688368a573fd9a39a8d7e9584db8ee5add7f941395676a345f8179f0d",
+    "definition": "fe613642b59b98470dfc7af4f31b8066a4c031cccd56ee64b558d3f4c8489e47"
+  },
+  {
+    "code": "b15fee6c7b2d0ffef24335cb6cb9a63c65f904cba29798e373b046a66e504561",
+    "khmer_term": "c2327a54d5495823a802f8015aefd96cc97eb5d5904cc1a55a25d02727b17cde",
+    "english_term": "87a9852707d54188c2674a5c93f0e9cbb71490972435ab889a0a2546f740e7c2",
+    "french_term": "e4ce2ce4123b7e8b42ab1126e33bb1a1579756177dcc341feba40c0ee1da392b",
+    "definition": "22ed8f2a14ffa272818bb4cb9aafdd480e1aaa02228bd84a9de7700a1a5f7042"
+  },
+  {
+    "code": "90a358bf8b29a2eda95de0160344408f527442409617e146c567e5b23ffb2614",
+    "khmer_term": "fed03edd72c2665952e90b6eaf185f716e9ea167971967a68f89aa09c114a5fd",
+    "english_term": "1055a58bec43ace2aae84715bde0ab884e073d701633bef8fbba328db2cca743",
+    "french_term": "b7e18a3d4a627a80fd14ff23c1f95726b57b54ced62b4fd8cd74b5ee7295dd7c",
+    "definition": "24692298d9e310b6c2665352b6aad66a0524867bead19a3110e53c5cf4ec4aaf"
+  },
+  {
+    "code": "4a781875b804a42719a00121141bdb661abd6d99c8fdad7d5c83e76dd7aa71e8",
+    "khmer_term": "062dadca64654732269040cacfccd720531b727af8672eb0259e4fec05460a69",
+    "english_term": "da5383b9807f1f151715c6f7dd7db3fdc12f9df03c7097feccb6cd0c3e13416e",
+    "french_term": "4721b7c3dc7a8cf449043ba56bf210aa0eb200e03e6b3960e1eb622ddb39225d",
+    "definition": "70e9201c7f183b259349d8fae657db312b0db2ee321c7ad7cc446155c7da22bb"
+  },
+  {
+    "code": "f570abf21f227b2bc6da6c23568c42c72b22d31921a0741c198af3e41c08e04a",
+    "khmer_term": "6000df255d2fada0fa78723552fde1c653f9b4b9dc353cc7becc03278a2cbfe9",
+    "english_term": "145c57a4fd7296afb81d9b7141b33752b8a832ed2b13d8078c6c4fb6775de63d",
+    "french_term": "b7b6faaaea6e0d66d94bd3fec21df89e3777125cc08920a17d81edb9d083d20f",
+    "definition": "09622b00a7ff52a61cf981e96ff48a87a4d38ce774aba3b594f47f89a50cd68a"
+  },
+  {
+    "code": "16f450bea7bf43de56f0e1e45e97c54850f635b2c4b6c500677b6a4652089076",
+    "khmer_term": "e43c700a28dd239fe698f4b5d58fcf12fa83562d9d359f1aab5440a3a5f8b434",
+    "english_term": "6c3d47c390371506c8f4029f10849b9070de44a108f6ae0e8306d1f29ab4b4fe",
+    "french_term": "0bba7f25d95bf7a2d51412fdb09692c467365205e5742686df3f98cabafa8753",
+    "definition": "cc73b903b283b877c5e44b9f214239c0cec6338c331a557f12bcbfcef4df8da7"
+  },
+  {
+    "code": "faa7d4b30fa14182264c149a403307aff0c4668c9aed201c690d68741daca5da",
+    "khmer_term": "532aac903b58a148f1aa8b0c9cffcf212af15b703e87cb7f1640ebdea5a84634",
+    "english_term": "80cf9f6c6fab48175f1ea9291e0962dfb1bd51a72677e113800cf31339709bc6",
+    "french_term": "2413a3f8c89098861ad8a4a79e99c9067c4ff3a5a6751aa364be9a9935e79794",
+    "definition": "8a7330594348069dee0ca87ebd81c6a1eb77832819eb7ec1d753f55b56540a9c"
+  },
+  {
+    "code": "c0f61fc20e57463e3cc3a43cdd06230b6cd6c3dd6789742bf71c77ec73c24724",
+    "khmer_term": "db1bac58267ae0204926f235dcf39e6787d5920c6c5b0e7e46b0595ec6e70cd6",
+    "english_term": "a6032eae374fd7fd42bbafe704280344906d717c5ac751fa13d7bd7fd28e1be4",
+    "french_term": "8b843412beb0f7740c7c5567d8f4b8b4a42886cce272312a7db480cf7265dba9",
+    "definition": "cd5c4a67b4c6e9fcb8aa146fbb893cd3a6b83b16a05b6a202b93e9a2f16caf29"
+  },
+  {
+    "code": "b22322475486c83817046f6838bbd13a8db44ab263e98a48a35df1563c7720e3",
+    "khmer_term": "5448409b44b467a74f3e1ab7aae7fd4a959827e518c02d7655d4b4d61dea475c",
+    "english_term": "27cd0e874ff4f2fd0f8b4a7dfba37d037f97665408859b1b82db00d44caa2baa",
+    "french_term": "fe87999165ddc00a60ae0a3c0011d7e956dc6a17b9205bb0384de942bf264e02",
+    "definition": "11722b1bf98f11e8092f205f77c52856e44f8c0ca34ddb5b0b26b6176c6b3063"
+  },
+  {
+    "code": "d85ca856c33847cce25652966921b33e92c5aadf047ea8f886b4fa80b8485c67",
+    "khmer_term": "64199e2881af4580c7385eea304c4d22312805d131519035da10995919d17aed",
+    "english_term": "9b246919cbcc773850f835bf385acf3f8903bb328110f353dc1055a5bd731548",
+    "french_term": "c546359dae500ddeb8d604cb2281bf1bfb5c08c5216925a32907f6257528a633",
+    "definition": "679a0ae202bddcfc3a9eb572fac393bf6dc886ad5f8f25ddf1e0e198117fe554"
+  },
+  {
+    "code": "3fa4cce234cc9717cfa5c079035ae4aa9956a042a2a45d689f02f80bd641f093",
+    "khmer_term": "e857014b04ccde355431b3896e46402825ad14f83d6414fb85fff7e249fa2270",
+    "english_term": "2af5f460f5d88cfe645e3ecc895cfd18dfa4f0d8cb44c73e2b919b7325b8c368",
+    "french_term": "51cf3dc9bcccd75990cfa148339e3bba83414cdbeabdaa2812ad67ce2fb625a4",
+    "definition": "c7d05637088a45e4a72dcf2e46840119b797fc0feae1fc0a49487c9a31b70284"
+  },
+  {
+    "code": "b03e76ea54b05372ceda1d0c56ab6a36f6a2ff79d25f89731b22a2a4a44939b2",
+    "khmer_term": "fb2705d19540eb116c6fffafd17edc4d77f5d713ce46a13ff1a0c73221f388ce",
+    "english_term": "b0e6e1a131b932b971933dbf9139cb4d7e6d8c7941f614547ca7443c08f5186a",
+    "french_term": "57b60f404006a374ddf4c0f26c92f6ddac7c21e678bf93121b830cba17e29f5d",
+    "definition": "5b8da6464490c6e9602d4b9a8d7371696769fdb6c5a86c6217c32acba9a4bb68"
+  },
+  {
+    "code": "1b6b315e65dba5237636a190da0d0696501df23375f552e14370f50154ae894d",
+    "khmer_term": "3a4bf1aebeb71757802251956f093abea18b958d699de3efca256a925a0cf2c9",
+    "english_term": "69c3a34bcb072c0e337337125748335a53489c6227f1a1836878914b44f57ced",
+    "french_term": "af197de3e38a3e2f623821c1b56c3a21a93eae5b9111b2dbf67904958c30328f",
+    "definition": "1841d0475b38e82ddd0cfb55df8d5f7376e8cddf967e1bb17f946cb95fafd494"
+  },
+  {
+    "code": "70ad3ac25097a5e626b027082a62744973abdebcf0298ef939cdc3b03cc9a00c",
+    "khmer_term": "67641bb02959064442dfd4c946150c9aa5f5deb6d62d870a76207fbd726cc344",
+    "english_term": "0fc3d16454111b66ca2b4478bd7ac3092691d4135b71966908eaf40935e519d8",
+    "french_term": "e9ef4c70f90ee122a5ab5bdb025849ce07c3a00e48839bdf24c3ec4e9815be82",
+    "definition": "83f38758ee96765305238bc81e54bc34691a643d69b2976174c2f11af94cdfde"
+  },
+  {
+    "code": "160f2eef28b5b741aeac10190fc468f56c203cec698a4ef0cf1a6d1d1de6ea8d",
+    "khmer_term": "1fd606068ee786129126ee7f2fcb5a98fa468e9809dbae8179a23d1b9b278654",
+    "english_term": "05cff30182f6b3851f808b94d39e0044b065bff6518c53760fde1dbfeb45fdfa",
+    "french_term": "f86beb3c05926e1a32cc383d13de8830012faab96a5abca7687e94a67726f8fe",
+    "definition": "243e987f0d2615717d4ad6a8b50545da4c1b76b5640beba47ba12d9652f19444"
+  },
+  {
+    "code": "570a6eb859fd298f7fa5a832a887a4e41d4599ea0f8d9767b380e45a7694dfae",
+    "khmer_term": "a74a936d2e9a8f542c32f22cda2ae4a2a9ba89cc3bae5fe0166e37e65812898b",
+    "english_term": "664fc10a3f4b4f15d039f731f5b868152e087d87f972c293e6ec75f226c39c77",
+    "french_term": "a0dc581b5fa1696ac3b2db36a183c94cda15bf2e801c0a09930849dade79eb3d",
+    "definition": "37923b47e7c540310a1f63ebea172346e14705fe3ae8247b6dea29d46a0580d7"
+  },
+  {
+    "code": "1ef20d3aa77f8fed6521e02de5991af2dcb9a9ef27f95a0711e21b697ec10d3d",
+    "khmer_term": "0e3322c2db9e912c7cfc8aeb25ae32dbd470fa368feaac3fa0027d418550fdcb",
+    "english_term": "853e4aa912d92c9e2a2ff375f8cacf6a2064c9c8a334e49ef10a2e274043e29c",
+    "french_term": "30eeeb98d50f23f61183fba34353b71442ac87540b9b28dc47ddb4a0e868250c",
+    "definition": "9b9d46c52c3ec4e3422710aa0453eb5b67900e4cc48b76932456993129f063f7"
+  },
+  {
+    "code": "0bf59da18145733fc52459ad45ea4136038dfa97152364f3940028ad2535be12",
+    "khmer_term": "4ee57c7d2813d0f752fc03dfd9192171f35b40a34375503fbbceecbdccda9fb0",
+    "english_term": "8c4f47067d8a018293e03181de38605a10b7535a634c3b09b3f04894299f20d5",
+    "french_term": "977296ce7d57b9146f2a0016bec98893e1df46c8c27d58bfc660caa57399244d",
+    "definition": "9f329ec12f8a27af1ffe9920e8e7aa1729b3eae7bc7f3a8fd5010fc2b866a8d6"
+  },
+  {
+    "code": "8a6257914a140e818658d1eb37310886243db0ecec50f9704cb7a6709cbf22d1",
+    "khmer_term": "a5789b19665298095d9ab639959146db0e72ffb1e64364362e11c9a9e808b03a",
+    "english_term": "985e99f9373c304d609802f71a8942278fc7445dbbe515fe3fa893691593391c",
+    "french_term": "6b1d80d82399c09d0000fd80528667f15d6488f7123aae0c8e001254baf743bf",
+    "definition": "9bd3635bafc395e2ac203bdea047e731b9299f5ea424e6e0ad2a6849dc7eca00"
+  },
+  {
+    "code": "44b8c2633981d2cbbc50bb2ecde9674fe1c08e782729e65b22e079f692d86be0",
+    "khmer_term": "19a3898a3951ebca65920bd2046de559a053ebf407519a30315f997e8a0d747a",
+    "english_term": "aef7de28d52977f1b5cd0fecfdc151717610adf41e0aa33b4d9f7522a43337ef",
+    "french_term": "c088ebe4782c5bb7f772b46d1c724aab8f4b08658152a61b8bf64cca42a6b28a",
+    "definition": "2a141da2b15a1cb83e15b222ff914e6da7fd946e77afae3287ccfd5839ecfd74"
+  },
+  {
+    "code": "40fb22f6fc0f5b75d394410739f5b54ba3ec5f7cc9a5cbc2d1ce9750f7c0ba21",
+    "khmer_term": "66c3fc91192ad4f95b3e40de8e853440995a53899c23bd3061acb05e74df4432",
+    "english_term": "75fa386342e8b7022ed37c5e303b1cff740c973c4e685776d4d294c80baf3cfe",
+    "french_term": "e0d548089d86f29fe24ebb4c252458e77eda8c35a27c9cbcd674a5182d37870f",
+    "definition": "fa8325095f93df5d854c962cf38f90af60022872e01231d8567ec87a0b364d6f"
+  },
+  {
+    "code": "2f0ff9a1d99258309d1b715f49eb87990072172574ab31a96cec4a670d9eadc1",
+    "khmer_term": "fa4e2388256c945b66984c35f3b25f1a4787cbf7d7e542d2e0bda90eec5fa256",
+    "english_term": "144d4f9ab93fbac6f38308967f360b2931a38b8a90ca7bf5433ec6e3f03c9e90",
+    "french_term": "a56f7bfd412b03e3f463179b8e3dc4baa031b8a21e895b99e7648d8da2197c55",
+    "definition": "d5f2ffdf112cef089b992de75a9096ab14ee50e957d754bbe52dcf43ebd9971b"
+  },
+  {
+    "code": "149224e5625380542a09307d34078a55f72e22bc75d4233206c781f91bcc22f3",
+    "khmer_term": "f61fd8ecf6ca79205d5d35fedb03ac7b608eb616a6101553cd1e1a2aae165afd",
+    "english_term": "176f1c109e28fa682f741fef9571f01ef16430d80d26c312f0c1677c7842acac",
+    "french_term": "bd66f34991b65c508596539baaddb81264e9ef4ef4da4bbfe26298f1ff2af7fd",
+    "definition": "5fb8b608a689919efaa97b4021d314ce14434082443ad64378e5a96b62e0b7aa"
+  },
+  {
+    "code": "546672d0e40d200266e6cba4d02e6baa34bc458c28da0ba2a16ea43d670f8a89",
+    "khmer_term": "8124ddaea179fc6a4ac75195192f6ebed46d9a244dc89d5c6646ed6232398497",
+    "english_term": "e2295e71534854230bdf1600adb183a019fec58fa4d66dd5b715ca98ea31fe1c",
+    "french_term": "e132c37c6e923fabc696544e713251844a0de72c1b1adcae18519c41fd238315",
+    "definition": "78636a86426f6013bd0e8f7a335f8734a80aac05effcef3c1c316c63e1e5c0a5"
+  },
+  {
+    "code": "98323c67b21f5934d6d581849aebf2cfe4620a10e3740d4a0dd5285924384127",
+    "khmer_term": "a87a88d4a734a8d5fd3f56b279195a8393b8d3aeb63007b1f487cbdf0a488063",
+    "english_term": "01fd59b3cb446c5c6065e1b8f51f2168ceb54cfd3020835f281f283c1cefb074",
+    "french_term": "f476d02d4ca0aed3bbc64e2e48286513f5bd316f322cfb12fd3c6041f896982a",
+    "definition": "2efb8aef05c497b1033295975084619be46a0f05508afa157f435937304627be"
+  },
+  {
+    "code": "8e115e44792a43d5fc089e065eaa91c8119d446d218adda6e64e7849f26cf2f4",
+    "khmer_term": "9431a3e0ae69a01dc0ada8cb77992508cabdee5b23ac44b8dc4848964a56ca04",
+    "english_term": "54f8f13c6717630a1c31bb1a34890b720bc8253075434916fac386179591a557",
+    "french_term": "aa21b4da78b604ced5c0df71131ede1d24b0d74cb73d858bf22216d59d70022b",
+    "definition": "d513458275e248375637f42469445d91835e45e0a75b0a45aefd7d4c6db1a6e1"
+  },
+  {
+    "code": "ff1b108ea72538e304d9f097a1f18cc01324e508ea519e9bc3013cc2b17c9fc0",
+    "khmer_term": "5b474b2f33da9258ae1bcd51346a1ede340284834ce3d7f2760cb48a9a7238f2",
+    "english_term": "5481198ef1204d8512b0bf2f8986eda3b0f4d7937e09143d3d7e0bcc9ea004ea",
+    "french_term": "e2d722a2a3e2427adbdf91e421b146fab4dace21898f9d96ca1ca4e2e4e9d816",
+    "definition": "29bba3db02977af598659153b6a8dd257fde96d6fc72b33c9f7226b01f32cec0"
+  },
+  {
+    "code": "5b3fda5bcd59e8193795fc9da797030eb4f9bba099b4415fbb1ecd3f82f12121",
+    "khmer_term": "a05f99e0578dc88b3b4e6c0a10d9e11781a440d0bfc0b3d8cdfb482d8c36cae0",
+    "english_term": "15abbdc5727989f0ac19b3233b5726c166fe1c00ab502dd096dc9f4a0bec67a6",
+    "french_term": "4ec8aee37d74d8c703e100b2aa29719f1b5095a9584038c32749708dd991c9dc",
+    "definition": "88bc51ad1da1206c722075c34bc25ae09ba2202b2a3f177243221e54f86378a5"
+  },
+  {
+    "code": "4e9e36025aef0a75c955732017fdd4b4257c32cd5440186707c2bf3c4c0a55d2",
+    "khmer_term": "ee7768e143366695dee7900d2f0d6de726241c5001b7d7ae4123701e6d4cb3d4",
+    "english_term": "6658c344b6585a28d2a775b41b91baf50e879ca10f0607977029d4e7615bf58f",
+    "french_term": "6658c344b6585a28d2a775b41b91baf50e879ca10f0607977029d4e7615bf58f",
+    "definition": "0c127fd0166a273f36af6655862980552bebd3581edc66872b89607c1edf4f7f"
+  },
+  {
+    "code": "36af21ad480d250943b4ad320b64a3453ba1c91deef847877ebfa55c631f6ba5",
+    "khmer_term": "3b3c82096c9fa9d4bbf2c4af2582e4e5e7cb7909d8eb4482fa6466fae1246f2a",
+    "english_term": "b1e8ab6009810b72a9a58f318906ca8f396e46965aebbca44991143ed76828ad",
+    "french_term": "8825d28c681fdcdccd43957d9603b7e6b9b1d08d2a5f0fd25cbc1647ea8ca2ef",
+    "definition": "d3ca28f50e55b9377638f35176362d7511468f382fb24204900a4baf1cf0ed38"
+  },
+  {
+    "code": "076b71d7f4da2d0b63e8adb087b06b970b84cb06792a6e5276fdbdd050925726",
+    "khmer_term": "321430c5874d1827e5355f27c448cc43841990323f54c95170aa6fb6652aa602",
+    "english_term": "18a37de0ec49dc6d39377fc4e3c3603bb114561a4bde70cda3e7f290ce03971d",
+    "french_term": "18dd5a74f9ccfb787993d64cffc6e0cd2cc22f96c4c22929c0ffe619405c66bb",
+    "definition": "3669beb91a6d9667dd78411a40535580de311d461998d4c9e27beeddbcbcfdf2"
+  },
+  {
+    "code": "f37a8e15e77a0bb1fdff393db8df9275c8af70cba9ee3a6bfada5f62bffd0dae",
+    "khmer_term": "f9853a2a3cca7441841b73bf6ba8969102d002e8c10b735dacbc90c4b136931f",
+    "english_term": "d7852cd0d2453e8c9b71b61cad6423697997b1e518b5de2493111524e294fa6c",
+    "french_term": "d7852cd0d2453e8c9b71b61cad6423697997b1e518b5de2493111524e294fa6c",
+    "definition": "7fe2e2e143fff0844c3f9f848e912faf9d8c4c259a1fc7fe35be5a7d3a2f8413"
+  },
+  {
+    "code": "3c559a1966f7e6b8cc3c47df3c5cdc26d5d3e006a8836718b1c6b95e76590a21",
+    "khmer_term": "146d9a9bfc8bfb3d0e12470a1889754ab8a4fb62ee8f477c64f5e5fad05d517e",
+    "english_term": "62db31e3b51360d831050c45c60da3100aa0ce0ecae0853a1ba73aa4fc516b1e",
+    "french_term": "c9715d199c5a631a4d1381ee100977db0e7f97c83654efa7800d9ce7b35ef3d0",
+    "definition": "c9013b5ed52d3015c6648af438597c8a8c343da9ffbf2297a0f02ba2ab2f47ad"
+  },
+  {
+    "code": "c5eea0de6089931d239fb01451d0c9179dbaa28a2b00aaacee60e8045b35f49e",
+    "khmer_term": "22dce89dbd948debead82df540f5f1ceadd872614d9fe925b9703699974bea1c",
+    "english_term": "c3963aedaac6c83c04cf8fb997b479c61e66b3caeecfadd2f2d4bd5b0aef1778",
+    "french_term": "90c30abceeb2f8fef76d31109c66424123e6c826f2e76289961423040cf6070c",
+    "definition": "7d7e8e3b1a17ab27706fa39ecd5c1a3f24835451e764cf1c1b9f03b24e1c43b4"
+  },
+  {
+    "code": "4f57227c96656e9b287b886396d1460bc18df77b8820205d8c9728afe27a7989",
+    "khmer_term": "774d00bfb2b151441bceed772e6be0716b0fba3df66bd33c6b89d90b7be47a2e",
+    "english_term": "73e3d2b5e486a77d8a3f66b6b7b8f50f8f6aad7b97d4d5f8528eb98c1da043bc",
+    "french_term": "862b051fa7780b49dddd23ba1f877e365c3fa041eb00cf1808f20bf4bb78aa43",
+    "definition": "61a58818ca77dd292a9a04f2e69b246df7cac96db9f171c8717b4f881e9f839c"
+  },
+  {
+    "code": "a0f427a2f83769dec2c354e04cad3811ea354cde8af5819e32e4795fc21d2f73",
+    "khmer_term": "f37d680320369f5bf6baa47c0b61e3b53dcd163535cc1f34db0d759b2227ac3a",
+    "english_term": "bf3763383aaf43069885db20b386631c6d5d8b8481df2a26769e9de5fe2f9c82",
+    "french_term": "0c77fe09ab336a3e57cc2b6804a9bac65e19a27782b5a9c815d585e894c3b7f2",
+    "definition": "a96b93b522553547387fcb4ecdadfeea2d0047a46a5ac94208a4b0187400d8a0"
+  },
+  {
+    "code": "08a87ac05a71b7d0d8366ce9f6f54b4b2eae34fdb9610d870871e3208d0e66e4",
+    "khmer_term": "703a5ffbe809dc31b6162c50d4cca1806078ce161578e00cb872768deb883b7c",
+    "english_term": "0ade40964c98be04c8e7c9328853adae507a35b2ddb123168f67922c1cae3abe",
+    "french_term": "56c6571cf675b1cc8e7f11f48d92d13d60f48551c715db2868a3e558141fc645",
+    "definition": "1574e0a008bdc5d42b3a698f54cc30c5cb9b9c8f422f92d60640953fd0ad3052"
+  },
+  {
+    "code": "de9128aec8847d3618435c5c29e22be5a9760fcba0f271c7e8e1a1e61d9e6609",
+    "khmer_term": "25b86d50160b60c58f1bbafb970540012ea5831f7aad4d639b7b86c8bd328769",
+    "english_term": "217273063e4dfa96807e26d512f16201b5ecc9b04b3bd969971e19bdbc0be02f",
+    "french_term": "7c92a02e69d270c8d4d952ed34422566558fa128922c92dc0c4f76bbfc998d67",
+    "definition": "883fde1fb7b5f5d98707ccaa77c6354af3d5d55b174f2e95421d1c38c269d825"
+  },
+  {
+    "code": "a847f5e928876a6d26d3ca64ca9bb8c3b8e5be73e4d8cfb7aa450109cb21ae97",
+    "khmer_term": "ca6fa3dcaab913f62a5b17b68ee253987edbe67ba7448b19fe181ce29c8ff0de",
+    "english_term": "ba4520ab4f2581c26e9fcd36f55a8ca785970e3af0433646bbc2c1e798f294ee",
+    "french_term": "bda65ed6bc91a3e155462fa0ea63a27d1ba9c91a248ed020320f4726f37bec59",
+    "definition": "14ca0cf90abdcced110c9866ed89d544f18dad552132d814acf42481484bb290"
+  },
+  {
+    "code": "58e8c43e0fe2e36bb652d2b6fbffe1afb876be7567d04cb5bccae2fde4b6c155",
+    "khmer_term": "1902dbc81f2e0603a739ad22d682c294b80dc77c530d028fb9795c5fab7923ad",
+    "english_term": "f729abbf1227241982861257964f79f3edde2a3a5d4bddc477ed478548166936",
+    "french_term": "f729abbf1227241982861257964f79f3edde2a3a5d4bddc477ed478548166936",
+    "definition": "eef56528f5544876f4ba14dc2b2f37216a796e08c7b8953c918956e2add6ca54"
+  },
+  {
+    "code": "55a2ae9f7f33d7d60a85b03e0cf810fa07aed2068ac8e3ef5dcac07ce743d913",
+    "khmer_term": "3a583a8422a325769239fc8e3253fb879f15070ed3a83c212d6ed28e577eaf87",
+    "english_term": "8e4ccf3108ae2905710caf618431f2ba3b2b64bd2da2d503909d9da54275c547",
+    "french_term": "0e4ac0dddb0649b33dff82450909bd7f517d452aeee0dbd2e091cb09809a1ad4",
+    "definition": "710be9f4947ad30eb50b45029a4c69075b945542b42c379d3be47e8d8350fb3b"
+  },
+  {
+    "code": "9b9e9da435c5923674896446990bf625c286299845c3167d97737ccde7bd4efb",
+    "khmer_term": "a8cab135c171cc7268c1ebc911c884d7f27a64ba03c17306995a8e8e01e1b35d",
+    "english_term": "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6",
+    "french_term": "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6",
+    "definition": "f1304dcacfcabff1fa49e95e6ec88be3d70f91c74b0a9c97f7f193047a7269e1"
+  },
+  {
+    "code": "63765daf7835e8287f7f1fece118826cd49a8fa9317dbfef8ed7c46896601297",
+    "khmer_term": "ee6469b50ae9fcd30558971c4855900c192ca220eabd0fc0bbdf1a5ac02eecfa",
+    "english_term": "7407f0ba7643a7ec6c8818d10a01285bcdefc466f69675e6407638e9ef43d2a7",
+    "french_term": "7407f0ba7643a7ec6c8818d10a01285bcdefc466f69675e6407638e9ef43d2a7",
+    "definition": "77b06e05fe9ccae60dfb7650c2f1766f8947a1013767c187069b65a41459cd17"
+  },
+  {
+    "code": "2185c9de445130b7e86d1a81021f635de67b0c29bd1f7021c6bb2f796e3dee60",
+    "khmer_term": "1f4f83fabfd67ecf5357d6565b14c3311f218327a1c97ff21363f382a81af345",
+    "english_term": "681e12098d288b651d0c3644f31c490cc13dcb5c5950497446abb34bb1042ec8",
+    "french_term": "681e12098d288b651d0c3644f31c490cc13dcb5c5950497446abb34bb1042ec8",
+    "definition": "9f4cb3a396f1586502e525c7660e6359e35828598d3c184e0e1e65109c222bcf"
+  },
+  {
+    "code": "d08761efc32020de91aac8648a9478c563077c756c30c8094eb2190eaa566f57",
+    "khmer_term": "a894c68dd17575dc35df0fff99a3d51e5440925a8d8817bd61eff7b9d3f4a992",
+    "english_term": "eb510d2c8f809464b9d0bf3ce6477b1bebb33b2a5e041bd27493573a924adaf3",
+    "french_term": "db64ae17c4e2a07dc66068028fdb409c2d4660adc211739dfcb0c4bd6d1fd05e",
+    "definition": "a92445963112af2814bb39e8154d387e0c735df4cf93ef1cd8a32238ce7ec0e1"
+  },
+  {
+    "code": "ee08f753c64343886d4d44d7f32e271b6bb0756779fa6828a4630af0cf8721d8",
+    "khmer_term": "48588d447d896fc4753c8c7a398116860eec9e1541fa96cecd2f37bbc14059f3",
+    "english_term": "7411adf7f2eccadc373d7e799c708a51856079416c5aba82f2427690a5f14848",
+    "french_term": "42eb7665b4dae50ed6f03c412a77466da4dddb64337c3d499ad9834a3c70bb60",
+    "definition": "b409f6e9e02afb9c3c2c45977d8ffa51722dec8ae4c9112dc1f03cb6036cce04"
+  },
+  {
+    "code": "a6d7df829e26d03090bb28f117d606425e354488091a649e5c84902231296197",
+    "khmer_term": "82c6c7459f112a77ceecab6f14ae91fcbf36b696c44be77d410d6546b4ea5089",
+    "english_term": "0605e7fcb136a88360f62894c8a8a11fc0a80d98c65c79a52e602c97d620ed30",
+    "french_term": "7bea58f6c96a83c78eceb753151838e72d73bec42e873d6bf494cf408feec9e5",
+    "definition": "70fdd82f4bf7ed7a68c9d91358db2ae15ffa299a2658fc474b7c802d138fe838"
+  },
+  {
+    "code": "1cc8c38685db46a783be2d609018378339a7bf25b6f521d06eb8bb083b65ed09",
+    "khmer_term": "cf5cbd74e48003f384641ef85c812b0fd1d5ca82e7c5d1e876b6c298a8393029",
+    "english_term": "ccf2c43ef257b089317022227c8df555dabae298c0ab8fca120f73962fe87b90",
+    "french_term": "d49465eb6f153d3f4f70e62fa9b575986436a62034851a72200674ee888a4433",
+    "definition": "8ed74fe191bfea730449c9d1aa9705a17c103f1435bca12dd4745df76b54fff0"
+  },
+  {
+    "code": "205e46bc5eb294c1a2a54bde1f761e6b9451f40ecd648a9b36a908dc139df2d4",
+    "khmer_term": "51e34f08f198c087bebc3335208240b6ad25dc028b3b1a3cb634101a3c2db7b1",
+    "english_term": "6f797a7d7418214661e9dfb6177fe9c06095ef266f258442ec20bd7fad52fbe2",
+    "french_term": "2eabb882148f74d260cff4d5153e512897220235430a165e936e8e34d119b4fd",
+    "definition": "339468911984972ade7164bcef6b544c81b75028e676f5e26af7d7a0ae5aef51"
+  },
+  {
+    "code": "019387f0995b99a0915d7b57e10275035a50d924d2d0297d2100473093c7b4b4",
+    "khmer_term": "cb7d3bd5ccd93fa77da5a566b7ea7b6b622937a2582336737e2588a9ac4c31fa",
+    "english_term": "18e5548cfa17db1722c13666c561e52511de70dcd192a00516f0ad163debf8c7",
+    "french_term": "5c794356c4f5a9892abef232a67b9367bc16f3bd6de74b8e9bd100663445c83d",
+    "definition": "815c26580dcd90876ed91f4afd11d3e5eafb8b86963938d1429679e94b26d3fb"
+  },
+  {
+    "code": "6a74b4188cdf24bb41a3dafb6c8eb44d717cf67de61934567da91fa377517d68",
+    "khmer_term": "297b75484c260d6cd3434d0c4c11a8aa136b95ec65cceec209c8f089527facaf",
+    "english_term": "112f3ccb1b36a86a2b35cdf18599408a58b599e19f7073241d78ee588eb1e9fd",
+    "french_term": "112f3ccb1b36a86a2b35cdf18599408a58b599e19f7073241d78ee588eb1e9fd",
+    "definition": "705cb6c50eb03f6c25554caca210719f0bb0f4b217fd85d241ee41ff8d68b34a"
+  },
+  {
+    "code": "e5df2cd8a0489218a7c1cf15bbfa8596bb22ec140c81a070c07c2643977ebdbb",
+    "khmer_term": "3128557d1a6493725953d7531d3ddfdae6436edb2fabeb84191b69bfe34ae12e",
+    "english_term": "592fbc67e7e21995546ff35a8448b4beed9b358230439b985a2c0185f8628d8c",
+    "french_term": "0f11e0b81379420335f9a343f18bb21f4eaa4e6912d62167dbf44189a7edd701",
+    "definition": "6b70b7aa53746b47de0961b4230f14b34f3c2b153b18e5e7be98b5dca8560dc8"
+  },
+  {
+    "code": "bfd197d205497d97f1a98c2b05eedd0440d8e53b1757e59242505f61a7d0ebd2",
+    "khmer_term": "990d42178b270bf4591bcc58b11fd344f112ca1604841a804118ec538598e409",
+    "english_term": "0b61a0622ddbf1cc8d7b4a3d990cb24f6a713e2dd1b3608e36a650517f544390",
+    "french_term": "a19ae3472d2158476339bbdcb7459e90f5dd6d1d3dd382b1c9730b7112ac8891",
+    "definition": "e8ab79d8e0a55a5138e04b574a1e49b398d1137d06b212432e53e873bc719c93"
+  },
+  {
+    "code": "8b8dc24e619eed6a6a912a0215667b019360d470b4aa6753b0bb555c32761195",
+    "khmer_term": "64dc2637298edbd69ae119f2baeb62aee66046813bbe689a8a333021136c20fa",
+    "english_term": "2c525e30c54bdd0a8d61a112951242075cc16df5d30c3d2efdd608a03beb8e59",
+    "french_term": "17971ecefb6b3f5b8ed43e25fb7e66c67d97a754f3935c5adbc7ad815f88d8cb",
+    "definition": "e4ebfe795d007d6160d40ecfdb8a18584863e6bd1d51c5e3294b3e9e866807af"
+  },
+  {
+    "code": "ae357e54e94ce905ec8ddddf57fbd1e22de192db8e4d1953ee45ab75e82ced1d",
+    "khmer_term": "a1287820bbe4e6beef936a11840194e006e710ab48d6676a254f417e9ea11d34",
+    "english_term": "89a4382b6164bfe171507d674d5673551d87274b1bfdeba70940d326b186f5ee",
+    "french_term": "141fe64365919455ab0c907cea51f51c6b2bee67260af22c6426bd759416f2a6",
+    "definition": "dd15af4cd08778555feaee0e0931ead10ef7544cc7ad23aa146af35055997e13"
+  },
+  {
+    "code": "116d481fa4daea7388c01f89c6c178fa9c8ecd5f0f090278e03616e101e65c42",
+    "khmer_term": "ad92195f58f8e3f136a6cba2fc3252f30f194e3ffed52af8011d096a996aa557",
+    "english_term": "1ddd4f8e82a22011af7eaf78d6dd01dc9f37a9610aea93468a9bc8d305382f67",
+    "french_term": "df199421f02ebd8af82597493ace41e82b5066a0ede67aa22f87fdacf3d58958",
+    "definition": "f300d8188f689f19c75e47271628d1d59b868ea6913f6b476112c3972961f2c7"
+  },
+  {
+    "code": "8da490a7c35e960221b25e11e50c1a093de8ba1ca4a73b205ddcd79a4a9eb50d",
+    "khmer_term": "8752599c503c58eae4826ff4b20f86371c0f0d9b0ab8b06c3d07c2318ba3fac4",
+    "english_term": "00d8fbdb3861d46a1f5b9a88b129e4839b03b65a8187b7100468951ff395a207",
+    "french_term": "8b59f93d7714b00c370d386703eecc4aa5da829e248190ed27fe217bb440c17a",
+    "definition": "610eb6853a4368378e7b1ec26a34d9c7b3afea679a4e1f60f97dd04c111515eb"
+  }
+]

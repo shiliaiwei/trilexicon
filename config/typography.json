@@ -1,0 +1,64 @@
+{
+  "system": "c79a04338d795c2196d9185054d80c21b0978d48a4d28bd92d902d01f52c185f",
+  "allowed_fonts": {
+    "default": "06298e33da1af8c3e6f1436c86a9bcf437898c3d49f5589bafb1cc4a5fde8660",
+    "english": "7fccb969ebf57bcaaaeb4f8c4d3b85a04a27404a7a5a5a6fdc6c9bd79e417465",
+    "khmer": "a20d424cc412999bb722905393bf3aea71b152512b14d2820a1e1ccedbd0c38e"
+  },
+  "typography": {
+    "f81a74ee6b0230bec804f85a80ac7ae6557bd839fbee2f91fcc6728ebb3008e6": "62b9a7e0d9b0f6f753217d5887f20eeedf73e06ada878b56cb1aabbf050eba29",
+    "bold_latin_font": "9a1e81a4aa125d3ccfd111cb1f355bc384b5ce4c204a7c6fded3ae07046246c9",
+    "23bd9a69569319968c165864f1f95069d0438d10960d5e00905d75886b26838c": "7faddfe6ca4aa1b36be39996a53f09107e590166dbd04c6570182fc2767a2751",
+    "09a95123aea1cf4b11a9bf4d4c6ad4660d00bfd81599d6b6af6c3e9b9f8c382c": "8df51c58bfa35e3898dc8eafbb05a0670999f3769834b94e390e49747b38a5a2",
+    "english_font": "9ad24a5b16215756db3adf62286ff93d12b32d4d0e19ed06b9888f33513ed732",
+    "ffdf0e6bd5775712b54c34b057978ba6516f0bf6e30b260e2ef1884746e8385e": "67d4a23d7b29f7507c4cc8c622c3184e243baf855b0393b9964bc22122a0469e",
+    "44431e9b8f0528de1a7aac9caa9109ac9e13a113d4ef7259aac6f17ec8b790a5": "dbdf040ce153202e40922001ad620b3fd2c1e98930ecef243588c0d7129ff8d8",
+    "2e355a55ee02047bc11374ef1d4b018986b91a5390131ced421aecdb6fcd46f1": "cfb530560c73927eaad7f9b0ce3880a15145b03a7a6132d970366263db045d9b",
+    "hierarchy": {
+      "display_header": {
+        "size_pt": 52,
+        "bfaa6852dd6c10901ff3731d4d49aa17473f4bddd628143d2c9420cbe5611a25": 1.25,
+        "weight": "e0007a5bca8d915862749b39bc77cb33e0f6fe5ff504191587e1ba59d8251315",
+        "font_path": "67d4a23d7b29f7507c4cc8c622c3184e243baf855b0393b9964bc22122a0469e"
+      },
+      "term_khmer": {
+        "size_pt": 48,
+        "bfaa6852dd6c10901ff3731d4d49aa17473f4bddd628143d2c9420cbe5611a25": 1.3,
+        "weight": "e0007a5bca8d915862749b39bc77cb33e0f6fe5ff504191587e1ba59d8251315",
+        "font_path": "cfb530560c73927eaad7f9b0ce3880a15145b03a7a6132d970366263db045d9b"
+      },
+      "term_english": {
+        "size_pt": 34,
+        "bfaa6852dd6c10901ff3731d4d49aa17473f4bddd628143d2c9420cbe5611a25": 1.2,
+        "weight": "ab5b647cac67dd78db1033432203369f99feb162f6111b872657054e86d898eb",
+        "font_path": "dbdf040ce153202e40922001ad620b3fd2c1e98930ecef243588c0d7129ff8d8"
+      },
+      "term_french": {
+        "size_pt": 26,
+        "bfaa6852dd6c10901ff3731d4d49aa17473f4bddd628143d2c9420cbe5611a25": 1.2,
+        "weight": "c082456a7766e23a18db084cd34b6ff510baef506548b897cc80e9b7d3e121c8",
+        "font_path": "7faddfe6ca4aa1b36be39996a53f09107e590166dbd04c6570182fc2767a2751"
+      },
+      "definition_body": {
+        "size_pt": 28,
+        "bfaa6852dd6c10901ff3731d4d49aa17473f4bddd628143d2c9420cbe5611a25": 1.5,
+        "weight": "667937c3e7a68ea374716edae34173e66dc54f380cffaccceaf15dfbfad22f99",
+        "font_path": "62b9a7e0d9b0f6f753217d5887f20eeedf73e06ada878b56cb1aabbf050eba29"
+      },
+      "tag_badge": {
+        "size_pt": 22,
+        "bfaa6852dd6c10901ff3731d4d49aa17473f4bddd628143d2c9420cbe5611a25": 1.1,
+        "weight": "e0007a5bca8d915862749b39bc77cb33e0f6fe5ff504191587e1ba59d8251315",
+        "font_path": "67d4a23d7b29f7507c4cc8c622c3184e243baf855b0393b9964bc22122a0469e"
+      }
+    },
+    "rules": {
+      "152e30534456aaefda60c46933ed6aa6533134159a23bc57e1276bc3f9974edd": "06298e33da1af8c3e6f1436c86a9bcf437898c3d49f5589bafb1cc4a5fde8660",
+      "english_font": "7fccb969ebf57bcaaaeb4f8c4d3b85a04a27404a7a5a5a6fdc6c9bd79e417465",
+      "khmer_font": "a20d424cc412999bb722905393bf3aea71b152512b14d2820a1e1ccedbd0c38e",
+      "3995184c89ed53d511165527b52f4bf997d3a771aa411aa1bdacc00318f61d81": "610434a963f2a496ed5ba7c68d75f43a6a8a6aa5bcd5802e15ae1254544d6cca",
+      "a46944bbebec1b67e029ab05a4bc643b60b00372b0d5f964242b36bad3074ce5": true,
+      "cc2211d0320e4204770a44fc4857f26aad7ab0773e1dd5354cfeba54dd0bdf74": true
+    }
+  }
+}

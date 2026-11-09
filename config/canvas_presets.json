@@ -1,0 +1,88 @@
+{
+  "project": "a57d125ddb47f5c7cdc0e9cc3251b9e03d3defa16dbb7bf3722daa2cb256573c",
+  "repo": "230b39bd4abae3e3f576be0ba0fa448ca2ad6817f98ab6693792d462ad2a254a",
+  "version": "f22abd6773ab232869321ad4b1e47ac0c908febf4f3a2bd10c8066140f741261",
+  "style_tokens": "ed7799c3faae85ed4540a18d0c870731fb88dad48f03831a506820375fff0f0d",
+  "color_palette": {
+    "c5660054ee3e2d8c7a367287444630d0ef88806c397e6b5a718db2d2e2dd362e": "6880845518fa1fce7a8c8335d23c86529bb386f2c210bb418ddc3d3e7a54ac5e",
+    "fade427b422e9686aed9e080242736ec849215ecb99d72450f09fb678121ca00": "d3e438e17d490c78afcc565d0b711ab069fc1dbbb96f60c7cd64567dc6778c92",
+    "ee3a74b0587008d4e9f9e5116ea453a08cdc2df2341873afe7b43ee65132c70b": "2cc56d8e3e9c88d79691d2c747273cd04c17c3d0ea2e95b010a8e0f6591c206e",
+    "c3af212e0977995964c64d60b2af548eec732f9ad1fd20d8c8c7b618b64a5f10": "07ee686b3ce29f11070f5edcd6f0da03659e67becfba76650c1c6b5ac079847a",
+    "blockchain_cyan": "42b64e672ad83dda7de0f833e56fd7384d67ba91be180aac576ec308080139de",
+    "fbf8a98a1da11cf691558ec311ee6dc7e0c661026f9836172df3e32fa5a8a805": "2c5368fb84dbc30156d2bdbff3b285143823901b6fcab7746b0fd1bffe5a7bc2",
+    "6329627b5aefe6955a8c7900a206790b666af6e26977ebb10309e8ea1af156b1": "7fcf0b0dd8a9f4ed452173b056377fc591ef70a4442bb4273fc5159425d16c23",
+    "feadc35f9479f1a19f9d35715e1bc926dbdb3257580e8153e18fb5dd94d681b4": "5ceeb4ec021cff8a05c36a7adf3c6dee3443e8ccc195435499aa1a4d98e09841",
+    "signal_yellow": "a0219db97fe0adab17dfe7d5be428ba6b3e9a6800069a0b64e496ca972811c80",
+    "c72c622b0a5f6eadd4336767c0f99a2ad6dd3ace3625fa77514cb45c64c874db": "d6ba234f2a15061b8952f747ad98e8ea30a225a67b37df1b1f206aaccd7eb007",
+    "text_dark": "d3e438e17d490c78afcc565d0b711ab069fc1dbbb96f60c7cd64567dc6778c92",
+    "text_light": "f38ab0a4e14ff2ae964b81a551cdb3ff67fd3e2a72527767c0f770504ed891e5",
+    "text_muted": "c7131729c43b4703398d130ecdd8b17fff45c2fad270516e13ae325b79d130ea",
+    "border_subtle": "3d942b15659216c7ebe085ae8d0c219fc0c53087ec9cd6579805cb7cf52825ff",
+    "ac1b2fd71d6668b5dbc81340d4fca549d8f30affd06890a3767f1492580b0c9a": "fd4a12cdda0920cd810c5436913b88a5e36a6c02d79250e8a9e91808b4e202a6"
+  },
+  "canvas_presets": {
+    "f731ac3173279cdc3a06843c5caae8b1429a54641bec54cc9b7b316292567cfe": {
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "1ac6f39e9f51dabaa2bb2a38df04b0172e923a69df0159ec506db64fd7c7fa9a",
+      "9a2521befdda69423ca776eafd931df5f663e57e602fffc3dabcd5a4e42c7c05": [
+        "1bb6fcfbf1368a7b27a6db04802e2756a9e209eb24f189c3e35be8542f439a2c",
+        "8ab5dcc9d8704486da465f66241ed6a9b48fa56a83db6978d31dfafd4c470331",
+        "b15adfe53a59a094a44f38d139adc70eef09b59a0e87b796ccd919016e1508f4",
+        "2f8b54955f98aac7eac2b6fa9584a61aef70f476fa2cf4ffb8aa0c647261e276"
+      ],
+      "safe_margins": {
+        "top": 120,
+        "bottom": 220,
+        "left": 85,
+        "right": 85
+      },
+      "card_box": {
+        "x": 85,
+        "y": 920,
+        "width": 910,
+        "height": 720,
+        "corner_radius": 24
+      }
+    },
+    "square_post_1_1": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "d6b5915c46057bcb005f46f6433df65609dd3a7a57af75ac1a5a4a7c299ebffb",
+      "9a2521befdda69423ca776eafd931df5f663e57e602fffc3dabcd5a4e42c7c05": [
+        "05a5ec6b5826acfab3755881f31d9c1738aa8130d512c3c22bd898de533b9baf",
+        "feac0762e92c144dd406b95ce5475b99ffe307d3d4da2a886391798f257973cf",
+        "dd84425b72da12c6c828339ce814342daceac705b50d42e377e1acebf8f2320b"
+      ],
+      "safe_margins": {
+        "top": 80,
+        "bottom": 80,
+        "left": 80,
+        "right": 80
+      },
+      "card_box": {
+        "x": 80,
+        "y": 240,
+        "width": 920,
+        "height": 680,
+        "corner_radius": 20
+      }
+    },
+    "06068a2d56603158af677e8d9dddb8eb294fb76be87bb4a740ece688422074da": {
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": "cb140f95f8a88c27fc464e08c2e4627de234c89cfbec1feb903e8733ff04f073",
+      "9a2521befdda69423ca776eafd931df5f663e57e602fffc3dabcd5a4e42c7c05": [
+        "fb7accfff8c6f8ea9b03c91ee5576d0d08080e9ba35918d801aaeb6020dbc88c",
+        "9198bcc2a9b07e8fdac05c5736b112a5208c2881d995036cffacfebaea6e95fe",
+        "a32812631258e2c0540322504d9c523df1b1d5abd757e931050fb001b13fa205"
+      ],
+      "safe_margins": {
+        "top": 80,
+        "bottom": 80,
+        "left": 120,
+        "right": 120
+      }
+    }
+  }
+}

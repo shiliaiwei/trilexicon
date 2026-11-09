@@ -1,0 +1,910 @@
+[
+  {
+    "english_term": "f190a5cb3aff17b0ee84f6ee258333d63a9cc71aa66c2e1788ebc3ae24a89b10",
+    "khmer_term": "854dc3ce3ea6aee7f184055a89135ebc074c0c3ea1fa7f289c1852e5ae7ade8c"
+  },
+  {
+    "english_term": "a90b5cca71d2080aaa805b2c5ee10a6e8cb3fae4e1ce6c0dc82f5d078487488e",
+    "khmer_term": "f244dce137f4efb943b4e6810b59a98afb992ab6119b3693b1018b1dc59c61a9"
+  },
+  {
+    "english_term": "f53e0fd6519f68048873f702f5e3dd286dd371143755332be46d474b46a654d1",
+    "khmer_term": "d6c626c898d9ff03c2106a0de1e3c1f9fcb0b98dd9c0be6a00d798c081d29914"
+  },
+  {
+    "english_term": "ec5ba0abb717da87aab2655bd4b4a40f93f2a591a0ade63611c42925c49c17e9",
+    "khmer_term": "bab9820274ba98b047d838a03785cdecf46b98426b0ddd9c431057f67498eb32"
+  },
+  {
+    "english_term": "09916abb4d2c0145374d99968de10f06a4de7909c800f4f92bb0ef7c96c3e857",
+    "khmer_term": "cf56bf88a32f3303b4151b32c90ea8848d9a4c1f94806009f67e0ed4072523a6"
+  },
+  {
+    "english_term": "176f1c109e28fa682f741fef9571f01ef16430d80d26c312f0c1677c7842acac",
+    "khmer_term": "f61fd8ecf6ca79205d5d35fedb03ac7b608eb616a6101553cd1e1a2aae165afd"
+  },
+  {
+    "english_term": "75cb50fa2ac5d1cfddfdc2becf3d0a3e0880e9529298d137d43b9c133ca62f01",
+    "khmer_term": "00ca36523e7d69b6d8553e533fadafbe8677d513fac1561fc81965fa45d838ae"
+  },
+  {
+    "english_term": "297b5bd3e6647eea09e06c83a03710fa168cd32c0863ba2a1ec59878e2db5ec4",
+    "khmer_term": "7374ae18edff944b07a0a978b50edc7d588fc7e1a0603fb680979cb7ad256e7a"
+  },
+  {
+    "english_term": "99e40d179a41cef8ef9761d8604c63eb0c54bde543fd63d549686894b860e453",
+    "khmer_term": "33d06163453ebf94db776651a81783a02142d451cc8c7b604d3b4e16a8a0ec1c"
+  },
+  {
+    "english_term": "04c174e8e54b5b6eeec5e319c57e53779f4ec3bac244647bea37dd5d4c68b96c",
+    "khmer_term": "35c98fba0539c2bc4d0bdfc3a1e3121c71fbdd88d6eb2963e36913356ea4cc1b"
+  },
+  {
+    "english_term": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1",
+    "khmer_term": "d2d0cf5360e481dbb2df917874c0296df6332766d5ccdb75ed93ea6b323fdd18"
+  },
+  {
+    "english_term": "b1388a3fea1cc8b7ade554c0a85d78e8b72aa5e1e5d19baa22f002387f033870",
+    "khmer_term": "6635a93a33ecca527df86ac57050638e96c3776f09839098d3726f40f387c4e1"
+  },
+  {
+    "english_term": "6c3d47c390371506c8f4029f10849b9070de44a108f6ae0e8306d1f29ab4b4fe",
+    "khmer_term": "e43c700a28dd239fe698f4b5d58fcf12fa83562d9d359f1aab5440a3a5f8b434"
+  },
+  {
+    "english_term": "cc2031a0fd5526166e6c5361d9b5fd8acc5c07c50ba21bf20bb04d07142f376c",
+    "khmer_term": "7065b8496be5960de22cc30b614f4b28e399dedd2aafd145b268d9cfdcf36f80"
+  },
+  {
+    "english_term": "8c4f47067d8a018293e03181de38605a10b7535a634c3b09b3f04894299f20d5",
+    "khmer_term": "4ee57c7d2813d0f752fc03dfd9192171f35b40a34375503fbbceecbdccda9fb0"
+  },
+  {
+    "english_term": "985e99f9373c304d609802f71a8942278fc7445dbbe515fe3fa893691593391c",
+    "khmer_term": "a5789b19665298095d9ab639959146db0e72ffb1e64364362e11c9a9e808b03a"
+  },
+  {
+    "english_term": "3372e20b66d71b038f3c976fd00e51222b46920b4f570074062d9769c4771e9c",
+    "khmer_term": "1fd606068ee786129126ee7f2fcb5a98fa468e9809dbae8179a23d1b9b278654"
+  },
+  {
+    "english_term": "0fc3d16454111b66ca2b4478bd7ac3092691d4135b71966908eaf40935e519d8",
+    "khmer_term": "67641bb02959064442dfd4c946150c9aa5f5deb6d62d870a76207fbd726cc344"
+  },
+  {
+    "english_term": "c95a9302f184cac0fd2194cb86506eeb4b9b78529d4baa1e96b5eba37d61743e",
+    "khmer_term": "104998c467a44fd2dbaa7319fd07934451f40730a6bfc9f70c99e80f14bd8fe5"
+  },
+  {
+    "english_term": "e3df6ab9ba1b5a6fee172724e0a4f4c28b7e982596cc86019f43e9faacbb7992",
+    "khmer_term": "f743320b819f4f7dbfa88552ec375880795e5e5240f9a13014a2b39fc8a8d1ff"
+  },
+  {
+    "english_term": "3b7fed2b8f1fc00b8bebc3df3cebfe02c9086305657ed28babfffc338f84e1ed",
+    "khmer_term": "5eb69dddc4c2215741325ddd6447c8a02164a190734094dc5c1f6e1096ecffc0"
+  },
+  {
+    "english_term": "b0e6e1a131b932b971933dbf9139cb4d7e6d8c7941f614547ca7443c08f5186a",
+    "khmer_term": "fb2705d19540eb116c6fffafd17edc4d77f5d713ce46a13ff1a0c73221f388ce"
+  },
+  {
+    "english_term": "69c3a34bcb072c0e337337125748335a53489c6227f1a1836878914b44f57ced",
+    "khmer_term": "3a4bf1aebeb71757802251956f093abea18b958d699de3efca256a925a0cf2c9"
+  },
+  {
+    "english_term": "7bb7e9a4635572552d102edb6b72c1a846275107b9e7b686538a9346b0cd3f75",
+    "khmer_term": "0a6c8ecbba95e422d950534a5483dac432b0f8832419d4941d738ee262a893da"
+  },
+  {
+    "english_term": "a3a814dc75beebb0c867bf4f1b4503909436e185b8db735b08488dcfab8d29dc",
+    "khmer_term": "e167a9b915b32a63fe82a8f9ee47f8c343ace893a25bdb3f6d78146146582220"
+  },
+  {
+    "english_term": "4f531ef9e6ae42e4ba405d452e5717b00d31a0fac4e05ea116abf818b0357cc2",
+    "khmer_term": "6accf8953a4b562a1bcd492a029d9773239433e4f31f9514a0d9ca2ee0d7bc46"
+  },
+  {
+    "english_term": "b3f08d3250395594969fc4ed07ac5aa5392053469feab26267e735fe3e008e9b",
+    "khmer_term": "e047ab86bc9716ff6189e42bee95ef45729833df65f997677d25b0f951e33516"
+  },
+  {
+    "english_term": "29bbd350e8290a768ead262d8f4bec11beaef10606da3555c36dfb5ca726b12d",
+    "khmer_term": "125fea2722f617168fe29238fff52f07f77959349a6d2deb1a32dd472d30c017"
+  },
+  {
+    "english_term": "b1e8ab6009810b72a9a58f318906ca8f396e46965aebbca44991143ed76828ad",
+    "khmer_term": "3b3c82096c9fa9d4bbf2c4af2582e4e5e7cb7909d8eb4482fa6466fae1246f2a"
+  },
+  {
+    "english_term": "2c525e30c54bdd0a8d61a112951242075cc16df5d30c3d2efdd608a03beb8e59",
+    "khmer_term": "64dc2637298edbd69ae119f2baeb62aee66046813bbe689a8a333021136c20fa"
+  },
+  {
+    "english_term": "54f8f13c6717630a1c31bb1a34890b720bc8253075434916fac386179591a557",
+    "khmer_term": "9431a3e0ae69a01dc0ada8cb77992508cabdee5b23ac44b8dc4848964a56ca04"
+  },
+  {
+    "english_term": "a6032eae374fd7fd42bbafe704280344906d717c5ac751fa13d7bd7fd28e1be4",
+    "khmer_term": "db1bac58267ae0204926f235dcf39e6787d5920c6c5b0e7e46b0595ec6e70cd6"
+  },
+  {
+    "english_term": "20c6d3ab3ae7d154b78530d15de8e6c629e989f92c09c303d12f5c173000aaf1",
+    "khmer_term": "ea91bad7f7f6163e8f7f6889be212874dd9322a88f6aae9858f05e32c21724d6"
+  },
+  {
+    "english_term": "6f590602e51943c8363cdfa61f00b98e04b0975db812f3f94d0b1a876e91b7a6",
+    "khmer_term": "65a5d514da87a9a925bea67faa52cadf08e0e1599c660ea2cdaec5430993ab95"
+  },
+  {
+    "english_term": "955b16fb3c7d9957079d0a0cbd72690cd1749391624bc6ea640a3e45c92a8d56",
+    "khmer_term": "448107efb365e497decd66228de9e6c710e4110b80b5d349b43b6183d8ac240d"
+  },
+  {
+    "english_term": "98b0909ce1f603750499a3a08a7205178fbd2e3362db5e3623c6e95144715811",
+    "khmer_term": "cd0532e191ef0724185715c91aa913242ddc92e6ae18642f6de8e7a42b9ac851"
+  },
+  {
+    "english_term": "48b5119b1870e4b9b229bc969fe75273b858f568a37c11a18d8a952beae9dcaf",
+    "khmer_term": "9278c99cbb1637cef02289d12eb08167777921f78f3bba8e3b340237cb8be9ef"
+  },
+  {
+    "english_term": "b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4",
+    "khmer_term": "420774ad1529e47658eee497c9795be617162b2a72aa348466c88a17cf474c93"
+  },
+  {
+    "english_term": "da5383b9807f1f151715c6f7dd7db3fdc12f9df03c7097feccb6cd0c3e13416e",
+    "khmer_term": "062dadca64654732269040cacfccd720531b727af8672eb0259e4fec05460a69"
+  },
+  {
+    "english_term": "625da44e4eaf58d61cf048d168aa6f5e492dea166d8bb54ec06c30de07db57e1",
+    "khmer_term": "6fcdb68fee7564695a1e1490f599a62b11552b13e25d42e769b5a8a44e5a5f8f"
+  },
+  {
+    "english_term": "5f0a87a5759891bc80d0270a04dddeb57c329ee762b288c33761c50c5652c8a2",
+    "khmer_term": "c3a511203006c02336669e5ae1ae7aebad8e65dac77799566a1be1dc2ccb75af"
+  },
+  {
+    "english_term": "8e4ccf3108ae2905710caf618431f2ba3b2b64bd2da2d503909d9da54275c547",
+    "khmer_term": "3a583a8422a325769239fc8e3253fb879f15070ed3a83c212d6ed28e577eaf87"
+  },
+  {
+    "english_term": "9b246919cbcc773850f835bf385acf3f8903bb328110f353dc1055a5bd731548",
+    "khmer_term": "64199e2881af4580c7385eea304c4d22312805d131519035da10995919d17aed"
+  },
+  {
+    "english_term": "2af5f460f5d88cfe645e3ecc895cfd18dfa4f0d8cb44c73e2b919b7325b8c368",
+    "khmer_term": "e857014b04ccde355431b3896e46402825ad14f83d6414fb85fff7e249fa2270"
+  },
+  {
+    "english_term": "7abf41c6cd40e871ab87f243c06a5f0ed7da6aec2fea9c1c9e7037d25806ee2c",
+    "khmer_term": "984d91b5bef7e53fb3e3a6613ce16823be40df8c3914b74b503639cc6015889a"
+  },
+  {
+    "english_term": "bde83814210da5b7e9bd3253c5118d1e081aa3e8530fec4c669f13ccbb425984",
+    "khmer_term": "b9bd4032d25fb00b2d02ab047b49136151df401a6d90f947098c7517a00251ef"
+  },
+  {
+    "english_term": "75fa386342e8b7022ed37c5e303b1cff740c973c4e685776d4d294c80baf3cfe",
+    "khmer_term": "66c3fc91192ad4f95b3e40de8e853440995a53899c23bd3061acb05e74df4432"
+  },
+  {
+    "english_term": "144d4f9ab93fbac6f38308967f360b2931a38b8a90ca7bf5433ec6e3f03c9e90",
+    "khmer_term": "fa4e2388256c945b66984c35f3b25f1a4787cbf7d7e542d2e0bda90eec5fa256"
+  },
+  {
+    "english_term": "93d9cac5080fd2bc6aa5b121925de84f3536702536dfc64762451ccdcca27ef5",
+    "khmer_term": "6eba298a195bc221a2673ac68b26abb82af02ed6544c0abfbe3001d3a38e173b"
+  },
+  {
+    "english_term": "73e3d2b5e486a77d8a3f66b6b7b8f50f8f6aad7b97d4d5f8528eb98c1da043bc",
+    "khmer_term": "774d00bfb2b151441bceed772e6be0716b0fba3df66bd33c6b89d90b7be47a2e"
+  },
+  {
+    "english_term": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "khmer_term": "8a219530e603e237cbbf4aea55c17225c663448ebd46f7fca22a83a18c41623c"
+  },
+  {
+    "english_term": "d48cebf4dc3f0ee6428139bf6ffa3bbcd8668c4e896dca2cdbb7f509491ef3cf",
+    "khmer_term": "cb38ae611b123f4e9390a02ca8e31d097ffc25113aac710242df2e4c153e820e"
+  },
+  {
+    "english_term": "659ad14de0954603099b7e5bbcab8a8e5b9028bedb4ff17cece0a3792011f950",
+    "khmer_term": "0a990abae60a98f4bf2c7de74083bc5894fe6a24657de53706d3943197795030"
+  },
+  {
+    "english_term": "3efa721dd6f584d6026c927e2e6660308eff4ddf789ee7fba22b6a43f101b657",
+    "khmer_term": "c5d70721d757ef850394402e1223f4d058e9358524814c58c909faa46f8f80e6"
+  },
+  {
+    "english_term": "1c5d6a56ec257e5fe6f733e7e81f6f2571475d44c09faa9ecdaa2ff1c4a49ecd",
+    "khmer_term": "28839d8aae4b85a95c5ca086e46db90f9cf681d83807ad2368649cfed332aa5d"
+  },
+  {
+    "english_term": "c9fb44b1ac63a9511d0c600e7ffd3421a849e92ee84a25aa5eb21c371f845eac",
+    "khmer_term": "ebf9292d53748340cac8f4903ea2e00bf410bb82acce4ceb8eb15948f7b41d28"
+  },
+  {
+    "english_term": "340f463033e0fd5ddeabb922df4d4f1b5747494d0f5ed9894f13b6e13ca831f5",
+    "khmer_term": "8fbb36a930a8960dab36b1d7c77eb82b8f2c743257ea0ead846ab4840c678c2c"
+  },
+  {
+    "english_term": "76ed42d22129dc354362704eb4b54208041b68736f976932aada43bc0035f7c0",
+    "khmer_term": "3ab0298ed4845eef23dc5c8a0cf8c1529608ef9a53cf29905eefe770dbce6cc8"
+  },
+  {
+    "english_term": "23683eb0a1fdbd67e6e976b8559653f7e15da055139ffb3ddd9f0fbaaa67afc8",
+    "khmer_term": "0e6f641d7f8dac813854ac08da41417e6efd98f1f3a3149e5f926476e06c1094"
+  },
+  {
+    "english_term": "eeb3d0cce456d873403714064701992981dbcbd2394333080cc69cf5b5151e0c",
+    "khmer_term": "685cb13992711588bd6c75ba078d81ab969c45e4b07323f9f8d231cfc9a3b6e8"
+  },
+  {
+    "english_term": "592fbc67e7e21995546ff35a8448b4beed9b358230439b985a2c0185f8628d8c",
+    "khmer_term": "3128557d1a6493725953d7531d3ddfdae6436edb2fabeb84191b69bfe34ae12e"
+  },
+  {
+    "english_term": "86ea18ede07cf8eddae45f24ce98e4ca5fcf573188526ff17c7afa78a3cb6695",
+    "khmer_term": "aff8afc8163c4bde74c2181407b5b72d60760c7fbdfc6b1ac5b353d66b0abde3"
+  },
+  {
+    "english_term": "385b23654af6534048ae4b76e88c4836e746367cd25a400c9bff4472bd39e4b5",
+    "khmer_term": "fc9b90885d8796568f92b952248d8a1f4d07c8525f287222d2ff62a96df622de"
+  },
+  {
+    "english_term": "90f28d6241e1176c5c0f15c55d8aee2c515bec088cfdd5ef88f387bba11b4689",
+    "khmer_term": "2620c9eca471147fcaa73e90ba167c5bdbb7637e34ab8cdfd593ae72cbd4d132"
+  },
+  {
+    "english_term": "df2ea246ad8c297c973df9edae485b37a33f46a0caae36bed1c0f1b459419afa",
+    "khmer_term": "2a83785da022fbb93d78407b8c424b3f7afafa5deb6baa4bf3a35f08a2d4d482"
+  },
+  {
+    "english_term": "5479401fc08bffe134c0091b1ba42474739fbae17592cda5a01375f9f40ae7e4",
+    "khmer_term": "07b62a9da3d29c80088dd950d64ab9437727761d169056d77f48bb621a56c9c1"
+  },
+  {
+    "english_term": "0c8b8311817e04ec6e26df267d47294cd3ac48d766f6b72a0b98a5dadeaf3f8f",
+    "khmer_term": "e4b80f6a59ca5a60c21910f120fac6276e9c0d1fb92d06954df665cd73e62e1a"
+  },
+  {
+    "english_term": "47bd29075f8b8019f0beec6d86beda7c9bf67aaf05053dcbe0b3bcb63968517f",
+    "khmer_term": "a97ec908e1d8f96605610cf35f752dfbd1a1cbfcc5be8cf1b1ab9d0bc324f95c"
+  },
+  {
+    "english_term": "f381bc7f552d51731e57e78fcc1365903f8284f98ea6828dfaf8afd1cfaec1f0",
+    "khmer_term": "415f3bedc70af283bcfb40325e8e649a5396d165a130398922f30ea51145e71c"
+  },
+  {
+    "english_term": "6dd76b4ebffc4eb2ba105a0e314fb630baff1e73327efa72d59fd66e0dbe6a1d",
+    "khmer_term": "8ab8b0783a12af19c27ef21d0204f5070ad7add73d2e79f20bd511a0798905c1"
+  },
+  {
+    "english_term": "8cd353ff93915f72a481fb798d4ae474ad2bc9f8e79eda91511a1b98a24211a6",
+    "khmer_term": "1c095e79d758c77b9e47b06514ef94ca604f4f93dc9a3233b5cf65dea7bf90cd"
+  },
+  {
+    "english_term": "75d4d944d0d9b0f37f3d3c3571d8a463e987268fb0af79e93a62e50b3f20fdb1",
+    "khmer_term": "de4b3391e84a6a9d8ce23f3587963219aa368a5fc1863f9caf91bd7b710661a9"
+  },
+  {
+    "english_term": "6ec60fe39028887e7fe9c4b025545748953c27515073bf9ad17ceb5417a407d7",
+    "khmer_term": "a5af0c1aadab13a491af2a2e77877bed820f6d05706a6655f9db68746cbabc97"
+  },
+  {
+    "english_term": "4a64bdbb8a6bcc519823aa7522f4e2aca0e262c3a76a3a79fffea123ed9bb852",
+    "khmer_term": "efa37be114fb15d1b0e2f3501f67803d0925e04ef05f9474fa0e69eb784844d1"
+  },
+  {
+    "english_term": "bf3763383aaf43069885db20b386631c6d5d8b8481df2a26769e9de5fe2f9c82",
+    "khmer_term": "f37d680320369f5bf6baa47c0b61e3b53dcd163535cc1f34db0d759b2227ac3a"
+  },
+  {
+    "english_term": "f729abbf1227241982861257964f79f3edde2a3a5d4bddc477ed478548166936",
+    "khmer_term": "1902dbc81f2e0603a739ad22d682c294b80dc77c530d028fb9795c5fab7923ad"
+  },
+  {
+    "english_term": "d6b703782a7981b9bcab5985710d00e8f138092041eaea0dcdd6838a6610c0ff",
+    "khmer_term": "a1c958a2ec0dfe350b8f8cc09474cc55343a98b04937b0c91e41bf03f7d4afd3"
+  },
+  {
+    "english_term": "1eec5a5f773233e4bb694312710d0a214cfe78274277ebfdee43d4d7336c5ca7",
+    "khmer_term": "952512910d838ed62a565abd7b7808754f6a373654eefe2af6c795c036a33b0a"
+  },
+  {
+    "english_term": "18e5548cfa17db1722c13666c561e52511de70dcd192a00516f0ad163debf8c7",
+    "khmer_term": "cb7d3bd5ccd93fa77da5a566b7ea7b6b622937a2582336737e2588a9ac4c31fa"
+  },
+  {
+    "english_term": "23b2d5dae0a87cf945f37093b119d20fc9931de013bf2836d8e3a2e5699d10ac",
+    "khmer_term": "21620d1376b33afd6c6721ac7eb4f265648276e8be3c52808a281703384c7fb0"
+  },
+  {
+    "english_term": "43cb6bd15b7372552950dad3d7a6848d741102dd287bd03a7ca535e67d08d8e2",
+    "khmer_term": "de826a7af6503a6dd9a77fbde8439c05dbdd35d6e749736c1f4fdd8ef19a5b18"
+  },
+  {
+    "english_term": "cec3a9b89b2e391393d0f68e4bc12a9fa6cf358b3cdf79496dc442d52b8dd528",
+    "khmer_term": "cbf52245d292d1e584a86aba6863fb7e5c4c29f52a0a3882dcd70dfac83a130b"
+  },
+  {
+    "english_term": "5ec0c637bbf94d1c9cf5869be0ec84b954eaf914075b90c7c743a9a3ca924ed6",
+    "khmer_term": "e972ef41791ae5d96515e386cbeff64a198efeaadac0a4d85edfe5a5d13e312d"
+  },
+  {
+    "english_term": "24bc90cc07df7ca36cff0f1418fef37ffb280cb9f179bab89f3b22546e91dc25",
+    "khmer_term": "a61acffaa44e7c0e7d4ebefc19790cc6ac6f6aa6e91eb30414eb787546fac79d"
+  },
+  {
+    "english_term": "a35b3093e3349bea58451960f67d78ed53f7e0252fa68da24902ea0f936cf14d",
+    "khmer_term": "544ffc67a1f77f8de2a5ff0c1ff61e7a7431d55577a19330c0dd21b47d5752a1"
+  },
+  {
+    "english_term": "bfe421fd5530eb4a05893a37a46bbc2c24a1dffe8da90e58d48075673ba998c4",
+    "khmer_term": "8ac2069aba6029bcf553babc32605bebc02ad0219e9a59b889efd53709b590a2"
+  },
+  {
+    "english_term": "ca8e9b8913f7d28ac3bff568efbc7f3d03836154b7fe739464299a80ff2a89b0",
+    "khmer_term": "bb0e8155ea70298db437ad222ee8847ac364c5ded1fc0826595a244a55e3e638"
+  },
+  {
+    "english_term": "7da2e72d134807fe86a8250fb4dcfa871c8ec572aca4a0423e69e3ac6ca86ed8",
+    "khmer_term": "b8c648b5062550edffd5fee15b27bb7e6d7d484a715e6632acc9cc852668cec1"
+  },
+  {
+    "english_term": "598c6a18a38800b293113ff9da02b037a9480850361174a00b9159c25ef3bbe5",
+    "khmer_term": "31b80b542763ca5581aee58aee15db143055f8ecb4d5a91c8a0d4bd39fc5afb8"
+  },
+  {
+    "english_term": "361ccf44d9f15c03c554a2722f19a021cbf05caee49544a82793f10435dfb969",
+    "khmer_term": "f4b04b5fa5054b6e291b4b000c15c529797dc16d93b785c0845dbcfafc73020f"
+  },
+  {
+    "english_term": "c98abfe201b72694d61ef9e439bf856bfd6bce8f8e78274ae85fdac656a3f4f3",
+    "khmer_term": "e2b5d1c782bef4be6261133b2deff3d6681996084f93070d21ed6da7ad49cf3f"
+  },
+  {
+    "english_term": "359e595a3f3e29893a2f085e89cead1e3cd8aa8df630e82bc1f07f4f2aced6b3",
+    "khmer_term": "0fbfd682285c50d9a2f42e2447ab3d29d73ad6bb36ec4398cd6143c092ee715b"
+  },
+  {
+    "english_term": "b2e087309a85ade1d2a4ecd13fd368707ff90023e9984b22f2fa6995f1cc3c1e",
+    "khmer_term": "1e796fb7afd8b2d00dd9baa04ab2ff765473e9a70d6d0ce319cd928d41bf9a6e"
+  },
+  {
+    "english_term": "bab5a201793750f1d63b47a9bed0a00172f5751d36f417a765442dabb94ad19f",
+    "khmer_term": "d2eb17e07fffeef763417420777e934dbeb409170b2339f0887ada02893eda52"
+  },
+  {
+    "english_term": "cdd31c444785981784cd649b97f3a114a76d3a3e288550caf01ce8d671679447",
+    "khmer_term": "1fc366b32a4a8720eeb64b4a18e3588331fb61dae64e88af06469db297bcb743"
+  },
+  {
+    "english_term": "fa7fe67124e94375d97e50896e0c32f44b03bb7ed5e9fb026341b55da724126b",
+    "khmer_term": "1ef1bbd239c45e43349a28026231eb1db3ec393759dc298c9017ee8112682ad4"
+  },
+  {
+    "english_term": "aaaf5bdddb915a7915955dd57f3eea6b21e37f399e6accfb981a0f43ffed51e3",
+    "khmer_term": "1eefb4aeb8a5968bd654f82060d31b583d5ea392ada048a24e687b9daae5fd4b"
+  },
+  {
+    "english_term": "2e37c06aca690c35ca65a610f4b65312f9106e4b261eeb9af785e5b02680a9a2",
+    "khmer_term": "e89671a03616bf9eb8379ed2016a6fae2a721ec37afba620d26519082d831300"
+  },
+  {
+    "english_term": "ccf2c43ef257b089317022227c8df555dabae298c0ab8fca120f73962fe87b90",
+    "khmer_term": "cf5cbd74e48003f384641ef85c812b0fd1d5ca82e7c5d1e876b6c298a8393029"
+  },
+  {
+    "english_term": "353b95d258d597ae9d10315f48cde8b2946e5d8d14c2b5f68667a10e2bfcfbc4",
+    "khmer_term": "ce8605179a8b598671ff1a8d7e82f42868dd761d1a4f2a10aed75ff47b067332"
+  },
+  {
+    "english_term": "69c98bed9e9be94684425b4e374d496c00905cb68d55727e2a296ad5351acc5e",
+    "khmer_term": "ec656fc2edebd0a87be02640ea242feae9a71c4e928830407ac0d367af776bad"
+  },
+  {
+    "english_term": "c4e0ae195cfcbdf8842c2be3072dcb114751d4abbe8b6621134e66e65f329d61",
+    "khmer_term": "e9779b054f8a2e121bfcddb3a35f090355f767f8e69a70ff341c65d232423c3a"
+  },
+  {
+    "english_term": "ce24c7deb3e5e27214fb41f393daf11087ccc8f8a9509ca767a0915017a09560",
+    "khmer_term": "8c3cdf17deee5bd967edf25033d7cb93abe1b1a4f13bbf20dce5ea4225664c87"
+  },
+  {
+    "english_term": "62db31e3b51360d831050c45c60da3100aa0ce0ecae0853a1ba73aa4fc516b1e",
+    "khmer_term": "146d9a9bfc8bfb3d0e12470a1889754ab8a4fb62ee8f477c64f5e5fad05d517e"
+  },
+  {
+    "english_term": "42be1f53d688ed48037e89b59a3b7098b842c39da871d907f7a4310f00960b25",
+    "khmer_term": "4b8800a1f9233e8db844481a8eb52f321d2d9cafd5191b4950dccc516b56720a"
+  },
+  {
+    "english_term": "589d3f216e44b3c263236e80d1a549f2ed07389e97f89e98ba1e48db8db571f5",
+    "khmer_term": "e0b3bf91a5c31cf48a19e8976dce1886e5a69c7988e6c08c0191057e47d78152"
+  },
+  {
+    "english_term": "c94d2a83e940e90f1b7cf0b21ea95e7aedaffd84390319cce1506cdea8829ec2",
+    "khmer_term": "c137a32abeb7c78b7fe887d347af8710ddb481ea0b9eaca48678b7beae2cabc1"
+  },
+  {
+    "english_term": "3b16bc46b63721829096ac0d8b1012a63f3a34297c2d0478a9a6b482d2dd28a1",
+    "khmer_term": "528ce3a1a872ed34a75c291f80bbc1b5a35ae9c7751f66d73e819c9df1ca5658"
+  },
+  {
+    "english_term": "edd9cb5d4faf1c1a5d10d97706b757d15a294534cfa2351924d254df04af7568",
+    "khmer_term": "c2458ead73c02b0d4f33458ee31fc4534415e1f15ae2f787af97cb9af7f85640"
+  },
+  {
+    "english_term": "a0da504ea7a1b1af6b3010236dbf3f53b245eb5f52d2b69fcec255a149da4058",
+    "khmer_term": "a9a8cf075082bd68861e7277dcb2630fd938beb2a0d2bf51d1fa009be0930e51"
+  },
+  {
+    "english_term": "88f69fd57cc1c8a73e7fd7650626935806654e224386c755009351b1d02ec377",
+    "khmer_term": "06757bee080d5d0919d391f5eb5f675ac92c27eefaf77d21db35f33d9661f450"
+  },
+  {
+    "english_term": "36290b6400367cc13caac76fcf3d6b179e53c91eeeb6e8b4298c0d159e0af665",
+    "khmer_term": "5f447c05cf33f6e7779ad49d73e7039d499188e47568c085bdd53fb96c4f9f8b"
+  },
+  {
+    "english_term": "b5536ceb5ae113bfb430d9204d3c8691467468ceb60ad8c3f48f292f91c206f4",
+    "khmer_term": "4e43ae9cab36f3c659641c7d143a7302a0addfd745a5f5b9c5132df1657f9b00"
+  },
+  {
+    "english_term": "6f797a7d7418214661e9dfb6177fe9c06095ef266f258442ec20bd7fad52fbe2",
+    "khmer_term": "51e34f08f198c087bebc3335208240b6ad25dc028b3b1a3cb634101a3c2db7b1"
+  },
+  {
+    "english_term": "3806f3dbd086e79c4227c5d4ba6b937bfb4bb8a516392e7d6352d6109f0f6038",
+    "khmer_term": "44aa5988f8e60b4091893798cf17593dfd35661e88f71703f894eaad462a245a"
+  },
+  {
+    "english_term": "e32b9288bcb3792365c28f6c08f5fefab1f2b3745773f59ee6eb6263153368dd",
+    "khmer_term": "6b4d3caf4a3f11edaf534922ed1177be0c4c2a11f045c4c538b696246ed511cb"
+  },
+  {
+    "english_term": "389c54bd7ea0a92ce4c1eaf1245f61612557bec989811362ab3d5ed9900399fd",
+    "khmer_term": "a376ce2c4884b85ea1b52da04d505863d549a212e19cc4701f74f8a1bcd9f35a"
+  },
+  {
+    "english_term": "d65aab0fa6f35757ca430b85389c35bc514346974f9ad936d488a7d8ed78c835",
+    "khmer_term": "bf47b61cfd87e963b524e4addb5ff46ada8d3c587ec61723eff7153107e60985"
+  },
+  {
+    "english_term": "1c048ccd62697c1b41df5350b7b711f221e34c21a9727d9dc89b2320ef185ef7",
+    "khmer_term": "8d4784a1027686da9baa64e7a24abe3413750f1a4e2e6c69091d1c6dd4124cac"
+  },
+  {
+    "english_term": "fb91f662bd2715efcb923463728bc54170d0f334674f0634b73b78dc64759d65",
+    "khmer_term": "35590bfa6abaaae9543c72d7c7d4456b2fc0a72b7f550bda79e550716f04b7bc"
+  },
+  {
+    "english_term": "a25070ec82303c4f14a09355fcbd5e9623c6eb2a42acf423e2919d958e62eb59",
+    "khmer_term": "704f42bd2097c8291e66e6d84e50a7762930c69fbacf64552d2eb25ca15cec65"
+  },
+  {
+    "english_term": "d38cc299580ab8420327be1738a693bf2a650436a9dc3165957c95cfb90fba67",
+    "khmer_term": "8dcb8e372171778c65c9e58b2bae47801b6db62a1e24de000850c2035b82de89"
+  },
+  {
+    "english_term": "80cf9f6c6fab48175f1ea9291e0962dfb1bd51a72677e113800cf31339709bc6",
+    "khmer_term": "532aac903b58a148f1aa8b0c9cffcf212af15b703e87cb7f1640ebdea5a84634"
+  },
+  {
+    "english_term": "d0a74e2cd9f4a3beb0ec9f748f60a961504cdb90cb6cc3a76cab5486e5f574bc",
+    "khmer_term": "99db69b424d9eb619892541687a561b2a11b1ccbf4881a3870be14eaf900d528"
+  },
+  {
+    "english_term": "95f3bd7ee411fc84e24f712dc178641f3877f5d8737f738fc6a2d8e2f2e37a7a",
+    "khmer_term": "cb5a3f4d0b2a62aaff636d2661aae12142ee2c4236856b2e94252c42c0e3f2ea"
+  },
+  {
+    "english_term": "15abbdc5727989f0ac19b3233b5726c166fe1c00ab502dd096dc9f4a0bec67a6",
+    "khmer_term": "a05f99e0578dc88b3b4e6c0a10d9e11781a440d0bfc0b3d8cdfb482d8c36cae0"
+  },
+  {
+    "english_term": "726433f2120d039d12ff386725943b0fea162cee05e8e7f5c19221e2c7bbf09a",
+    "khmer_term": "3320a1878ac346da49033412aa4cdf4f2a950de2e4c0701c964c71e0d132d35c"
+  },
+  {
+    "english_term": "36f20f9b07f66af3ebdee7307ce760761b51f71c9aa9ca479c2658a157675a70",
+    "khmer_term": "b9b6e2a3dbf06c8c234c59cc64981e0a6b55070664dddb815e45b5c2b7558b69"
+  },
+  {
+    "english_term": "ea115e6012052f958c5f92d995f2bfa37557dffc85300929407a1465b2eb444f",
+    "khmer_term": "5dae3d655bc4c6b23e96a0dc8242202b4ac9c7d1e8efdb736bca6338ec799892"
+  },
+  {
+    "english_term": "d8cd997e4c4d000769ca5781e2b42d413fc5bda544ada58c72de657d70548169",
+    "khmer_term": "8124ddaea179fc6a4ac75195192f6ebed46d9a244dc89d5c6646ed6232398497"
+  },
+  {
+    "english_term": "d2d37255fd46517b8ad5c30b26a3204e93a6eb5348b76d1dc63038a5f8846065",
+    "khmer_term": "cec2756c23b0e38f4e9c015e99ce772e4b7ec077e0d7664a7c56f51528465af2"
+  },
+  {
+    "english_term": "dc1ac6657ae895726de66503870a638c674eb6a4c7aaee4a61aba9a860882fbd",
+    "khmer_term": "5464a23436a2392cdf72d6a55a3aa9dafabdbf929cf6b666ce17f9b2a590ef9f"
+  },
+  {
+    "english_term": "0a5ee0a76e5fd4ecea5afce00e32035002fa769049ab32481880f8f96afbeeec",
+    "khmer_term": "e16418b7c592ff04afd945cb68753b4cd85c000a7dec21a89d54f66e7eb79300"
+  },
+  {
+    "english_term": "5b74bd3147b4848bbffdf2b72b231eb4fcff0e3e35e4b780f650a8783e9a4b8e",
+    "khmer_term": "2828b22111c5fee76db70d4834711eee04a1a5e85021cbe2bb90aa34c140df9a"
+  },
+  {
+    "english_term": "a631f93d8cfc18a6015eb469cccd55eef7bb0b66779875b7dde87c23b636743c",
+    "khmer_term": "644ae44d250d7386c8a7789b8c35ab144ac93fad917a43b7fe288465567b8175"
+  },
+  {
+    "english_term": "8144a0c98691bdde3072c9d18942091bcf4b2c17a0702debe9192248d6cc0d3c",
+    "khmer_term": "cf373ef0681fa8fb38ecb00c0af5fcbd9cb6fdd5696e9dd86d6841aceffb45da"
+  },
+  {
+    "english_term": "4750d0a12e03a1be0f78518ae2f73538e8b2748c4284244504ff3bc3fd31c3a9",
+    "khmer_term": "7557bb8e29276c5d41bd714ca27c5ad2d50de2f2f24154dd1276d86f9fb45035"
+  },
+  {
+    "english_term": "0b61a0622ddbf1cc8d7b4a3d990cb24f6a713e2dd1b3608e36a650517f544390",
+    "khmer_term": "990d42178b270bf4591bcc58b11fd344f112ca1604841a804118ec538598e409"
+  },
+  {
+    "english_term": "203d71f8325d8a51066e03fdb136c90f432900d5993b8291922f3164120f9d65",
+    "khmer_term": "8cffeee9d01dafa1c08c26845836bcbc9264b63870c1d6b9a2ad17b41dc64e4c"
+  },
+  {
+    "english_term": "27cd0e874ff4f2fd0f8b4a7dfba37d037f97665408859b1b82db00d44caa2baa",
+    "khmer_term": "5448409b44b467a74f3e1ab7aae7fd4a959827e518c02d7655d4b4d61dea475c"
+  },
+  {
+    "english_term": "01fd59b3cb446c5c6065e1b8f51f2168ceb54cfd3020835f281f283c1cefb074",
+    "khmer_term": "a87a88d4a734a8d5fd3f56b279195a8393b8d3aeb63007b1f487cbdf0a488063"
+  },
+  {
+    "english_term": "145c57a4fd7296afb81d9b7141b33752b8a832ed2b13d8078c6c4fb6775de63d",
+    "khmer_term": "6000df255d2fada0fa78723552fde1c653f9b4b9dc353cc7becc03278a2cbfe9"
+  },
+  {
+    "english_term": "2872e16e84eef6a4199ff3d4f7fd85076d184a79209ab24f4d0e59cce0ee79f9",
+    "khmer_term": "ec894c57ed7f817401ad2c4184b7a32598702780d0696070809bbdf4e7091daa"
+  },
+  {
+    "english_term": "82f4e719a19ce7e573734543f366f55117e4048116b3892adcd1831fb1775d8f",
+    "khmer_term": "a36678c8933abcd8a0cbaaed64c2aa74b5bf5b2484a01ff9a68ce5c68d700846"
+  },
+  {
+    "english_term": "1df1e97705f85a7b9a85df2e33c8d5cc8d92e77aeded1def7e964d8ae70c6406",
+    "khmer_term": "970ccc8b6a88ddb819c65972859a9072913a09b4d3184b910e346c13d18f0741"
+  },
+  {
+    "english_term": "300ad2e2f5f427615ef7407fa933e9547f5881939b9b8ae96855b52503c7767e",
+    "khmer_term": "0e6e5cf293b8971148d72685f389a14a837e6a69d2bf369b593df02c3f9cc283"
+  },
+  {
+    "english_term": "9963fabcb48faca35e91b5493dd1eb90edf0d2c54c451b21148aa99c0bbdeb54",
+    "khmer_term": "2f88afca0e9f44e2aca2a7bb9a5f26b0fd1e68a60356d3b7bd98b10fe1fff393"
+  },
+  {
+    "english_term": "7407f0ba7643a7ec6c8818d10a01285bcdefc466f69675e6407638e9ef43d2a7",
+    "khmer_term": "ee6469b50ae9fcd30558971c4855900c192ca220eabd0fc0bbdf1a5ac02eecfa"
+  },
+  {
+    "english_term": "681e12098d288b651d0c3644f31c490cc13dcb5c5950497446abb34bb1042ec8",
+    "khmer_term": "1f4f83fabfd67ecf5357d6565b14c3311f218327a1c97ff21363f382a81af345"
+  },
+  {
+    "english_term": "7411adf7f2eccadc373d7e799c708a51856079416c5aba82f2427690a5f14848",
+    "khmer_term": "48588d447d896fc4753c8c7a398116860eec9e1541fa96cecd2f37bbc14059f3"
+  },
+  {
+    "english_term": "792688e3930312b8f68f358ad386c0da5c27678e8b1052116ee83dd9c6a7e305",
+    "khmer_term": "b38ea9b410a4f8c5656505d89b708021d88eeeed39de8317f75bf2c9c91579f5"
+  },
+  {
+    "english_term": "ddfc1741d9f95639358c2cb963bd3b88e86ba5aceeb95dfd167390dee77be3ff",
+    "khmer_term": "21d4f01cf7165be979760f48b3a13d530ada715d3c6be4bfa3a882b9f3a33836"
+  },
+  {
+    "english_term": "ef55e1cb8b9fc14e6d9661c651a1c6bc4e46019e28ea5b0b00840fafa998bf0d",
+    "khmer_term": "3edaeaf3e4775fb57ff842bee5ec755cc07c2742bd723cffb53677966c4c9e6d"
+  },
+  {
+    "english_term": "64d0b3adcd2dbe33500fe9b96d2bc048601b19f4dc9db0d30f8648e156b583ad",
+    "khmer_term": "a74e981018f3a2910f128d372a2cf8d449dc1c0cea9ddf25a21222f537828689"
+  },
+  {
+    "english_term": "0605e7fcb136a88360f62894c8a8a11fc0a80d98c65c79a52e602c97d620ed30",
+    "khmer_term": "82c6c7459f112a77ceecab6f14ae91fcbf36b696c44be77d410d6546b4ea5089"
+  },
+  {
+    "english_term": "224b48311f6f1991a45d61a532877f15323e4df98b1abb8a39e1b738601c1370",
+    "khmer_term": "d1e29dc6ca14c80818e656c6b5af52f5441b8ecb3b6bb3cdabbab67892edbeb5"
+  },
+  {
+    "english_term": "6e2edcf6e6efc0a6d558b45b5a11ec03f34bfbcb1a81acdb950ddd5e70b63ec7",
+    "khmer_term": "1f4f83fabfd67ecf5357d6565b14c3311f218327a1c97ff21363f382a81af345"
+  },
+  {
+    "english_term": "d61066c5dbb92c971b1a55466edf682b801f4a895ec0b3830146c7859f0aeac0",
+    "khmer_term": "ee3bb922cbff9c3c9fca41a2fcdac15cc4b989f1d8072f57cb93122853656b83"
+  },
+  {
+    "english_term": "fa2bf36675a8fdb56f97c45263396a8ef9d0377eaf3f8718b905a7c182d39efb",
+    "khmer_term": "136f774ee4f1062a0eaaf84260d848d5e2b00ac673f10c44d3027c69f729c623"
+  },
+  {
+    "english_term": "d1e912e1e204a3b2cabe34d694d4005bb7ee99d688c06c803bcd44469218b97c",
+    "khmer_term": "53d74f98255c6e499e3f657be8cd159f37c7b898a3c71271bdf920a44fe6ad09"
+  },
+  {
+    "english_term": "f89e2d72da00888b27c938fff1eff1d138fd49fb664d0269527a69e746ced479",
+    "khmer_term": "2b8499d0433683d969264ca4c52847d3ffcd96bf313342379dd3255e4a78d84f"
+  },
+  {
+    "english_term": "7975300f01bc46f86e52e528b29955be87a361f05f2fb96e14629bc0a5495d03",
+    "khmer_term": "5d0bb7a501e9e92c2fcd0187d406d05d247d091f114bc006125dee4ac9f7ebd6"
+  },
+  {
+    "english_term": "1ddd4f8e82a22011af7eaf78d6dd01dc9f37a9610aea93468a9bc8d305382f67",
+    "khmer_term": "ad92195f58f8e3f136a6cba2fc3252f30f194e3ffed52af8011d096a996aa557"
+  },
+  {
+    "english_term": "00d8fbdb3861d46a1f5b9a88b129e4839b03b65a8187b7100468951ff395a207",
+    "khmer_term": "8752599c503c58eae4826ff4b20f86371c0f0d9b0ab8b06c3d07c2318ba3fac4"
+  },
+  {
+    "english_term": "89a4382b6164bfe171507d674d5673551d87274b1bfdeba70940d326b186f5ee",
+    "khmer_term": "a1287820bbe4e6beef936a11840194e006e710ab48d6676a254f417e9ea11d34"
+  },
+  {
+    "english_term": "6658c344b6585a28d2a775b41b91baf50e879ca10f0607977029d4e7615bf58f",
+    "khmer_term": "ee7768e143366695dee7900d2f0d6de726241c5001b7d7ae4123701e6d4cb3d4"
+  },
+  {
+    "english_term": "9e3391e9bf072ad367ce500f37f9b9c4bada031bebf7ffd6d08339d1e7117308",
+    "khmer_term": "23a5f994c07ea77fb00686d6ebbdf5ff3578ad4cef76b825c0297d065049e247"
+  },
+  {
+    "english_term": "0ade40964c98be04c8e7c9328853adae507a35b2ddb123168f67922c1cae3abe",
+    "khmer_term": "703a5ffbe809dc31b6162c50d4cca1806078ce161578e00cb872768deb883b7c"
+  },
+  {
+    "english_term": "f6f1e0288cb6099993392d2daf55557c8db8706e62a5da2bc6a92d1feceb7849",
+    "khmer_term": "b879a24f20041ae101f5dff887ddc578732db181491877ad2259b32aeda2abfc"
+  },
+  {
+    "english_term": "bad57ef7837c8e6bf99c2a5935cc9d6fe5324a53d88744ad5551db0e46b03cd6",
+    "khmer_term": "a8cab135c171cc7268c1ebc911c884d7f27a64ba03c17306995a8e8e01e1b35d"
+  },
+  {
+    "english_term": "112f3ccb1b36a86a2b35cdf18599408a58b599e19f7073241d78ee588eb1e9fd",
+    "khmer_term": "297b75484c260d6cd3434d0c4c11a8aa136b95ec65cceec209c8f089527facaf"
+  },
+  {
+    "english_term": "5481198ef1204d8512b0bf2f8986eda3b0f4d7937e09143d3d7e0bcc9ea004ea",
+    "khmer_term": "5b474b2f33da9258ae1bcd51346a1ede340284834ce3d7f2760cb48a9a7238f2"
+  },
+  {
+    "english_term": "853e4aa912d92c9e2a2ff375f8cacf6a2064c9c8a334e49ef10a2e274043e29c",
+    "khmer_term": "0e3322c2db9e912c7cfc8aeb25ae32dbd470fa368feaac3fa0027d418550fdcb"
+  },
+  {
+    "english_term": "d7852cd0d2453e8c9b71b61cad6423697997b1e518b5de2493111524e294fa6c",
+    "khmer_term": "f9853a2a3cca7441841b73bf6ba8969102d002e8c10b735dacbc90c4b136931f"
+  },
+  {
+    "english_term": "fdbec1ef9f4e95baf994a1f2c494edc4dab6e1beb95f8b0d65f04563d38f8531",
+    "khmer_term": "0543e475f5d6b92f3b286c45101fae186eefbf0fb5e43ebd8eafeb68f4da168f"
+  },
+  {
+    "english_term": "d9aec7f3bb951f0e9099bb27eb7b6d47c41285b0577dfe6e249fdcaf6001d3e4",
+    "khmer_term": "ac82ab422e3ce43178770fff63c7e243527d1316b95176aceddcfbe846e01524"
+  },
+  {
+    "english_term": "d7cda0ca2c8586e512c425368fcb2bba62e81475bfceb4284f4906de8ec242bc",
+    "khmer_term": "42471d81a00d397aa8ca76cd5f5869b5744918659c13cc6e36780ff10a4df602"
+  },
+  {
+    "english_term": "d357175cfe8978d39b0f86552dcd9404973493e2816101d9ff6c05ee248ef6bd",
+    "khmer_term": "2cfea0cb2a7dd7eafa4f130cda5fbe5754ea8c75c00ff7c7eb57481a2dcb984e"
+  },
+  {
+    "english_term": "c3963aedaac6c83c04cf8fb997b479c61e66b3caeecfadd2f2d4bd5b0aef1778",
+    "khmer_term": "22dce89dbd948debead82df540f5f1ceadd872614d9fe925b9703699974bea1c"
+  },
+  {
+    "english_term": "9a523eddafc676649fd44537738e04aaccf09aabfe69137c9b77836497408ba5",
+    "khmer_term": "9c051372a6d5ca6ffe4c36e15d2ef55efb11a65ed0eba14a6aa8366c489b563d"
+  },
+  {
+    "english_term": "793f19d6a942764a306539199e07b29f904f4ea6d5fb5a120c8f1fe4008517f8",
+    "khmer_term": "532327478100e92d850cc22f8ca00c67b74f21a54d3262d5254d49af9b18f901"
+  },
+  {
+    "english_term": "dc45c84349f0388bcae40cd539c32c1d595d7bcd063b37ed447a39f2eef17e69",
+    "khmer_term": "13fa2f7b2e04e6fbd3b7c4b280525465d62545de8c148c908b9ffa2797bdb518"
+  },
+  {
+    "english_term": "aaaaa083e85ad436a781dce9b8cae187239b8e2e0287300368d1d6904a35c2cf",
+    "khmer_term": "265f3118b8603a50f0ed6876bbee199bb6b41e8cbf14adb9dce9be4d337f20fa"
+  },
+  {
+    "english_term": "81c0e4b8921625abdc4e61be49d2cb73bd412b419d8084dfe51ad47f760baf3c",
+    "khmer_term": "5cb2b419e87faab94ddc1ba46cd5ffc59dc27aaf857e706857b9893ebd5d098b"
+  },
+  {
+    "english_term": "64a8fa0146031da056fe1a41085787c41d28cdfc06c329ca782dfedaddfeee04",
+    "khmer_term": "331b34dde7dc709439aed21bf9447b051a86102d954aba4eaa83c750f83b47e4"
+  },
+  {
+    "english_term": "f4f16310049eda6083efa981f251896f2bd4c5f6d715114c4f73424b8406cc78",
+    "khmer_term": "9558b6ecefb28cc157386017f04628fa8e18178f615b724c57dd8b43d2b35002"
+  },
+  {
+    "english_term": "e501503aec81555141fbf086239b6ccaa872d1b0a54fb3ff7799c2903339e297",
+    "khmer_term": "276635f6482ff8264e314be73ea5a1cccd774893cb9ebd69577b5cb05f0a644e"
+  },
+  {
+    "english_term": "217273063e4dfa96807e26d512f16201b5ecc9b04b3bd969971e19bdbc0be02f",
+    "khmer_term": "25b86d50160b60c58f1bbafb970540012ea5831f7aad4d639b7b86c8bd328769"
+  },
+  {
+    "english_term": "18a37de0ec49dc6d39377fc4e3c3603bb114561a4bde70cda3e7f290ce03971d",
+    "khmer_term": "321430c5874d1827e5355f27c448cc43841990323f54c95170aa6fb6652aa602"
+  },
+  {
+    "english_term": "c78ffe19571018fbc93a78873969046fe1a80c3d21e5d20fbb2ca17c7c53a144",
+    "khmer_term": "2b8b439db98ce03dd20f29d7a60f87b07d47570c31bec542293d19cff5ee12a9"
+  },
+  {
+    "english_term": "72e9a59f5a1d6289dbacb35df897d6c007c55a27e77018455c37e7b372668475",
+    "khmer_term": "4f50c2dcfe48c4354f6fadeaa8f7f48dc236fb8038f3841c2809a8af96cc34b3"
+  },
+  {
+    "english_term": "90920d93e2c7e6323a947c6edb0e31a9702002e329af32a67fea53f221983cb0",
+    "khmer_term": "b593de7022f58e15fbcd42c96508dc6175bc23324555589f063768abd1f2075c"
+  },
+  {
+    "english_term": "47e7f049ef80ef0aaf582221c4f000185d7c9cde3b11d04d1020d18d9e2fe349",
+    "khmer_term": "ab4196014de5f386689f2bda59cb85e9fca3e76d838bb71b9e36aeeb58e4c5a7"
+  },
+  {
+    "english_term": "95117d1b691aeb96c5728fb7c6e4324760fdf104e11a66c5c2637c6f6e9065c4",
+    "khmer_term": "310b9a61fb09b390a9ad88f97088161629f118a6413d03d32a913423e5a7d6e0"
+  },
+  {
+    "english_term": "9b6e6a580c80c95f22c4dfb9d1bba5b7cc56e13b9966577365dc7cdf7a58d1fc",
+    "khmer_term": "dc57b3b68a46e79700dc5a40eff218d51c8c1f35066f5dde8ba1a195e41e7399"
+  },
+  {
+    "english_term": "5bfa3e2136dfc14aaed4c03f5e0f133dc1c8c12a560858fef49addfb209b630e",
+    "khmer_term": "caeda689a78841e1527c0a1d8d9b8501738ec330869c17b0514daad9e018b935"
+  },
+  {
+    "english_term": "a50cc21ffd572fea908a5ad0bb9227c2943c53d040b70c4bff241cc8276d930a",
+    "khmer_term": "a8e0958b8f2578acd8e9dfa2d0754a15ac141d98567ed9e078aa6f305d02bfc4"
+  },
+  {
+    "english_term": "813ded8f3548fdc4763f80a0aebf9e909b6cb12fef7bdbf9ddb2c59b54708fa8",
+    "khmer_term": "a503ade66aec72f4629fb71488a5a82baa0b7f74d86e7199f5dba34fd879cfae"
+  },
+  {
+    "english_term": "564f2df0782a1c18db7f03db8863bf9fc744decb2cd973e5729626986ff8fc2e",
+    "khmer_term": "fef0dd351932bb65c3120afc942ad403aedfc8965771b77ff7d57758e1215b80"
+  },
+  {
+    "english_term": "3c79361a8d021a547dfed8e22a617506d553bd78e07aa7e9ac163beb117c653a",
+    "khmer_term": "687c7473c536b8add78d3b7a6f2d6bfebb76001327a95e6e768558994e932fb5"
+  },
+  {
+    "english_term": "71856d74eac61575cbce7c052530e440e6f4d658f89812a59fc97b1f723ef0b8",
+    "khmer_term": "0c54afedf8b1bd42479e516fab467df5ef7438b3c0a028821e97c3776a006964"
+  },
+  {
+    "english_term": "162cc64ca1e4ffe9b9064bdd6f53f3d53f8a969199402bbfa61c749aa693ba43",
+    "khmer_term": "5c30275046af419ee7d74aa6e8e29dd324feddc2945ad696be9655089b20ffe8"
+  },
+  {
+    "english_term": "aef7de28d52977f1b5cd0fecfdc151717610adf41e0aa33b4d9f7522a43337ef",
+    "khmer_term": "19a3898a3951ebca65920bd2046de559a053ebf407519a30315f997e8a0d747a"
+  },
+  {
+    "english_term": "a155f07dcb03099918a781eebb08be5e504ee9f7e0d4851d0f0fbaafb1b3257a",
+    "khmer_term": "a74a936d2e9a8f542c32f22cda2ae4a2a9ba89cc3bae5fe0166e37e65812898b"
+  },
+  {
+    "english_term": "37cb6871a17b3f617e4445f8b33bd2043e90588f7fae3a54a3c034e826c1ab20",
+    "khmer_term": "c2327a54d5495823a802f8015aefd96cc97eb5d5904cc1a55a25d02727b17cde"
+  },
+  {
+    "english_term": "9e6ad6db21dbc4ccca3a5789b267e29fbacebb89091f6d55123a060ecd7c2cbe",
+    "khmer_term": "0fcd68dbb26a8941f6549d4804e8e5c9103c077524caa7731a7ff3c5fd851c85"
+  },
+  {
+    "english_term": "0f1b7ba573c83d034974c6fb7b71c5d7c4d74fe75532e3966025ef08b2058d0a",
+    "khmer_term": "cf0b23e23b87979f518d13f5cb2d0f7526e23dc57b8dd12998c7105a2c8b8290"
+  },
+  {
+    "english_term": "1055a58bec43ace2aae84715bde0ab884e073d701633bef8fbba328db2cca743",
+    "khmer_term": "fed03edd72c2665952e90b6eaf185f716e9ea167971967a68f89aa09c114a5fd"
+  },
+  {
+    "english_term": "9b3289a385a5301eea0c04a06fde98bc542113ab4ed24c47c9b9771984869a31",
+    "khmer_term": "3c2d21a317e4a700a6618f0ef36d123f5904972157aa4878fe9ec8d7bd0a90aa"
+  },
+  {
+    "english_term": "ba4520ab4f2581c26e9fcd36f55a8ca785970e3af0433646bbc2c1e798f294ee",
+    "khmer_term": "ca6fa3dcaab913f62a5b17b68ee253987edbe67ba7448b19fe181ce29c8ff0de"
+  },
+  {
+    "english_term": "dc93879e3107703be39f22eda9bbaa9be63e870d015debad40eb70ceedebc03e",
+    "khmer_term": "5fc08d8e7ca4950f7be38bb10fb207856dfdb3b884cdf196c38bffba44a021e6"
+  },
+  {
+    "english_term": "e34a879c8b8b67effd9e14878e1443829419cf2aba09a03252d2a4f137e49941",
+    "khmer_term": "5804186c24f3f516f522e35059258eb97b4f6049d0a9d6fcebe6506da7055a07"
+  },
+  {
+    "english_term": "acdd1e734125f341604c0efbabdcc4c4b0597e8f6235d66c2445edd1812838c1",
+    "khmer_term": "659d998f73a56a6ec18c1eaeab8f8cea2a78c99ed33de21a02defa8c2b324ea0"
+  },
+  {
+    "english_term": "14948f65ae440422b86184d9f8ac7a141c5c1871340c50ec3d27ddc067c91ffe",
+    "khmer_term": "3823ad63506d0c6278910bd03e34367ccc9052e3cad9228a377841e0b400300c"
+  },
+  {
+    "english_term": "4196b6290c585810d6674f0dad77fefa1430d63e2291160ef7d6195269c0619e",
+    "khmer_term": "2c7455e311ca9983a739d4c3e8ba4f17233c0d56917d51a2134312f3d4fa2103"
+  },
+  {
+    "english_term": "97b7e163b00ec0ef8fc7659940b6e050cc77468f0ea0cf583c1b8da98393d651",
+    "khmer_term": "e46909f0ee22798bf794c4162cb780443960f27213baa7213ced5b9a52efa6f4"
+  },
+  {
+    "english_term": "94adc696fd24e9fd67e83ba256a9f33bf1d7191d4a5e38ee8c69597cd89e4777",
+    "khmer_term": "93c00cfbed834376bfa10d0510c1c594c37f0c201487339665b6f661ca84b640"
+  },
+  {
+    "english_term": "2db2c27ad99b0f5161f33ddc95939ec40a5dd7b38c0b809d4b3b7bbb4da6d332",
+    "khmer_term": "a933fad25e1496b18e11e88077f0a9e37ba141b978a98e1b987646aab7f5f07c"
+  },
+  {
+    "english_term": "fa4b4c90adcaeda850b91a6f1bf07f69a184a38d88ee84d4f66c07786756228d",
+    "khmer_term": "9071ba50ce7b226e9c2a14772c0f1fc572db1320da0c9c6715944f8490ad4626"
+  },
+  {
+    "english_term": "649891a23a1c2f16bd1d4e051923188d9eafc52363f5f98df3bc8091766fdcc5",
+    "khmer_term": "be2a54b5a7cb0ac68ba6f12ce1724db8c0b61c89552736957cfa306a60774f68"
+  },
+  {
+    "english_term": "22fe715de228d4530d4a28af64b2293d573f7b97e7848e4445e5df43339fdb6a",
+    "khmer_term": "7103f9b83bc4090b686d082dc106e0c4f650ae151cd0c724e1aa69d992a4b4e2"
+  },
+  {
+    "english_term": "b5a229ac8becc6035511f432ca6018f581f0627233eada6ae8e12b505d44af7f",
+    "khmer_term": "6aaf2659b28b5cd02a388bbdada5f0cf1ca337d7d0598a1a1612ac061cba97e9"
+  },
+  {
+    "english_term": "885e2deda21a6c752f05e9c3ac95c90de31bce4b25ce38c330feee389906c83f",
+    "khmer_term": "7246c9c96bb5ca07a2a0feba2c0ad77f2e0efc5e37e3093332877f6eff73b71d"
+  },
+  {
+    "english_term": "8c4f117ec11ce6753eecf130ed7f735992dc2126aacd73bcc248e960f0fa6e4a",
+    "khmer_term": "67f60f64cae57215a60600eafd50a97fc9936c2284167497648f73bb50caaedf"
+  },
+  {
+    "english_term": "d9cbb938207e32e84f80a6d06ca974e6c90f20cd5c2842239d72eeb95bc1deaa",
+    "khmer_term": "1dbb45aa6d6631f48630e8d64b845a1c3482d16310b4ecfc3e99da553dc5fbf6"
+  },
+  {
+    "english_term": "337253f2e8d4d14af575667d2e74aba123c5098fcf998ed7a63f1abf90830f09",
+    "khmer_term": "57bbefb30c45716f4d42b7a2c5e92e0273bfcfdfda635dc9e3dce0f2ff37381e"
+  },
+  {
+    "english_term": "2f62e81d13f4db3ee974d5c5baad2d6abd7b9ec3a5034782d5b4ab0a929d1a11",
+    "khmer_term": "69ba8e2516707bfb4ab1a214ec1882ff8c0c8b52eb10ab7eb8b5d71f66fd2dca"
+  }
+]

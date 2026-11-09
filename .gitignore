@@ -1,0 +1,30 @@
+# Operating System & IDE Files
+.DS_Store
+._*
+thumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
+*.bak
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Video Outputs & Temporary Renders
+videos/demo/
+*.mp4
+*.webm
+*.avi
+
+# Scratch & Temporary Testing
+scratch/
+
+*credentials*.json
+*service_account*.json
+.credentials/
+*.pem
+*.key
+.env*
